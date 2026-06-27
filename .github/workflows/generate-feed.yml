@@ -28,6 +28,10 @@ jobs:
       - run: npm ci
       - uses: ./.github/actions/restore-feed-cache
       - run: npm run feed-generate
+      - name: Send Slack Notifications
+        run: npm run notify-slack
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
       - run: npm run site-prepare
       - run: npm run site-build
       - uses: ./.github/actions/save-feed-cache
