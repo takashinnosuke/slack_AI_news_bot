@@ -1,20 +1,19 @@
-const siteUrlStem = 'https://yamadashy.github.io/tech-blog-rss-feed';
+const siteUrlStem = 'https://takashinnosuke.github.io/slack_AI_news_bot';
 const siteUrl = `${siteUrlStem}/`;
 
 export default {
   // サイト設定
   siteUrl: `${siteUrl}`,
   siteUrlStem: siteUrlStem,
-  siteTitle: '企業テックブログRSS',
-  siteDescription:
-    '企業のテックブログの更新をまとめたRSSフィードを配信しています。記事を読んでその企業の技術・カルチャーを知れることや、質の高い技術情報を得られることを目的としています。',
+  siteTitle: 'AI・ロボティクス技術ニュース RSS',
+  siteDescription: 'AI・ロボティクスに関連するテック情報やニュースをまとめたRSSフィードを配信しています。',
 
   // フィード設定
-  feedTitle: '企業テックブログRSS',
-  feedDescription: '企業のテックブログの更新をまとめたRSSフィード',
+  feedTitle: 'AI・ロボティクス技術ニュース RSS',
+  feedDescription: 'AI・ロボティクスに関連するテック情報やニュースをまとめたRSSフィード',
   feedLanguage: 'ja',
-  feedCopyright: 'yamadashy/tech-blog-rss-feed',
-  feedGenerator: 'yamadashy/tech-blog-rss-feed',
+  feedCopyright: 'takashinnosuke/slack_AI_news_bot',
+  feedGenerator: 'takashinnosuke/slack_AI_news_bot',
   feedUrls: {
     atom: `${siteUrl}feeds/atom.xml`,
     rss: `${siteUrl}feeds/rss.xml`,
@@ -22,14 +21,14 @@ export default {
   },
 
   // リンク
-  author: 'yamadashy',
-  gitHubUserUrl: 'https://github.com/yamadashy/',
-  gitHubRepositoryUrl: 'https://github.com/yamadashy/tech-blog-rss-feed/',
-  xUserUrl: 'https://x.com/yamadashy',
+  author: 'takashinnosuke',
+  gitHubUserUrl: 'https://github.com/takashinnosuke/',
+  gitHubRepositoryUrl: 'https://github.com/takashinnosuke/slack_AI_news_bot/',
+  xUserUrl: 'https://x.com/takashinnosuke',
 
   // Google Analytics系。フォークして使う際は値を空にするか書き換えてください
-  googleSiteVerification: 'GPLvXv8kYtLMW912ZS54DKFEZL6ruOrjOFLdHVTo37o',
-  globalSiteTagKey: 'G-CNNNTL0NB3',
+  googleSiteVerification: '',
+  globalSiteTagKey: '',
 
   // フィードの取得などに使う UserAgent
   requestUserAgent: 'facebookexternalhit/1.1; yamadashy/tech-blog-rss-feed',

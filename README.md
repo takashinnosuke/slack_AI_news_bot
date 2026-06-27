@@ -1,29 +1,18 @@
-# <img src="src/site/images/icon-transparent.png" height=26> 企業テックブログRSS
-企業のテックブログの更新をまとめたRSSフィードを配信しています。
-記事を読んでその企業の技術・カルチャーを知れることや、質の高い技術情報を得られることを目的としています。
+# <img src="src/site/images/icon-transparent.png" height=26> AI・ロボティクス技術ニュース RSS
+AI・ロボティクスに関連するテック情報や主要なAI研究機関、ロボティクス専門誌の更新をまとめたRSSフィードを配信しています。
+最新の技術動向や研究情報をいち早くキャッチアップすることを目的としています。
 
-https://yamadashy.github.io/tech-blog-rss-feed/
+https://takashinnosuke.github.io/slack_AI_news_bot/
 
 
 独自のフィードを作って公開したい場合は自由にフォークしてください。
 
 ## サイト追加の方針
-企業のテックブログ（技術ブログ、エンジニアブログ）であれば、基本的には追加します。
-ただし、以下に該当するものは検討します。
-
-- その企業の取り組みでないものが多く投稿される可能性があるブログ
-  - テック系メディア
-  - Qiita Organization や Zenn Publication など、組織として投稿しているかの線引が曖昧なものは、投稿内容を見て検討します
-- 記事が自社製品の紹介のみ
-- 日本語以外の言語で書かれている記事が多いブログ
-
-逆に、以下はテックブログと判断して追加しています。
-
-- [Zenn](https://zenn.dev/), [note](https://note.com/), [Medium](https://medium.com/) などの企業系テックブログ
-- 企業系ブログのテクノロジーカテゴリ
+AI・ロボティクス分野に関わる主要な研究機関、企業テックブログ、および専門メディアのフィードを対象としています。
+たどり着いた一次情報のソースや、非常に質の高い技術情報のキャッチアップを重視して厳選しています。
 
 ## サイトの追加方法
-[src/resources/feed-info-list.ts](https://github.com/yamadashy/tech-blog-rss-feed/blob/main/src/resources/feed-info-list.ts) で管理しており、その一覧にない場合 issue を作っていただければ対応します。
+[src/resources/feed-info-list.ts](https://github.com/takashinnosuke/slack_AI_news_bot/blob/main/src/resources/feed-info-list.ts) で管理しています。
 
 ### AIエージェントによるフィードの追加
 
