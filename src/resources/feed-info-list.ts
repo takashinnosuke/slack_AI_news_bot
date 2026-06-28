@@ -148,7 +148,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['インターステラ', 'https://blog.interstellar.co.jp/feed/'],
   ['ウイングアーク１ｓｔ', 'https://note.wingarc.com/m/m1d39b8a5d9be/rss'],
   ['エキサイト', 'https://tech.excite.co.jp/feed'],
-  ['エクサウィザーズ', 'https://techblog.exawizards.com/feed'],
   ['エス・エム・エス', 'https://tech.bm-sms.co.jp/feed'],
   ['エニグモ', 'https://tech.enigmo.co.jp/feed'],
   ['エブリー', 'https://tech.every.tv/feed'],
@@ -185,7 +184,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['スタンバイ', 'https://techblog.stanby.co.jp/feed'],
   ['ストックマーク', 'https://tech.stockmark.co.jp/index.xml'],
   ['スパイダープラス', 'https://techblog.spiderplus.co.jp/feed'],
-  ['スペースマーケット', 'https://blog.spacemarket.com/category/code/feed/'],
   ['スマートキャンプ', 'https://tech.smartcamp.co.jp/feed'],
   ['タイマーズ', 'https://techblog.timers-inc.com/feed'],
   ['タイミー', 'https://tech.timee.co.jp/feed'],
@@ -194,18 +192,12 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['トヨクモ', 'https://tech.toyokumo.co.jp/feed'],
   ['トラストバンク', 'https://tech.trustbank.co.jp/feed'],
   ['トレタ', 'https://tech.toreta.in/feed'],
-  [
-    'ドクターズプライム',
-    'https://blog.drsprime.com/feed/category/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0',
-  ],
   ['ドリコム', 'https://tech.drecom.co.jp/feed/'],
   ['ドワンゴ', 'https://dwango.github.io/index.xml'],
   ['ドワンゴ教育サービス', 'https://blog.nnn.dev/feed'],
   ['ナレッジワーク', 'https://note.com/knowledgework/rss'],
   ['ニフティ', 'https://engineering.nifty.co.jp/feed'],
   ['ニフティライフスタイル', 'https://tech.niftylifestyle.co.jp/feed'],
-  ['ヌーラボ', 'https://nulab.com/ja/blog/categories/techblog/feed/'],
-  ['ハウテレビジョン', 'https://blog.howtelevision.co.jp/feed'],
   ['ハートビーツ', 'https://heartbeats.jp/hbblog/atom.xml'],
   ['バイセル', 'https://tech.buysell-technologies.com/feed'],
   ['パーソルキャリア', 'https://techtekt.persol-career.co.jp/feed'],
@@ -227,10 +219,8 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['マネックス', 'https://blog.tech-monex.com/feed'],
   ['マネーフォワード ', 'https://moneyforward-dev.jp/feed'],
   ['ミクシィ', 'https://mixi-developers.mixi.co.jp/feed'],
-  ['メディアドゥ', 'https://techdo.mediado.jp/feed'],
   ['メドピア', 'https://tech.medpeer.co.jp/feed'],
   ['メドレー', 'https://developer.medley.jp/rss.xml'],
-  ['メルカリ', 'https://engineering.mercari.com/blog/feed.xml'],
   ['モノグサ', 'https://tech.monoxer.com/feed'],
   ['モノタロウ', 'https://tech-blog.monotaro.com/feed'],
   ['モバイルファクトリー', 'https://tech.mobilefactory.jp/feed'],
@@ -264,7 +254,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['楽天コマース', 'https://commerce-engineer.rakuten.careers/feed/category/%E3%83%86%E3%83%83%E3%82%AF'],
   ['永和システムマネジメント', 'https://blog.agile.esm.co.jp/feed'],
   ['虎の穴', 'https://toranoana-lab.hatenablog.com/feed'],
-  ['遊舎工房', 'https://blog.yushakobo.jp/feed'],
   ['電通総研', 'https://tech.dentsusoken.com/feed'],
   ['食べチョク', 'https://tech.tabechoku.com/feed'],
   ['食べログ', 'https://tech-blog.tabelog.com/feed'],
@@ -377,6 +366,16 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
  * https://securesky-plus.com/engineerblog/
  * https://www.monolithsoft.co.jp/techblog/
  * ['リクルートテクノロジーズ', 'https://techblog.recruit.co.jp/rss.xml'],
+ *
+ * エラーのため一時除外
+ * ['エクサウィザーズ', 'https://techblog.exawizards.com/feed'],
+ * ['スペースマーケット', 'https://blog.spacemarket.com/category/code/feed/'],
+ * ['ドクターズプライム', 'https://blog.drsprime.com/feed/category/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0'],
+ * ['ヌーラボ', 'https://nulab.com/ja/blog/categories/techblog/feed/'],
+ * ['ハウテレビジョン', 'https://blog.howtelevision.co.jp/feed'],
+ * ['メディアドゥ', 'https://techdo.mediado.jp/feed'],
+ * ['メルカリ', 'https://engineering.mercari.com/blog/feed.xml'],
+ * ['遊舎工房', 'https://blog.yushakobo.jp/feed'],
  *
  * 日本語以外
  * https://medium.com/feed/mcdonalds-technical-blog
