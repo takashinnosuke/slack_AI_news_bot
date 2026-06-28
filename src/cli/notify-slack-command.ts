@@ -139,6 +139,7 @@ async function sendToSlack(article: Article, webhookUrl: string) {
   // Initialize flat cache
   const cache = flatCacheCreate({
     cacheId: 'slack-notifier-state',
+    cacheDir: '.cache',
   });
 
   const alreadyNotifiedUrls = cache.get<string[]>('notified-urls') || [];
