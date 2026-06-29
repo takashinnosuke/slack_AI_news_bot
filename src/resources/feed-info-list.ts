@@ -56,7 +56,6 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ['Gunosy', 'https://tech.gunosy.io/feed'],
   ['Gunosyデータ分析', 'https://data.gunosy.io/feed'],
   ['HRBrain', 'https://times.hrbrain.co.jp/feed'],
-  ['IEEE Spectrum', 'https://spectrum.ieee.org/feeds/feed.rss'],
   ['IIJ', 'https://eng-blog.iij.ad.jp/feed'],
   ['JCB', 'https://tech.jcblab.jp/feed'],
   ['JX通信社', 'https://tech.jxpress.net/feed'],
@@ -244,6 +243,7 @@ export const FEED_INFO_LIST: FeedInfo[] = createFeedInfoList([
   ],
   ['豆蔵デベロッパーサイト', 'https://developer.mamezou-tech.com/feed'],
   ['机器人大讲堂', 'https://www.leaderobot.com/news/type-list'],
+  ['IEEE Spectrum Video Friday', 'https://spectrum.ieee.org/tag/video-friday'],
 ]);
 
 /**

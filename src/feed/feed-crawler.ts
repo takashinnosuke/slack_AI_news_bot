@@ -181,6 +181,114 @@ export class FeedCrawler {
               return customFeed;
             }
 
+            if (feedInfo.url.includes('spectrum.ieee.org/tag/video-friday')) {
+              if (cachedData) {
+                logger.trace('[fetch-feed] cache hit', feedInfo.label, feedInfo.url);
+                return JSON.parse(cachedData) as CustomRssParserFeed;
+              }
+              const response = await fetch(feedInfo.url, {
+                headers: {
+                  'user-agent':
+                    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                },
+              });
+              if (!response.ok) {
+                throw new Error(`HTTP Error: ${response.status}`);
+              }
+              const html = await response.text();
+              const parts = html.split('<article elid="');
+              const items: CustomRssParserItem[] = [];
+
+              for (let i = 1; i < parts.length; i++) {
+                const part = parts[i];
+                const idMatch = part.match(/^(\d+)"/);
+                if (!idMatch) continue;
+                const postId = idMatch[1];
+                const articleContent = part.split('</article>')[0];
+
+                const linkMatches = articleContent.matchAll(/href="(https:\/\/spectrum\.ieee\.org\/[^"]+)"/g);
+                let articleLink = '';
+                let articleTitle = '';
+                for (const m of linkMatches) {
+                  const url = m[1];
+                  if (!url.includes('/topic/') && !url.includes('/tag/') && !url.includes('/type/')) {
+                    articleLink = url;
+                    const ariaLabelMatch = articleContent.match(new RegExp(`href="${url}"\\s+aria-label="([^"]+)"`));
+                    if (ariaLabelMatch) {
+                      articleTitle = ariaLabelMatch[1];
+                    }
+                    break;
+                  }
+                }
+
+                if (!articleLink) continue;
+
+                const scriptRegex = new RegExp(
+                  `<script[^>]*id="post-context-${postId}"[^>]*>([\\s\\S]*?)</script>`,
+                  'i',
+                );
+                const scriptMatch = html.match(scriptRegex);
+
+                let dateStr = '';
+                if (scriptMatch) {
+                  try {
+                    const context = JSON.parse(scriptMatch[1]);
+                    dateStr = context?.customDimensions?.['8'] || '';
+                  } catch (e) {}
+                }
+
+                if (!articleTitle) {
+                  const hMatch = articleContent.match(/<h[234][^>]*>([\s\S]*?)<\/h[234]>/i);
+                  if (hMatch) {
+                    articleTitle = hMatch[1].replace(/<[^>]*>/g, '').trim();
+                  }
+                }
+
+                const pMatch = articleContent.match(/<p[^>]*>([\s\S]*?)<\/p>/i);
+                const summary = pMatch ? pMatch[1].replace(/<[^>]*>/g, '').trim() : '';
+
+                let isoDate = new Date().toISOString();
+                if (dateStr) {
+                  const dateParts = dateStr.split('/');
+                  if (dateParts.length === 3) {
+                    const date = new Date(
+                      Date.UTC(
+                        Number.parseInt(dateParts[2]),
+                        Number.parseInt(dateParts[0]) - 1,
+                        Number.parseInt(dateParts[1]),
+                        12,
+                        0,
+                        0,
+                      ),
+                    );
+                    isoDate = date.toISOString();
+                  }
+                }
+
+                items.push({
+                  title: articleTitle || 'Video Friday',
+                  link: articleLink,
+                  isoDate,
+                  pubDate: isoDate,
+                  summary,
+                  content: summary,
+                  blogTitle: 'IEEE Spectrum Video Friday',
+                  blogLink: 'https://spectrum.ieee.org/tag/video-friday',
+                } as CustomRssParserItem);
+              }
+
+              const customFeed: CustomRssParserFeed = {
+                title: 'IEEE Spectrum Video Friday',
+                link: 'https://spectrum.ieee.org/tag/video-friday',
+                description: 'IEEE Spectrum Video Friday - Robotics Videos',
+                items,
+              };
+
+              feedCache.set(feedCacheKey, JSON.stringify(customFeed));
+              feedCache.save();
+              return customFeed;
+            }
+
             let feedData: string;
 
             if (cachedData) {
