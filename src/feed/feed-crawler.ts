@@ -118,6 +118,69 @@ export class FeedCrawler {
               ttl: constants.fetchedFeedCacheDurationInHours * 60 * 60 * 1000,
             });
             const cachedData = feedCache.get<string>(feedCacheKey);
+
+            if (feedInfo.url.includes('leaderobot.com')) {
+              if (cachedData) {
+                logger.trace('[fetch-feed] cache hit', feedInfo.label, feedInfo.url);
+                return JSON.parse(cachedData) as CustomRssParserFeed;
+              }
+              const response = await fetch(feedInfo.url, {
+                headers: {
+                  'user-agent':
+                    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                },
+              });
+              if (!response.ok) {
+                throw new Error(`HTTP Error: ${response.status}`);
+              }
+              const html = await response.text();
+              const nextDataMatch = html.match(
+                /<script id="__NEXT_DATA__" type="application\/json">([\s\S]*?)<\/script>/,
+              );
+              if (!nextDataMatch) {
+                throw new Error('No __NEXT_DATA__ script found');
+              }
+              const json = JSON.parse(nextDataMatch[1]);
+              const fallback = json.props?.pageProps?.fallback;
+              if (!fallback) {
+                throw new Error('No fallback data found');
+              }
+              const newsListKey = Object.keys(fallback).find((key) => key.includes('newsList'));
+              if (!newsListKey) {
+                throw new Error('No newsList key found');
+              }
+              const newsList = fallback[newsListKey];
+
+              const customFeed: CustomRssParserFeed = {
+                title: '机器人大讲堂',
+                link: 'https://www.leaderobot.com/news/type-list',
+                description: '机器人大讲堂 - 媒体资讯',
+                items: (newsList.items || []).map(
+                  (item: { id: number; title: string; createTime?: string; description?: string }) => {
+                    let isoDate = new Date().toISOString();
+                    if (item.createTime) {
+                      const formattedTime = `${item.createTime.replace(' ', 'T')}+08:00`;
+                      isoDate = new Date(formattedTime).toISOString();
+                    }
+                    return {
+                      title: item.title,
+                      link: `https://www.leaderobot.com/news/${item.id}`,
+                      isoDate: isoDate,
+                      pubDate: isoDate,
+                      summary: item.description || '',
+                      content: item.description || '',
+                      blogTitle: '机器人大讲堂',
+                      blogLink: 'https://www.leaderobot.com/news/type-list',
+                    };
+                  },
+                ),
+              };
+
+              feedCache.set(feedCacheKey, JSON.stringify(customFeed));
+              feedCache.save();
+              return customFeed;
+            }
+
             let feedData: string;
 
             if (cachedData) {
