@@ -145,14 +145,11 @@ async function sendToSlack(article: Article, webhookUrl: string) {
   const alreadyNotifiedUrls = cache.get<string[]>('notified-urls') || [];
   const notifiedUrlSet = new Set(alreadyNotifiedUrls);
 
-  // If first run, initialize cache with all current articles and exit
-  if (alreadyNotifiedUrls.length === 0) {
-    logger.info('Slack Notifier: First run detected. Initializing cache with current articles.');
-    const allUrls = allArticles.map((a) => a.link);
-    cache.set('notified-urls', allUrls);
-    cache.save();
-    logger.info('Slack Notifier: Cache initialized successfully.');
-    process.exit(0);
+  // On first run, post only the latest few articles so the notification path can be verified,
+  // then treat every current article as notified (see below) to avoid flooding with the backlog.
+  const isFirstRun = alreadyNotifiedUrls.length === 0;
+  if (isFirstRun) {
+    logger.info('Slack Notifier: First run detected. Posting the latest articles and initializing cache.');
   }
 
   // Find new articles
@@ -164,28 +161,42 @@ async function sendToSlack(article: Article, webhookUrl: string) {
 
   logger.info(`Slack Notifier: Found ${newArticles.length} new articles.`);
 
-  // Post in chronological order (oldest new article first)
-  newArticles.reverse();
-
   // Limit to prevent rate limiting and channel flood
   const maxPostsPerRun = 10;
-  const articlesToPost = newArticles.slice(0, maxPostsPerRun);
+  const maxPostsOnFirstRun = 5;
+  const postLimit = isFirstRun ? maxPostsOnFirstRun : maxPostsPerRun;
 
-  if (newArticles.length > maxPostsPerRun) {
-    logger.warn(
-      `Slack Notifier: Capping notifications at ${maxPostsPerRun} (out of ${newArticles.length} new articles).`,
-    );
+  // Post in chronological order (oldest posted article first).
+  // On first run, take the newest articles; otherwise take the oldest unnotified ones.
+  const articlesToPost = isFirstRun
+    ? newArticles.slice(0, postLimit).reverse()
+    : [...newArticles].reverse().slice(0, postLimit);
+
+  if (newArticles.length > postLimit) {
+    logger.warn(`Slack Notifier: Capping notifications at ${postLimit} (out of ${newArticles.length} new articles).`);
   }
 
   for (const article of articlesToPost) {
     try {
       logger.info(`Slack Notifier: Sending "${article.title}" from "${article.blogTitle}"`);
       await sendToSlack(article, webhookUrl);
+      notifiedUrlSet.add(article.link);
       alreadyNotifiedUrls.push(article.link);
       await sleep(1000); // Sleep 1 second to respect Slack's rate limits
     } catch (error) {
       logger.error(`Slack Notifier: Failed to send article "${article.title}"`, error);
     }
+  }
+
+  // On first run, mark every current article as notified so the backlog is not posted later
+  if (isFirstRun) {
+    for (const article of allArticles) {
+      if (!notifiedUrlSet.has(article.link)) {
+        notifiedUrlSet.add(article.link);
+        alreadyNotifiedUrls.push(article.link);
+      }
+    }
+    logger.info('Slack Notifier: Cache initialized successfully.');
   }
 
   // Keep cache bounded
