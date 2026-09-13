@@ -1,0 +1,730 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AI・ロボティクス技術ニュース RSS",
+    "home_page_url": "https://takashinnosuke.github.io/slack_AI_news_bot/",
+    "feed_url": "https://takashinnosuke.github.io/slack_AI_news_bot/feeds/feed.json",
+    "description": "AI・ロボティクスに関連するテック情報やニュースをまとめたRSSフィード",
+    "icon": "https://takashinnosuke.github.io/slack_AI_news_bot/images/icon.png",
+    "items": [
+        {
+            "id": "https://physicalainews.jp/news/hyonde-2029-nen-ni-jishakaihatsu-no-unten-shien-shisutemu-to-1df00f",
+            "content_html": "ヒョンデ・モーターが2029年に社内開発の運転支援システムを投入するとReutersが報じた。供給網や制御ソフトを外部依存から切り替える動きとみられるが、対象車種や機能範囲は記事抜粋では確認できない。量産時期は示された一方で、開発体制や搭載計画の詳細はまだ限定的である。",
+            "url": "https://physicalainews.jp/news/hyonde-2029-nen-ni-jishakaihatsu-no-unten-shien-shisutemu-to-1df00f",
+            "title": "ヒョンデ、2029年に自社開発の運転支援システム投入へ | 日本フィジカルAI新聞",
+            "summary": "ヒョンデ・モーターが2029年に社内開発の運転支援システムを投入するとReutersが報じた。供給網や制御ソフトを外部依存から切り替える動きとみられるが、対象車種や機能範囲は記事抜粋では確認できない。量産時期は示された一方で、開発体制や搭載計画の詳細はまだ限定的である。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/hyonde-2029-nen-ni-jishakaihatsu-no-unten-shien-shisutemu-to-1df00f/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-13T03:46:33.000Z",
+            "date_published": "2026-09-13T03:46:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ヒョンデ、2029年に自社開発の運転支援システム投入へ",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/sankeishinbun-kaigo-robo-heno-nou-ouyoukenkyuu-wo-houdou-tan-64c0ca",
+            "content_html": "産経新聞は、国立精神・神経医療研究センターと早稲田大の研究チームが、介護ロボットに脳の仕組みを応用した人工知能を開発したと報じた。",
+            "url": "https://physicalainews.jp/news/sankeishinbun-kaigo-robo-heno-nou-ouyoukenkyuu-wo-houdou-tan-64c0ca",
+            "title": "介護ロボ向けの脳応用AIを産経新聞が紹介 | 日本フィジカルAI新聞",
+            "summary": "産経新聞は、国立精神・神経医療研究センターと早稲田大の研究チームが、介護ロボットに脳の仕組みを応用した人工知能を開発したと報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/sankeishinbun-kaigo-robo-heno-nou-ouyoukenkyuu-wo-houdou-tan-64c0ca/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-13T01:53:27.000Z",
+            "date_published": "2026-09-13T01:53:27.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "介護ロボ向けの脳応用AIを産経新聞が紹介",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/ofweek-ga-gu-mi-chinou-no-katei-shinshutsu-womeguru-dainou-t-dd74a0",
+            "content_html": "OFweek智能家居網は、具身智能が家庭に入る動きをめぐり、「大脳」と「場景」の路線を論じる記事を掲載した。",
+            "url": "https://physicalainews.jp/news/ofweek-ga-gu-mi-chinou-no-katei-shinshutsu-womeguru-dainou-t-dd74a0",
+            "title": "OFweek、具身智能の家庭進出を巡る記事を掲載 | 日本フィジカルAI新聞",
+            "summary": "OFweek智能家居網は、具身智能が家庭に入る動きをめぐり、「大脳」と「場景」の路線を論じる記事を掲載した。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/ofweek-ga-gu-mi-chinou-no-katei-shinshutsu-womeguru-dainou-t-dd74a0/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T22:43:18.000Z",
+            "date_published": "2026-09-12T22:43:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "OFweek、具身智能の家庭進出を巡る記事を掲載",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/sekai-ningyou-kiki-nin-undoukai-muke-de-shaku-soku-tsuika-bo-9b159a",
+            "content_html": "cn.agilink-ai.comは、北京で開かれる第2回世界人形ロボット運動会に向けて、臨界点の靈巧手借測計画の追加募集を伝えた。",
+            "url": "https://physicalainews.jp/news/sekai-ningyou-kiki-nin-undoukai-muke-de-shaku-soku-tsuika-bo-9b159a",
+            "title": "人形ロボット大会向けの借測計画、追加募集 | 日本フィジカルAI新聞",
+            "summary": "cn.agilink-ai.comは、北京で開かれる第2回世界人形ロボット運動会に向けて、臨界点の靈巧手借測計画の追加募集を伝えた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/sekai-ningyou-kiki-nin-undoukai-muke-de-shaku-soku-tsuika-bo-9b159a/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T22:42:39.000Z",
+            "date_published": "2026-09-12T22:42:39.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "人形ロボット大会向けの借測計画、追加募集",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/ten-project-eureka-no-kaihatsusha-boshuu-wo-kaishi-omnihand-74513f",
+            "content_html": "临界点は、OmniHand霊巧手を軸にした長期エコシステム計画「Project Eureka」の開発者募集を開始した。計画は資料公開、講座、実訓、挑戦賽、デモ共創、産学研連携を含む。狙いは、想法を検証可能で再利用可能なロボットの巧緻操作アプリへつなぐことである。",
+            "url": "https://physicalainews.jp/news/ten-project-eureka-no-kaihatsusha-boshuu-wo-kaishi-omnihand-74513f",
+            "title": "临界点、Project Eurekaの開発者募集を開始　OmniHand向けエコシステムを拡張 | 日本フィジカルAI新聞",
+            "summary": "临界点は、OmniHand霊巧手を軸にした長期エコシステム計画「Project Eureka」の開発者募集を開始した。計画は資料公開、講座、実訓、挑戦賽、デモ共創、産学研連携を含む。狙いは、想法を検証可能で再利用可能なロボットの巧緻操作アプリへつなぐことである。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/ten-project-eureka-no-kaihatsusha-boshuu-wo-kaishi-omnihand-74513f/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T22:42:28.000Z",
+            "date_published": "2026-09-12T22:42:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "临界点、Project Eurekaの開発者募集を開始　OmniHand向けエコシステムを拡張",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/wayve-to-uber-eikoku-de-jidouunten-raidoshiea-wo-kaishi-29e794",
+            "content_html": "WayveとUberは2026年9月3日、ロンドンで英国初の自動運転ライドシェアサービスを始めた。車両はフォード製EV「マスタング・マッハE」で、Wayve AI Driverを搭載する。当面はTfL認定の運転員が同乗する監視付き運用で、Uberアプリ経由で呼ばれた一部配車に自動運転車が割り当てられる。Wayveの技術はロンドンで2018年から訓練されてきたとされ、今回の開始はその実地投入に当たる。",
+            "url": "https://physicalainews.jp/news/wayve-to-uber-eikoku-de-jidouunten-raidoshiea-wo-kaishi-29e794",
+            "title": "WayveとUber、ロンドンで英国初の自動運転ライドシェアを開始 | 日本フィジカルAI新聞",
+            "summary": "WayveとUberは2026年9月3日、ロンドンで英国初の自動運転ライドシェアサービスを始めた。車両はフォード製EV「マスタング・マッハE」で、Wayve AI Driverを搭載する。当面はTfL認定の運転員が同乗する監視付き運用で、Uberアプリ経由で呼ばれた一部配車に自動運転車が割り当てられる。Wayveの技術はロンドンで2018年から訓練されてきたとされ、今回の開始はその実地投入に当たる",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/wayve-to-uber-eikoku-de-jidouunten-raidoshiea-wo-kaishi-29e794/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T22:41:27.000Z",
+            "date_published": "2026-09-12T22:41:27.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "WayveとUber、ロンドンで英国初の自動運転ライドシェアを開始",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/agrist-hokkaidou-3-kyoten-de-ai-tousai-jidou-shuukaku-robott-fb98bc",
+            "content_html": "prtimes.jpは2026年9月10日、「AGRIST、北海道3拠点でAI搭載自動収穫ロボットをレンタル 深川市内小学校で遠隔操作体験も」と報じた。",
+            "url": "https://physicalainews.jp/news/agrist-hokkaidou-3-kyoten-de-ai-tousai-jidou-shuukaku-robott-fb98bc",
+            "title": "AGRIST、北海道3拠点でAI搭載自動収穫ロボットをレンタル　深川市内小学校で遠隔操作体験も | 日本フィジカルAI新聞",
+            "summary": "prtimes.jpは2026年9月10日、「AGRIST、北海道3拠点でAI搭載自動収穫ロボットをレンタル 深川市内小学校で遠隔操作体験も」と報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/agrist-hokkaidou-3-kyoten-de-ai-tousai-jidou-shuukaku-robott-fb98bc/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T22:41:23.000Z",
+            "date_published": "2026-09-12T22:41:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "AGRIST、北海道3拠点でAI搭載自動収穫ロボットをレンタル　深川市内小学校で遠隔操作体験も",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/ten-sekai-ningyou-kiki-nin-undoukai-de-7-kin-4-gin-3-dou-ryo-42df4d",
+            "content_html": "cn.agilink-ai.comは、臨界点の量産版OmniHandが8種目に出場し、7金4銀3銅を獲得したと報じた。",
+            "url": "https://physicalainews.jp/news/ten-sekai-ningyou-kiki-nin-undoukai-de-7-kin-4-gin-3-dou-ryo-42df4d",
+            "title": "临界点、8種目で7金4銀3銅 | 日本フィジカルAI新聞",
+            "summary": "cn.agilink-ai.comは、臨界点の量産版OmniHandが8種目に出場し、7金4銀3銅を獲得したと報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/ten-sekai-ningyou-kiki-nin-undoukai-de-7-kin-4-gin-3-dou-ryo-42df4d/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T22:40:29.000Z",
+            "date_published": "2026-09-12T22:40:29.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "临界点、8種目で7金4銀3銅",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/rinkaiten-waic-2026-de-rei-koushu-no-seihin-gun-wo-koukai-om-66046c",
+            "content_html": "cn.agilink-ai.comは2026年7月7日、「臨界点、WAIC 2026で霊巧手の製品群を公開 OmniHand 3は累計5500台超」と報じた。",
+            "url": "https://physicalainews.jp/news/rinkaiten-waic-2026-de-rei-koushu-no-seihin-gun-wo-koukai-om-66046c",
+            "title": "臨界点、WAIC 2026で霊巧手の製品群を公開　OmniHand 3は累計5500台超 | 日本フィジカルAI新聞",
+            "summary": "cn.agilink-ai.comは2026年7月7日、「臨界点、WAIC 2026で霊巧手の製品群を公開 OmniHand 3は累計5500台超」と報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/rinkaiten-waic-2026-de-rei-koushu-no-seihin-gun-wo-koukai-om-66046c/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T22:40:14.000Z",
+            "date_published": "2026-09-12T22:40:14.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "臨界点、WAIC 2026で霊巧手の製品群を公開　OmniHand 3は累計5500台超",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/hitomairu-trc-kounai-no-jidouunten-yoko-mochi-yusou-jisshou-650a6c",
+            "content_html": "prtimes.jpは2026年9月4日、「ひとまいる、TRC構内の自動運転横持ち輸送実証が国交省事業に採択」と報じた。",
+            "url": "https://physicalainews.jp/news/hitomairu-trc-kounai-no-jidouunten-yoko-mochi-yusou-jisshou-650a6c",
+            "title": "ひとまいる、TRC構内の自動運転横持ち輸送実証が国交省事業に採択 | 日本フィジカルAI新聞",
+            "summary": "prtimes.jpは2026年9月4日、「ひとまいる、TRC構内の自動運転横持ち輸送実証が国交省事業に採択」と報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/hitomairu-trc-kounai-no-jidouunten-yoko-mochi-yusou-jisshou-650a6c/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T19:23:21.000Z",
+            "date_published": "2026-09-12T19:23:21.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ひとまいる、TRC構内の自動運転横持ち輸送実証が国交省事業に採択",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/nihonkeizaishinbun-yunitsurii-ceo-ou-kyou-kyou-shi-no-intaby-b3b82a",
+            "content_html": "日本経済新聞が、ヒト型ロボット「ユニツリー」のCEO、王興興（ワン・シンシン）氏のインタビューを報じた。発言の詳細や論旨は原典に委ねられているが、記事は同氏を「夢より課題」を語る現実派として描いている。本稿では、公開情報で確認できる範囲に限って、同社とヒト型ロボット市場の位置づけを整理する。",
+            "url": "https://physicalainews.jp/news/nihonkeizaishinbun-yunitsurii-ceo-ou-kyou-kyou-shi-no-intaby-b3b82a",
+            "title": "日本経済新聞、ユニツリーCEO王興興氏のインタビューを報道 | 日本フィジカルAI新聞",
+            "summary": "日本経済新聞が、ヒト型ロボット「ユニツリー」のCEO、王興興（ワン・シンシン）氏のインタビューを報じた。発言の詳細や論旨は原典に委ねられているが、記事は同氏を「夢より課題」を語る現実派として描いている。本稿では、公開情報で確認できる範囲に限って、同社とヒト型ロボット市場の位置づけを整理する。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/nihonkeizaishinbun-yunitsurii-ceo-ou-kyou-kyou-shi-no-intaby-b3b82a/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T19:19:32.000Z",
+            "date_published": "2026-09-12T19:19:32.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "日本経済新聞、ユニツリーCEO王興興氏のインタビューを報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/muso-action-geniac-saitaku-de-butsuryuu-souko-no-pikkingu-ki-8ae4cb",
+            "content_html": "prtimes.jpは2026年9月9日、「Muso Action、GENIAC採択で物流倉庫のピッキング基盤モデルを開発・実証へ」と報じた。",
+            "url": "https://physicalainews.jp/news/muso-action-geniac-saitaku-de-butsuryuu-souko-no-pikkingu-ki-8ae4cb",
+            "title": "Muso Action、GENIAC採択で物流倉庫のピッキング基盤モデルを開発・実証へ | 日本フィジカルAI新聞",
+            "summary": "prtimes.jpは2026年9月9日、「Muso Action、GENIAC採択で物流倉庫のピッキング基盤モデルを開発・実証へ」と報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/muso-action-geniac-saitaku-de-butsuryuu-souko-no-pikkingu-ki-8ae4cb/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T19:18:30.000Z",
+            "date_published": "2026-09-12T19:18:30.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Muso Action、GENIAC採択で物流倉庫のピッキング基盤モデルを開発・実証へ",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/the-robot-report-ultrasense-no-shokkaku-ai-ni-kansu-ru-ronko-f2743a",
+            "content_html": "The Robot Reportは、フィジカルAI向けの触覚知能に超音波を用いる考え方を紹介する記事を掲載した。",
+            "url": "https://physicalainews.jp/news/the-robot-report-ultrasense-no-shokkaku-ai-ni-kansu-ru-ronko-f2743a",
+            "title": "超音波で触覚を支える考え方を紹介 | 日本フィジカルAI新聞",
+            "summary": "The Robot Reportは、フィジカルAI向けの触覚知能に超音波を用いる考え方を紹介する記事を掲載した。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/the-robot-report-ultrasense-no-shokkaku-ai-ni-kansu-ru-ronko-f2743a/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T18:17:17.000Z",
+            "date_published": "2026-09-12T18:17:17.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "超音波で触覚を支える考え方を紹介",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/mikkuuea-multicoreware-to-adas-saitekika-to-ejji-ai-de-mou-t-ba37cd",
+            "content_html": "prtimes.jpは2026年9月9日、「ミックウェア、MulticoreWareとADAS最適化とエッジAIでMoU締結」と報じた。",
+            "url": "https://physicalainews.jp/news/mikkuuea-multicoreware-to-adas-saitekika-to-ejji-ai-de-mou-t-ba37cd",
+            "title": "ミックウェア、MulticoreWareとADAS最適化とエッジAIでMoU締結 | 日本フィジカルAI新聞",
+            "summary": "prtimes.jpは2026年9月9日、「ミックウェア、MulticoreWareとADAS最適化とエッジAIでMoU締結」と報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/mikkuuea-multicoreware-to-adas-saitekika-to-ejji-ai-de-mou-t-ba37cd/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T16:17:36.000Z",
+            "date_published": "2026-09-12T16:17:36.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ミックウェア、MulticoreWareとADAS最適化とエッジAIでMoU締結",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/kabu-tan-fijikaru-ai-to-robotto-buhin-6-meigara-wo-tokushuu-d6b7c4",
+            "content_html": "株探ニュースは、フィジカルAIの拡大を見据えたロボット部品関連の6銘柄を取り上げる特集記事を掲載した。記事では、ロボットの動きを支える精密減速機やモーター、ベアリング、センサー、ケーブルなどの部材に注目している。",
+            "url": "https://physicalainews.jp/news/kabu-tan-fijikaru-ai-to-robotto-buhin-6-meigara-wo-tokushuu-d6b7c4",
+            "title": "株探がフィジカルAIとロボット部品6銘柄を特集 | 日本フィジカルAI新聞",
+            "summary": "株探ニュースは、フィジカルAIの拡大を見据えたロボット部品関連の6銘柄を取り上げる特集記事を掲載した。記事では、ロボットの動きを支える精密減速機やモーター、ベアリング、センサー、ケーブルなどの部材に注目している。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/kabu-tan-fijikaru-ai-to-robotto-buhin-6-meigara-wo-tokushuu-d6b7c4/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T13:17:15.000Z",
+            "date_published": "2026-09-12T13:17:15.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "株探がフィジカルAIとロボット部品6銘柄を特集",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/pndbotics-tomohiro-kai-de-koujou-muke-ningyou-robotto-no-jit-3eac22",
+            "content_html": "leaderobot.comは、PNDboticsが第十六回智慧城市与智能经済博覧会で工場向けの展示を行うと報じました。展示名は「FutureFactory」で、実世界での活用をテーマにしています。",
+            "url": "https://physicalainews.jp/news/pndbotics-tomohiro-kai-de-koujou-muke-ningyou-robotto-no-jit-3eac22",
+            "title": "PNDbotics、智博会で工場向け人形ロボットを展示 | 日本フィジカルAI新聞",
+            "summary": "leaderobot.comは、PNDboticsが第十六回智慧城市与智能经済博覧会で工場向けの展示を行うと報じました。展示名は「FutureFactory」で、実世界での活用をテーマにしています。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/pndbotics-tomohiro-kai-de-koujou-muke-ningyou-robotto-no-jit-3eac22/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T13:06:55.000Z",
+            "date_published": "2026-09-12T13:06:55.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "PNDbotics、智博会で工場向け人形ロボットを展示",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/toukyoudaigaku-no-musashi-humanoid-teisoku-de-jouyousha-wo-u-a8c3fd",
+            "content_html": "東京大学のヒューマノイド「Musashi」が、一般的な自動車のハンドル、ペダル、ウインカーを物理的に操作して運転するデモを行った。論文は、車両側に自動運転用ハードウエアを直接載せるのではなく、汎用ヒューマノイドが人間向けの操作系を扱えるかを確かめる研究だとみられる。一方で、提示された内容は低速の研究デモにとどまり、実運用の運転システムとは距離がある。",
+            "url": "https://physicalainews.jp/news/toukyoudaigaku-no-musashi-humanoid-teisoku-de-jouyousha-wo-u-a8c3fd",
+            "title": "東京大学のヒューマノイド「Musashi」、低速で自動車を運転するデモを実施 | 日本フィジカルAI新聞",
+            "summary": "東京大学のヒューマノイド「Musashi」が、一般的な自動車のハンドル、ペダル、ウインカーを物理的に操作して運転するデモを行った。論文は、車両側に自動運転用ハードウエアを直接載せるのではなく、汎用ヒューマノイドが人間向けの操作系を扱えるかを確かめる研究だとみられる。一方で、提示された内容は低速の研究デモにとどまり、実運用の運転システムとは距離がある。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/toukyoudaigaku-no-musashi-humanoid-teisoku-de-jouyousha-wo-u-a8c3fd/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T11:48:13.000Z",
+            "date_published": "2026-09-12T11:48:13.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "東京大学のヒューマノイド「Musashi」、低速で自動車を運転するデモを実施",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/toshiba-fukushima-muke-robotto-wo-kaihatsu-to-houdou-54c037",
+            "content_html": "designnews.comが2012-12-18、Toshibaが福島向けロボットを開発したと報じた。原典は報道ベースで、詳細仕様や性能の中身は十分に示されていない。本件は、原子力災害対応ロボットという限定用途の開発が、当時の日本企業のロボット開発をどう位置づけるかが焦点である。",
+            "url": "https://physicalainews.jp/news/toshiba-fukushima-muke-robotto-wo-kaihatsu-to-houdou-54c037",
+            "title": "Toshiba、福島向けロボットを開発と報道 | 日本フィジカルAI新聞",
+            "summary": "designnews.comが2012-12-18、Toshibaが福島向けロボットを開発したと報じた。原典は報道ベースで、詳細仕様や性能の中身は十分に示されていない。本件は、原子力災害対応ロボットという限定用途の開発が、当時の日本企業のロボット開発をどう位置づけるかが焦点である。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/toshiba-fukushima-muke-robotto-wo-kaihatsu-to-houdou-54c037/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T11:47:00.000Z",
+            "date_published": "2026-09-12T11:47:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Toshiba、福島向けロボットを開発と報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/ifr-fcc-no-gaikokusei-sentan-robotto-kisei-wo-houkoku-a50531",
+            "content_html": "IFRは、米連邦通信委員会（FCC）が外国製の先進ロボット機器をCovered Listに追加した動きを注視している。",
+            "url": "https://physicalainews.jp/news/ifr-fcc-no-gaikokusei-sentan-robotto-kisei-wo-houkoku-a50531",
+            "title": "IFR、FCCの外国製先進ロボット規制を監視　米国で新たな認可・輸入制限 | 日本フィジカルAI新聞",
+            "summary": "IFRは、米連邦通信委員会（FCC）が外国製の先進ロボット機器をCovered Listに追加した動きを注視している。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/ifr-fcc-no-gaikokusei-sentan-robotto-kisei-wo-houkoku-a50531/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T10:23:39.000Z",
+            "date_published": "2026-09-12T10:23:39.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "IFR、FCCの外国製先進ロボット規制を監視　米国で新たな認可・輸入制限",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/lg-souru-no-data-factory-de-nvidia-to-roboteikusu-kyougyou-w-7f3297",
+            "content_html": "lg.comは2026年8月18日、「LG、ソウルのData FactoryでNVIDIAとロボティクス協業を加速」と報じた。",
+            "url": "https://physicalainews.jp/news/lg-souru-no-data-factory-de-nvidia-to-roboteikusu-kyougyou-w-7f3297",
+            "title": "LG、ソウルのData FactoryでNVIDIAとロボティクス協業を加速 | 日本フィジカルAI新聞",
+            "summary": "lg.comは2026年8月18日、「LG、ソウルのData FactoryでNVIDIAとロボティクス協業を加速」と報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/lg-souru-no-data-factory-de-nvidia-to-roboteikusu-kyougyou-w-7f3297/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T09:47:16.000Z",
+            "date_published": "2026-09-12T09:47:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "LG、ソウルのData FactoryでNVIDIAとロボティクス協業を加速",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/forbes-com-a2rl-ga-oushuu-jidousha-meekaa-ni-atae-ru-eikyou-174daf",
+            "content_html": "forbes.comが2026年9月12日、A2RLをめぐる欧州自動車メーカーへの示唆を論じた。",
+            "url": "https://physicalainews.jp/news/forbes-com-a2rl-ga-oushuu-jidousha-meekaa-ni-atae-ru-eikyou-174daf",
+            "title": "forbes.com、A2RLが欧州自動車メーカーに与える影響を論じる記事を掲載 | 日本フィジカルAI新聞",
+            "summary": "forbes.comが2026年9月12日、A2RLをめぐる欧州自動車メーカーへの示唆を論じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/forbes-com-a2rl-ga-oushuu-jidousha-meekaa-ni-atae-ru-eikyou-174daf/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T09:07:51.000Z",
+            "date_published": "2026-09-12T09:07:51.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "forbes.com、A2RLが欧州自動車メーカーに与える影響を論じる記事を掲載",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/gmo-internet-group-hyuumanoido-muke-no-shuuri-sharyou-wo-kou-57a027",
+            "content_html": "GMOインターネットグループが、東京で人型ロボットの修理を支援する車両を公開したとhumanoid.guideが報じた。",
+            "url": "https://physicalainews.jp/news/gmo-internet-group-hyuumanoido-muke-no-shuuri-sharyou-wo-kou-57a027",
+            "title": "GMO、人型ロボット修理用の車両を公開 | 日本フィジカルAI新聞",
+            "summary": "GMOインターネットグループが、東京で人型ロボットの修理を支援する車両を公開したとhumanoid.guideが報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/gmo-internet-group-hyuumanoido-muke-no-shuuri-sharyou-wo-kou-57a027/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T08:41:44.000Z",
+            "date_published": "2026-09-12T08:41:44.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GMO、人型ロボット修理用の車両を公開",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/design-news-oopunsoosu-kiban-to-ai-jidouka-de-robotto-no-hen-3bead2",
+            "content_html": "Design Newsが、オープンソース基盤とAI自動化がロボットを変えつつあるとする記事を掲載した。主ソースは二次報道であり、発言内容の全文や個別事実の一次確認はできない。詳細は原典を参照すべきで、本文では記事の扱いと論点の位置づけを確認する。",
+            "url": "https://physicalainews.jp/news/design-news-oopunsoosu-kiban-to-ai-jidouka-de-robotto-no-hen-3bead2",
+            "title": "Design News、オープンソース基盤とAI自動化でロボットの変化を論じる | 日本フィジカルAI新聞",
+            "summary": "Design Newsが、オープンソース基盤とAI自動化がロボットを変えつつあるとする記事を掲載した。主ソースは二次報道であり、発言内容の全文や個別事実の一次確認はできない。詳細は原典を参照すべきで、本文では記事の扱いと論点の位置づけを確認する。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/design-news-oopunsoosu-kiban-to-ai-jidouka-de-robotto-no-hen-3bead2/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T08:40:36.000Z",
+            "date_published": "2026-09-12T08:40:36.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Design News、オープンソース基盤とAI自動化でロボットの変化を論じる",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/design-news-heartlander-surgical-robot-no-jitsuyouka-ni-chik-ffcbf9",
+            "content_html": "Design Newsが2023年11月10日付で、HeartLander Surgical Robotが実用化に近づいていると報じた。原典は二次報道であり、発言内容や技術の詳細は本文の確認が必要である。本稿では報道の位置づけと、公開情報ベースで見える論点を整理する。",
+            "url": "https://physicalainews.jp/news/design-news-heartlander-surgical-robot-no-jitsuyouka-ni-chik-ffcbf9",
+            "title": "Design News、HeartLander Surgical Robotの実用化に近づく動きを報道 | 日本フィジカルAI新聞",
+            "summary": "Design Newsが2023年11月10日付で、HeartLander Surgical Robotが実用化に近づいていると報じた。原典は二次報道であり、発言内容や技術の詳細は本文の確認が必要である。本稿では報道の位置づけと、公開情報ベースで見える論点を整理する。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/design-news-heartlander-surgical-robot-no-jitsuyouka-ni-chik-ffcbf9/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T08:39:52.000Z",
+            "date_published": "2026-09-12T08:39:52.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Design News、HeartLander Surgical Robotの実用化に近づく動きを報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/design-news-3-jigen-housei-wo-jidouka-suru-sewbo-robotto-wo-84eefe",
+            "content_html": "Design Newsは2016年9月13日、布地の3次元縫製を自動化する「Sewbo」ロボットシステムを報じた。本紙としては、これは汎用ロボットの完成度を示すニュースというより、縫製工程の一部を機械に寄せる試みとして読むべきだとみられる。詳細は原典を参照されたい。",
+            "url": "https://physicalainews.jp/news/design-news-3-jigen-housei-wo-jidouka-suru-sewbo-robotto-wo-84eefe",
+            "title": "Design News、3次元縫製を自動化する「Sewbo」ロボットを報じる | 日本フィジカルAI新聞",
+            "summary": "Design Newsは2016年9月13日、布地の3次元縫製を自動化する「Sewbo」ロボットシステムを報じた。本紙としては、これは汎用ロボットの完成度を示すニュースというより、縫製工程の一部を機械に寄せる試みとして読むべきだとみられる。詳細は原典を参照されたい。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/design-news-3-jigen-housei-wo-jidouka-suru-sewbo-robotto-wo-84eefe/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T08:38:50.000Z",
+            "date_published": "2026-09-12T08:38:50.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Design News、3次元縫製を自動化する「Sewbo」ロボットを報じる",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/mit-no-ronkou-llm-niyoru-robotto-seigyo-wo-honkaku-kentou-ku-0f191c",
+            "content_html": "MITのweb.mit.edu掲載文は、LLMがロボットを道具として使う「robot-use agents」について、実用段階に入りつつあるとの見方を示した。従来は遅延や空間認識、因果・物理理解の不足が制約とされてきたが、新しいモデルでその前提が揺らいでいると論じている。一方で、遅延と安全性の課題は残り、汎用ロボット運用がどこまで広がるかが焦点になる。",
+            "url": "https://physicalainews.jp/news/mit-no-ronkou-llm-niyoru-robotto-seigyo-wo-honkaku-kentou-ku-0f191c",
+            "title": "MITの論考、LLMによるロボット制御を本格検討　クラウド型の実用化が焦点 | 日本フィジカルAI新聞",
+            "summary": "MITのweb.mit.edu掲載文は、LLMがロボットを道具として使う「robot-use agents」について、実用段階に入りつつあるとの見方を示した。従来は遅延や空間認識、因果・物理理解の不足が制約とされてきたが、新しいモデルでその前提が揺らいでいると論じている。一方で、遅延と安全性の課題は残り、汎用ロボット運用がどこまで広がるかが焦点になる。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/mit-no-ronkou-llm-niyoru-robotto-seigyo-wo-honkaku-kentou-ku-0f191c/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T07:06:34.000Z",
+            "date_published": "2026-09-12T07:06:34.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "MITの論考、LLMによるロボット制御を本格検討　クラウド型の実用化が焦点",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/andonlabs-com-drone-bench-wo-koukai-ofisu-nai-wo-hikou-suru-af83ef",
+            "content_html": "andonlabs.comは、オフィス内を自律飛行する市販ドローンを使った評価基準「Drone-Bench」を公開した。評価は再構成、位置推定、ナビゲーション、検出、追跡の5項目で構成される。同サイトは、物理世界で動くモデルの能力把握と悪用リスクの両面を重視する考えを示している。",
+            "url": "https://physicalainews.jp/news/andonlabs-com-drone-bench-wo-koukai-ofisu-nai-wo-hikou-suru-af83ef",
+            "title": "andonlabs.com、Drone-Benchを公開　オフィス内を飛行するドローンの自律性能を評価 | 日本フィジカルAI新聞",
+            "summary": "andonlabs.comは、オフィス内を自律飛行する市販ドローンを使った評価基準「Drone-Bench」を公開した。評価は再構成、位置推定、ナビゲーション、検出、追跡の5項目で構成される。同サイトは、物理世界で動くモデルの能力把握と悪用リスクの両面を重視する考えを示している。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/andonlabs-com-drone-bench-wo-koukai-ofisu-nai-wo-hikou-suru-af83ef/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T07:06:18.000Z",
+            "date_published": "2026-09-12T07:06:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "andonlabs.com、Drone-Benchを公開　オフィス内を飛行するドローンの自律性能を評価",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/byd-no-kei-ev-rakko-nikkei-kurosutekku-ga-214-man-en-karato-ec7889",
+            "content_html": "日経クロステックは2026年9月10日、「BYDの軽EV「ラッコ」、日経クロステックが214万円からと報じる」と報じた。",
+            "url": "https://physicalainews.jp/news/byd-no-kei-ev-rakko-nikkei-kurosutekku-ga-214-man-en-karato-ec7889",
+            "title": "BYDの軽EV「ラッコ」、日経クロステックが214万円からと報じる | 日本フィジカルAI新聞",
+            "summary": "日経クロステックは2026年9月10日、「BYDの軽EV「ラッコ」、日経クロステックが214万円からと報じる」と報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/byd-no-kei-ev-rakko-nikkei-kurosutekku-ga-214-man-en-karato-ec7889/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T06:40:20.000Z",
+            "date_published": "2026-09-12T06:40:20.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "BYDの軽EV「ラッコ」、日経クロステックが214万円からと報じる",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/nikkei-bp-e2e-jidouunten-samitto-2026-wo-9-gatsu-29-nichi-ni-d826a9",
+            "content_html": "日経BPは、E2E自動運転の最新情報を紹介する「E2E自動運転サミット2026」を9月29日に東京国際フォーラムで開くと発表した。",
+            "url": "https://physicalainews.jp/news/nikkei-bp-e2e-jidouunten-samitto-2026-wo-9-gatsu-29-nichi-ni-d826a9",
+            "title": "日経BP、E2E自動運転サミット2026を開催 | 日本フィジカルAI新聞",
+            "summary": "日経BPは、E2E自動運転の最新情報を紹介する「E2E自動運転サミット2026」を9月29日に東京国際フォーラムで開くと発表した。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/nikkei-bp-e2e-jidouunten-samitto-2026-wo-9-gatsu-29-nichi-ni-d826a9/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T06:39:15.000Z",
+            "date_published": "2026-09-12T06:39:15.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "日経BP、E2E自動運転サミット2026を開催",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/u-g-o-souwan-semihyuumanoido-muke-vtla-moderu-kaihatsu-de-ge-17eabb",
+            "content_html": "prtimes.jpは2026年9月9日、「ｕｇｏ、双腕セミヒューマノイド向けVTLAモデル開発でGENIACに採択」と報じた。",
+            "url": "https://physicalainews.jp/news/u-g-o-souwan-semihyuumanoido-muke-vtla-moderu-kaihatsu-de-ge-17eabb",
+            "title": "ｕｇｏ、双腕セミヒューマノイド向けVTLAモデル開発でGENIACに採択 | 日本フィジカルAI新聞",
+            "summary": "prtimes.jpは2026年9月9日、「ｕｇｏ、双腕セミヒューマノイド向けVTLAモデル開発でGENIACに採択」と報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/u-g-o-souwan-semihyuumanoido-muke-vtla-moderu-kaihatsu-de-ge-17eabb/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-12T06:38:15.000Z",
+            "date_published": "2026-09-12T06:38:15.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ｕｇｏ、双腕セミヒューマノイド向けVTLAモデル開発でGENIACに採択",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        }
+    ]
+}
