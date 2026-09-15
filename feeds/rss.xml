@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>AI・ロボティクス技術ニュース RSS</title>
+        <link>https://takashinnosuke.github.io/slack_AI_news_bot/</link>
+        <description>AI・ロボティクスに関連するテック情報やニュースをまとめたRSSフィード</description>
+        <lastBuildDate>Tue, 15 Sep 2026 17:22:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>takashinnosuke/slack_AI_news_bot</generator>
+        <language>ja</language>
+        <image>
+            <title>AI・ロボティクス技術ニュース RSS</title>
+            <url>https://takashinnosuke.github.io/slack_AI_news_bot/images/icon.png</url>
+            <link>https://takashinnosuke.github.io/slack_AI_news_bot/</link>
+        </image>
+        <copyright>takashinnosuke/slack_AI_news_bot</copyright>
+        <atom:link href="https://takashinnosuke.github.io/slack_AI_news_bot/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Robot Report、InOrbit.AIのOpenRobOps ISO 21423参照実装を報道 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/the-robot-report-inorbit-ai-no-openrobops-iso-21423-sanshou-afd5e0</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/the-robot-report-inorbit-ai-no-openrobops-iso-21423-sanshou-afd5e0</guid>
+            <pubDate>Tue, 15 Sep 2026 16:37:19 GMT</pubDate>
+            <description><![CDATA[The Robot Reportは2026-09-15、InOrbit.AIがOpenRobOpsのISO 21423参照実装を公開したと報じた。]]></description>
+            <content:encoded><![CDATA[The Robot Reportは2026-09-15、InOrbit.AIがOpenRobOpsのISO 21423参照実装を公開したと報じた。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/the-robot-report-inorbit-ai-no-openrobops-iso-21423-sanshou-afd5e0/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>The Robot Report、InOrbit.AIのOpenRobOps ISO 21423参照実装を報道</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Agilityが人型ロボット「Digit 5」を発表 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/agility-ga-hitogata-robotto-digit-5-wo-happyou-0ff952</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/agility-ga-hitogata-robotto-digit-5-wo-happyou-0ff952</guid>
+            <pubDate>Tue, 15 Sep 2026 16:36:35 GMT</pubDate>
+            <description><![CDATA[Agility Roboticsは15日、人と近い場所で安全に協働できるよう設計した人型ロボット「Digit 5」を発表したと報じられた。]]></description>
+            <content:encoded><![CDATA[Agility Roboticsは15日、人と近い場所で安全に協働できるよう設計した人型ロボット「Digit 5」を発表したと報じられた。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/agility-ga-hitogata-robotto-digit-5-wo-happyou-0ff952/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Agilityが人型ロボット「Digit 5」を発表</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Universal Robots、IMTS 2026で第7世代プラットフォーム「Gen 7」を発表 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/universal-robots-imts-2026-de-dai-7-sedai-purattofoomu-gen-7-e1d270</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/universal-robots-imts-2026-de-dai-7-sedai-purattofoomu-gen-7-e1d270</guid>
+            <pubDate>Tue, 15 Sep 2026 15:53:22 GMT</pubDate>
+            <description><![CDATA[universal-robots.comは2026年9月14日、「Universal Robots、IMTS 2026で第7世代プラットフォーム「Gen 7」を発表」と報じた。]]></description>
+            <content:encoded><![CDATA[universal-robots.comは2026年9月14日、「Universal Robots、IMTS 2026で第7世代プラットフォーム「Gen 7」を発表」と報じた。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/universal-robots-imts-2026-de-dai-7-sedai-purattofoomu-gen-7-e1d270/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Universal Robots、IMTS 2026で第7世代プラットフォーム「Gen 7」を発表</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[AVITA、Human-in-the-Loop型フィジカルAIの提供開始　遠隔操作と自律制御を組み合わせ | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/avita-human-in-the-loop-kata-fijikaru-ai-no-teikyou-kaishi-e-c0561c</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/avita-human-in-the-loop-kata-fijikaru-ai-no-teikyou-kaishi-e-c0561c</guid>
+            <pubDate>Tue, 15 Sep 2026 14:38:00 GMT</pubDate>
+            <description><![CDATA[prtimes.jpは2026年9月15日、「AVITA、Human-in-the-Loop型フィジカルAIの提供開始 遠隔操作と自律制御を組み合わせ」と報じた。]]></description>
+            <content:encoded><![CDATA[prtimes.jpは2026年9月15日、「AVITA、Human-in-the-Loop型フィジカルAIの提供開始 遠隔操作と自律制御を組み合わせ」と報じた。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/avita-human-in-the-loop-kata-fijikaru-ai-no-teikyou-kaishi-e-c0561c/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>AVITA、Human-in-the-Loop型フィジカルAIの提供開始　遠隔操作と自律制御を組み合わせ</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Agility、対人協働の安全性を高めた人型ロボットDigit 5を発表 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/agility-taijin-kyoudou-no-anzensei-wo-takame-ta-hitogata-rob-c9969f</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/agility-taijin-kyoudou-no-anzensei-wo-takame-ta-hitogata-rob-c9969f</guid>
+            <pubDate>Tue, 15 Sep 2026 13:27:44 GMT</pubDate>
+            <description><![CDATA[Bloombergは、Agility Roboticsが人の近くで使えるよう安全設計を強化した人型ロボット「Digit 5」を発表したと報じた。]]></description>
+            <content:encoded><![CDATA[Bloombergは、Agility Roboticsが人の近くで使えるよう安全設計を強化した人型ロボット「Digit 5」を発表したと報じた。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/agility-taijin-kyoudou-no-anzensei-wo-takame-ta-hitogata-rob-c9969f/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Agility、対人協働の安全性を高めた人型ロボットDigit 5を発表</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Design Newsがロボットの頭部設計を解説する記事を掲載 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/design-news-ga-robotto-no-toubu-sekkei-wo-kaisetsu-suru-kiji-59212b</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/design-news-ga-robotto-no-toubu-sekkei-wo-kaisetsu-suru-kiji-59212b</guid>
+            <pubDate>Tue, 15 Sep 2026 13:27:18 GMT</pubDate>
+            <description><![CDATA[Design Newsは2026年9月14日付で、ロボットの頭部設計を扱う記事「How to Build a Better Robot Head」を掲載した。本稿はその掲載事実を短く伝えるもので、記事本文の論旨や具体的な技術内容は一次情報としては確認できない。詳細は原典を参照すべきだが、ここでは掲載されたという事実にとどめる。]]></description>
+            <content:encoded><![CDATA[Design Newsは2026年9月14日付で、ロボットの頭部設計を扱う記事「How to Build a Better Robot Head」を掲載した。本稿はその掲載事実を短く伝えるもので、記事本文の論旨や具体的な技術内容は一次情報としては確認できない。詳細は原典を参照すべきだが、ここでは掲載されたという事実にとどめる。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/design-news-ga-robotto-no-toubu-sekkei-wo-kaisetsu-suru-kiji-59212b/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Design Newsがロボットの頭部設計を解説する記事を掲載</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[AGILINKが「OmniHand 3 Ultra M」を紹介 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/agilink-robottohando-omnihand-3-ultra-m-wo-shoukai-d74891</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/agilink-robottohando-omnihand-3-ultra-m-wo-shoukai-d74891</guid>
+            <pubDate>Tue, 15 Sep 2026 13:19:02 GMT</pubDate>
+            <description><![CDATA[humanoid.guideは、AGILINKのロボットハンド「OmniHand 3 Ultra M」を紹介した。]]></description>
+            <content:encoded><![CDATA[humanoid.guideは、AGILINKのロボットハンド「OmniHand 3 Ultra M」を紹介した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/agilink-robottohando-omnihand-3-ultra-m-wo-shoukai-d74891/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>AGILINKが「OmniHand 3 Ultra M」を紹介</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Maven RoboticsがSeries Aで1億ドルを調達 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/maven-robotics-ga-series-a-de-1-oku-doru-wo-choutatsu-3e9634</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/maven-robotics-ga-series-a-de-1-oku-doru-wo-choutatsu-3e9634</guid>
+            <pubDate>Tue, 15 Sep 2026 13:18:11 GMT</pubDate>
+            <description><![CDATA[automatedwarehouseonlineは、Maven Roboticsが1億ドルのSeries A資金調達を実施したと報じた。Maven Roboticsは物流と製造向けのロボティクスを手がける企業だと説明している。]]></description>
+            <content:encoded><![CDATA[automatedwarehouseonlineは、Maven Roboticsが1億ドルのSeries A資金調達を実施したと報じた。Maven Roboticsは物流と製造向けのロボティクスを手がける企業だと説明している。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/maven-robotics-ga-series-a-de-1-oku-doru-wo-choutatsu-3e9634/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Maven RoboticsがSeries Aで1億ドルを調達</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Apptronikが5億2000万ドルを調達 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/apptronik-google-ya-mercedes-benz-nadono-shusshi-de-5-oku-20-1b588e</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/apptronik-google-ya-mercedes-benz-nadono-shusshi-de-5-oku-20-1b588e</guid>
+            <pubDate>Tue, 15 Sep 2026 13:16:48 GMT</pubDate>
+            <description><![CDATA[ロイター通信は、人工知能を活用する人型ロボット企業Apptronikが5億2000万ドルの資金調達を実施したと報じた。出資にはGoogleやMercedes-Benz、B Capital、Qatar Investment Authorityが参加した。]]></description>
+            <content:encoded><![CDATA[ロイター通信は、人工知能を活用する人型ロボット企業Apptronikが5億2000万ドルの資金調達を実施したと報じた。出資にはGoogleやMercedes-Benz、B Capital、Qatar Investment Authorityが参加した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/apptronik-google-ya-mercedes-benz-nadono-shusshi-de-5-oku-20-1b588e/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Apptronikが5億2000万ドルを調達</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[月泉仿生、W-Bot 2.0を中国・合肥の国家電網現場で実証と報道 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/gatsu-izumi-w-bot-2-0-wo-chuugoku-gouhi-no-kokka-denmou-genb-0bc0d6</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/gatsu-izumi-w-bot-2-0-wo-chuugoku-gouhi-no-kokka-denmou-genb-0bc0d6</guid>
+            <pubDate>Tue, 15 Sep 2026 13:06:56 GMT</pubDate>
+            <description><![CDATA[月泉仿生の人形ロボット「博文 W-Bot 2.0」と仿生霊巧手「応手 Y-Hand」について、leaderobot.comが2026-09-15に報じた。]]></description>
+            <content:encoded><![CDATA[月泉仿生の人形ロボット「博文 W-Bot 2.0」と仿生霊巧手「応手 Y-Hand」について、leaderobot.comが2026-09-15に報じた。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/gatsu-izumi-w-bot-2-0-wo-chuugoku-gouhi-no-kokka-denmou-genb-0bc0d6/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>月泉仿生、W-Bot 2.0を中国・合肥の国家電網現場で実証と報道</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Boston Dynamics、Spot 5.2を発表　Google Gemini搭載の検査機能とOrbitの資産中心化を強化 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/boston-dynamics-spot-5-2-wo-happyou-google-gemini-tousai-no-c0d94e</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/boston-dynamics-spot-5-2-wo-happyou-google-gemini-tousai-no-c0d94e</guid>
+            <pubDate>Tue, 15 Sep 2026 12:26:12 GMT</pubDate>
+            <description><![CDATA[Boston Dynamicsは9月10日、Spot 5.2を発表した。Orbit AIVIはGoogle Geminiで強化され、Spotの検査対象を広げた。Orbitは資産中心のダッシュボードに刷新され、外部センサーやカメラとの連携も前提にした構成となった。保全、警備、設備診断を別々の機能ではなく、物理現場のデータをつなぐ基盤として束ね直した点が特徴である。]]></description>
+            <content:encoded><![CDATA[Boston Dynamicsは9月10日、Spot 5.2を発表した。Orbit AIVIはGoogle Geminiで強化され、Spotの検査対象を広げた。Orbitは資産中心のダッシュボードに刷新され、外部センサーやカメラとの連携も前提にした構成となった。保全、警備、設備診断を別々の機能ではなく、物理現場のデータをつなぐ基盤として束ね直した点が特徴である。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/boston-dynamics-spot-5-2-wo-happyou-google-gemini-tousai-no-c0d94e/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Boston Dynamics、Spot 5.2を発表　Google Gemini搭載の検査機能とOrbitの資産中心化を強化</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Agility Robotics、協働安全型の人型ロボット「Digit 5」を発表 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/agility-robotics-kyoudou-anzen-kata-no-hitogata-robotto-digi-c5dce2</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/agility-robotics-kyoudou-anzen-kata-no-hitogata-robotto-digi-c5dce2</guid>
+            <pubDate>Tue, 15 Sep 2026 11:28:53 GMT</pubDate>
+            <description><![CDATA[Agility Roboticsは9月15日、人と近接して作業できるよう設計した人型ロボット「Digit 5」を発表した。同社は、2026年5月時点でDigit 5向けの複数年受注が3億ドル超に達したとしている。同時に、年1万台生産を想定するRoboFabと、NVIDIAのHalos for Roboticsへの参画も示した。]]></description>
+            <content:encoded><![CDATA[Agility Roboticsは9月15日、人と近接して作業できるよう設計した人型ロボット「Digit 5」を発表した。同社は、2026年5月時点でDigit 5向けの複数年受注が3億ドル超に達したとしている。同時に、年1万台生産を想定するRoboFabと、NVIDIAのHalos for Roboticsへの参画も示した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/agility-robotics-kyoudou-anzen-kata-no-hitogata-robotto-digi-c5dce2/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Agility Robotics、協働安全型の人型ロボット「Digit 5」を発表</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[GO、ウェイモ、日本交通が国交省を訪問　東京都内で来年の無人タクシー実用化を目指す | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/go-ueimo-nippon-koutsuu-toukyou-deno-mujin-takushii-jitsuyou-eb28d9</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/go-ueimo-nippon-koutsuu-toukyou-deno-mujin-takushii-jitsuyou-eb28d9</guid>
+            <pubDate>Tue, 15 Sep 2026 11:19:05 GMT</pubDate>
+            <description><![CDATA[GO、ウェイモ、日本交通の3社は15日、国土交通省を訪問した。]]></description>
+            <content:encoded><![CDATA[GO、ウェイモ、日本交通の3社は15日、国土交通省を訪問した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/go-ueimo-nippon-koutsuu-toukyou-deno-mujin-takushii-jitsuyou-eb28d9/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>GO、ウェイモ、日本交通が国交省を訪問　東京都内で来年の無人タクシー実用化を目指す</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[ブリヂストンのゴム製伸縮ロボハンドをスバルが試用と日経報道 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/burijisuton-no-gomu-sei-shinshuku-robohando-wo-subaru-ga-shi-c57f9d</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/burijisuton-no-gomu-sei-shinshuku-robohando-wo-subaru-ga-shi-c57f9d</guid>
+            <pubDate>Tue, 15 Sep 2026 11:18:04 GMT</pubDate>
+            <description><![CDATA[日本経済新聞は2026年9月11日、ブリヂストンのゴム製の伸縮ロボハンドをスバルが試用していると報じた。主ソースの抜粋では、製品名や試用先は確認できるが、用途、導入規模、時期の詳細は示されていない。本件は、ロボットのハンド部にゴム素材と伸縮機構を持ち込む試みとして、部材側の設計変更をどう実装に結びつけるかが焦点になる。]]></description>
+            <content:encoded><![CDATA[日本経済新聞は2026年9月11日、ブリヂストンのゴム製の伸縮ロボハンドをスバルが試用していると報じた。主ソースの抜粋では、製品名や試用先は確認できるが、用途、導入規模、時期の詳細は示されていない。本件は、ロボットのハンド部にゴム素材と伸縮機構を持ち込む試みとして、部材側の設計変更をどう実装に結びつけるかが焦点になる。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/burijisuton-no-gomu-sei-shinshuku-robohando-wo-subaru-ga-shi-c57f9d/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>ブリヂストンのゴム製伸縮ロボハンドをスバルが試用と日経報道</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Proception AIが「ProHand 1.0」を紹介 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/proception-ai-no-prohand-1-0-humanoid-guide-ga-shoukai-kiyou-abd38e</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/proception-ai-no-prohand-1-0-humanoid-guide-ga-shoukai-kiyou-abd38e</guid>
+            <pubDate>Tue, 15 Sep 2026 10:43:23 GMT</pubDate>
+            <description><![CDATA[humanoid.guideは2026年9月14日、Proception AIのロボットハンド「ProHand 1.0」を紹介した。]]></description>
+            <content:encoded><![CDATA[humanoid.guideは2026年9月14日、Proception AIのロボットハンド「ProHand 1.0」を紹介した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/proception-ai-no-prohand-1-0-humanoid-guide-ga-shoukai-kiyou-abd38e/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Proception AIが「ProHand 1.0」を紹介</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Forbesに寄稿記事 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/forbes-ga-nimble-robotics-no-shivansh-inamdar-shi-niyoru-sou-226a22</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/forbes-ga-nimble-robotics-no-shivansh-inamdar-shi-niyoru-sou-226a22</guid>
+            <pubDate>Tue, 15 Sep 2026 10:39:37 GMT</pubDate>
+            <description><![CDATA[Forbesが、Shivansh Inamdar氏による倉庫ロボットの信頼性に関する記事を掲載した。]]></description>
+            <content:encoded><![CDATA[Forbesが、Shivansh Inamdar氏による倉庫ロボットの信頼性に関する記事を掲載した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/forbes-ga-nimble-robotics-no-shivansh-inamdar-shi-niyoru-sou-226a22/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Forbesに寄稿記事</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[傲鲨智能、VIATRIX Xを9月22日に発表へ　屋外向け消費者外骨格を掲げる | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/gou-nou-viatrix-x-wo-9-gatsu-22-nichi-ni-happyou-he-okugai-m-72e92b</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/gou-nou-viatrix-x-wo-9-gatsu-22-nichi-ni-happyou-he-okugai-m-72e92b</guid>
+            <pubDate>Tue, 15 Sep 2026 10:38:38 GMT</pubDate>
+            <description><![CDATA[傲鲨智能は、屋外向け消費者外骨格ブランドVIATRIXの新製品「VIATRIX X」を2026年9月22日に発表すると伝えた。主ソースは、AIアルゴリズム、動力システム、ハードウェア構成を改めるとしている。同社は屋外探索向けとして位置づけ、消費者向け外骨格の用途拡張を狙う構えだ。]]></description>
+            <content:encoded><![CDATA[傲鲨智能は、屋外向け消費者外骨格ブランドVIATRIXの新製品「VIATRIX X」を2026年9月22日に発表すると伝えた。主ソースは、AIアルゴリズム、動力システム、ハードウェア構成を改めるとしている。同社は屋外探索向けとして位置づけ、消費者向け外骨格の用途拡張を狙う構えだ。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/gou-nou-viatrix-x-wo-9-gatsu-22-nichi-ni-happyou-he-okugai-m-72e92b/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>傲鲨智能、VIATRIX Xを9月22日に発表へ　屋外向け消費者外骨格を掲げる</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Ti5ROBOT、コンパクトなロボットハンド「Cool Hand」を紹介 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/ti5robot-konpakuto-na-robottohando-cool-hand-wo-shoukai-31677c</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/ti5robot-konpakuto-na-robottohando-cool-hand-wo-shoukai-31677c</guid>
+            <pubDate>Tue, 15 Sep 2026 10:26:57 GMT</pubDate>
+            <description><![CDATA[Ti5ROBOTがロボットハンド「Cool Hand」を紹介した。媒体humanoid.guideの掲載は2026年9月14日である。205×132×80 mm、0.48 kgの小型設計で、ヒューマノイドや義手、研究用途を想定している。一方で、性能評価は開発途上の位置づけで、量産や導入の広がりを判断する材料は限られる。]]></description>
+            <content:encoded><![CDATA[Ti5ROBOTがロボットハンド「Cool Hand」を紹介した。媒体humanoid.guideの掲載は2026年9月14日である。205×132×80 mm、0.48 kgの小型設計で、ヒューマノイドや義手、研究用途を想定している。一方で、性能評価は開発途上の位置づけで、量産や導入の広がりを判断する材料は限られる。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/ti5robot-konpakuto-na-robottohando-cool-hand-wo-shoukai-31677c/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Ti5ROBOT、コンパクトなロボットハンド「Cool Hand」を紹介</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Boston Dynamicsの2027年IPOに慎重姿勢 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/boston-dynamics-no-2027-nen-ipo-kansoku-atlas-no-honkaku-ten-5287d3</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/boston-dynamics-no-2027-nen-ipo-kansoku-atlas-no-honkaku-ten-5287d3</guid>
+            <pubDate>Tue, 15 Sep 2026 10:26:09 GMT</pubDate>
+            <description><![CDATA[Reutersによると、Hyundai Motor Groupの幹部は、Boston DynamicsのIPOが2027年に実現するのは簡単ではないとの見方を示した。]]></description>
+            <content:encoded><![CDATA[Reutersによると、Hyundai Motor Groupの幹部は、Boston DynamicsのIPOが2027年に実現するのは簡単ではないとの見方を示した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/boston-dynamics-no-2027-nen-ipo-kansoku-atlas-no-honkaku-ten-5287d3/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Boston Dynamicsの2027年IPOに慎重姿勢</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[AGILINK、標準機「OmniHand 3」を公開　価格は4,000ドル | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/humanoid-guide-agilink-no-omnihand-3-wo-shoukai-609855</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/humanoid-guide-agilink-no-omnihand-3-wo-shoukai-609855</guid>
+            <pubDate>Tue, 15 Sep 2026 10:23:19 GMT</pubDate>
+            <description><![CDATA[AGILINKのロボットハンド「OmniHand 3」が公開された。humanoid.guideによると、同製品はヒューマノイドや協働ロボット向けの標準グレードとして位置づけられる。サイズは180×85×38.5mm、重量目標は0.51kgで、価格は4,000ドルだという。指の自由度は中位、把持力は低位とされ、実用導入向けの設計がうかがえる。]]></description>
+            <content:encoded><![CDATA[AGILINKのロボットハンド「OmniHand 3」が公開された。humanoid.guideによると、同製品はヒューマノイドや協働ロボット向けの標準グレードとして位置づけられる。サイズは180×85×38.5mm、重量目標は0.51kgで、価格は4,000ドルだという。指の自由度は中位、把持力は低位とされ、実用導入向けの設計がうかがえる。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/humanoid-guide-agilink-no-omnihand-3-wo-shoukai-609855/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>AGILINK、標準機「OmniHand 3」を公開　価格は4,000ドル</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[humanoid.guide、ヒューマノイド業界の論点を整理した記事を掲載 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/humanoid-guide-ga-ningyou-robotto-sangyou-no-mikakutei-ronte-bd5a20</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/humanoid-guide-ga-ningyou-robotto-sangyou-no-mikakutei-ronte-bd5a20</guid>
+            <pubDate>Tue, 15 Sep 2026 10:22:35 GMT</pubDate>
+            <description><![CDATA[humanoid.guideは2026年9月14日付で、ヒューマノイド産業をめぐる10の論点を扱う記事「Ten Questions to the Humanoid Industry」を掲載した。]]></description>
+            <content:encoded><![CDATA[humanoid.guideは2026年9月14日付で、ヒューマノイド産業をめぐる10の論点を扱う記事「Ten Questions to the Humanoid Industry」を掲載した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/humanoid-guide-ga-ningyou-robotto-sangyou-no-mikakutei-ronte-bd5a20/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>humanoid.guide、ヒューマノイド業界の論点を整理した記事を掲載</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[ゴールドマン・サックス、人型ロボット出荷予測を2035年650万台に引き上げ | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/goorudoman-sakkusu-hitogata-robotto-shukka-yosoku-wo-2035-ne-51ad42</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/goorudoman-sakkusu-hitogata-robotto-shukka-yosoku-wo-2035-ne-51ad42</guid>
+            <pubDate>Tue, 15 Sep 2026 10:21:00 GMT</pubDate>
+            <description><![CDATA[ゴールドマン・サックスは人型ロボットの2035年世界出荷台数見通しを約650万台に引き上げた。対応する市場規模は約1,380億ドルとされ、従来予測の約380億ドルから大幅に増えた。物流・倉庫が先行し、自動車製造が続く構図とともに、半導体や部材供給網への波及が焦点になる。]]></description>
+            <content:encoded><![CDATA[ゴールドマン・サックスは人型ロボットの2035年世界出荷台数見通しを約650万台に引き上げた。対応する市場規模は約1,380億ドルとされ、従来予測の約380億ドルから大幅に増えた。物流・倉庫が先行し、自動車製造が続く構図とともに、半導体や部材供給網への波及が焦点になる。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/goorudoman-sakkusu-hitogata-robotto-shukka-yosoku-wo-2035-ne-51ad42/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>ゴールドマン・サックス、人型ロボット出荷予測を2035年650万台に引き上げ</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[MIT CSAILと天津大学、3Dプリント用設計ソフト「X-Hinges」を発表 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/mit-csail-to-tenshin-daigaku-3d-purinto-you-sekkei-sofuto-x-b599ae</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/mit-csail-to-tenshin-daigaku-3d-purinto-you-sekkei-sofuto-x-b599ae</guid>
+            <pubDate>Tue, 15 Sep 2026 10:20:03 GMT</pubDate>
+            <description><![CDATA[MIT CSAILと天津大学の研究者が、3Dプリント物にセンサーと配線要素を自動配置する設計ソフト「X-Hinges」を発表した。同ソフトは最大3軸の動きを指定でき、動作データを取り込みながら物体の感知性能を高める。ただし、印刷ごとの差を補正する較正は依然として課題である。]]></description>
+            <content:encoded><![CDATA[MIT CSAILと天津大学の研究者が、3Dプリント物にセンサーと配線要素を自動配置する設計ソフト「X-Hinges」を発表した。同ソフトは最大3軸の動きを指定でき、動作データを取り込みながら物体の感知性能を高める。ただし、印刷ごとの差を補正する較正は依然として課題である。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/mit-csail-to-tenshin-daigaku-3d-purinto-you-sekkei-sofuto-x-b599ae/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>MIT CSAILと天津大学、3Dプリント用設計ソフト「X-Hinges」を発表</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Universal Robots、IMTSで第7世代プラットフォームを発表 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/universal-robots-imts-de-dai-7-sedai-robottopurattofoomu-wo-58ca3a</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/universal-robots-imts-de-dai-7-sedai-robottopurattofoomu-wo-58ca3a</guid>
+            <pubDate>Tue, 15 Sep 2026 10:19:00 GMT</pubDate>
+            <description><![CDATA[The Robot Reportによると、Universal RobotsはIMTSで第7世代のロボットプラットフォーム「Gen 7」を発表した。]]></description>
+            <content:encoded><![CDATA[The Robot Reportによると、Universal RobotsはIMTSで第7世代のロボットプラットフォーム「Gen 7」を発表した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/universal-robots-imts-de-dai-7-sedai-robottopurattofoomu-wo-58ca3a/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Universal Robots、IMTSで第7世代プラットフォームを発表</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Arm、RoboBusinessで講演 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/arm-robobusiness-de-fijikaru-ai-no-kakuchou-wo-kataru-kouen-a2e12d</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/arm-robobusiness-de-fijikaru-ai-no-kakuchou-wo-kataru-kouen-a2e12d</guid>
+            <pubDate>Tue, 15 Sep 2026 10:17:42 GMT</pubDate>
+            <description><![CDATA[ArmのDermot O’Driscoll氏が、RoboBusinessで講演する。]]></description>
+            <content:encoded><![CDATA[ArmのDermot O’Driscoll氏が、RoboBusinessで講演する。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/arm-robobusiness-de-fijikaru-ai-no-kakuchou-wo-kataru-kouen-a2e12d/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Arm、RoboBusinessで講演</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[The Robot Report、El Camino HealthとHeart Vascular Instituteのロボット手術活用を報道 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/the-robot-report-el-camino-health-to-heart-vascular-institut-6362d6</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/the-robot-report-el-camino-health-to-heart-vascular-institut-6362d6</guid>
+            <pubDate>Tue, 15 Sep 2026 10:16:54 GMT</pubDate>
+            <description><![CDATA[The Robot Reportは2026年9月14日、El Camino HealthとHeart Vascular Instituteによるda Vinciシステムを使った冠動脈バイパス術の事例を報じた。同報道は、ロボット支援手術が比較的一般的でも、臨床現場と工学面の両方で実行の難しさが残ると位置づけた。詳細は原典を参照されたい。]]></description>
+            <content:encoded><![CDATA[The Robot Reportは2026年9月14日、El Camino HealthとHeart Vascular Instituteによるda Vinciシステムを使った冠動脈バイパス術の事例を報じた。同報道は、ロボット支援手術が比較的一般的でも、臨床現場と工学面の両方で実行の難しさが残ると位置づけた。詳細は原典を参照されたい。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/the-robot-report-el-camino-health-to-heart-vascular-institut-6362d6/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>The Robot Report、El Camino HealthとHeart Vascular Instituteのロボット手術活用を報道</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Pudu Robotics、IFA 2026後に欧州事業を拡大 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/pudu-robotics-ifa-2026-nochini-oushuu-tenkai-wo-kasoku-doits-db740b</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/pudu-robotics-ifa-2026-nochini-oushuu-tenkai-wo-kasoku-doits-db740b</guid>
+            <pubDate>Tue, 15 Sep 2026 09:39:03 GMT</pubDate>
+            <description><![CDATA[Pudu Roboticsは9月14日、IFA Berlin 2026での展示を受けて欧州での展開を強化すると発表した。]]></description>
+            <content:encoded><![CDATA[Pudu Roboticsは9月14日、IFA Berlin 2026での展示を受けて欧州での展開を強化すると発表した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/pudu-robotics-ifa-2026-nochini-oushuu-tenkai-wo-kasoku-doits-db740b/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Pudu Robotics、IFA 2026後に欧州事業を拡大</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[秋月電子通商、SO-101完成品の販売を開始 価格は7万2800円 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/akizukidenshi-tsuushou-so-101-kanseihin-no-hanbai-wo-kaishi-d7b378</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/akizukidenshi-tsuushou-so-101-kanseihin-no-hanbai-wo-kaishi-d7b378</guid>
+            <pubDate>Tue, 15 Sep 2026 09:38:19 GMT</pubDate>
+            <description><![CDATA[innovatopia.jpは2026年9月15日、「秋月電子通商、SO-101完成品の販売を開始 価格は7万2800円」と報じた。]]></description>
+            <content:encoded><![CDATA[innovatopia.jpは2026年9月15日、「秋月電子通商、SO-101完成品の販売を開始 価格は7万2800円」と報じた。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/akizukidenshi-tsuushou-so-101-kanseihin-no-hanbai-wo-kaishi-d7b378/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>秋月電子通商、SO-101完成品の販売を開始 価格は7万2800円</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[36Kr、上海交通大出身の起業家に関する記事を掲載 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/36kr-shanhai-koutsuu-ooide-mino-kigyouka-ni-kansu-ru-kiji-wo-d165cb</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/36kr-shanhai-koutsuu-ooide-mino-kigyouka-ni-kansu-ru-kiji-wo-d165cb</guid>
+            <pubDate>Tue, 15 Sep 2026 09:36:54 GMT</pubDate>
+            <description><![CDATA[36Krが2026年9月15日、上海交通大学出身の1980年代生まれの起業家に関する記事を掲載した。記事は「embodied 'intelligent brains'」に焦点を当て、1年で200社超の顧客を獲得したとしている。発言内容や論旨の詳細は、原典の確認が必要である。]]></description>
+            <content:encoded><![CDATA[36Krが2026年9月15日、上海交通大学出身の1980年代生まれの起業家に関する記事を掲載した。記事は「embodied 'intelligent brains'」に焦点を当て、1年で200社超の顧客を獲得したとしている。発言内容や論旨の詳細は、原典の確認が必要である。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/36kr-shanhai-koutsuu-ooide-mino-kigyouka-ni-kansu-ru-kiji-wo-d165cb/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>36Kr、上海交通大出身の起業家に関する記事を掲載</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[クオリィ、CEATEC 2026のソニーブースに出展へ　マイクロサージャリー支援ロボットを紹介 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/kuorii-ceatec-2026-no-soniibuusu-ni-shutten-he-maikurosaajar-39364c</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/kuorii-ceatec-2026-no-soniibuusu-ni-shutten-he-maikurosaajar-39364c</guid>
+            <pubDate>Tue, 15 Sep 2026 08:17:33 GMT</pubDate>
+            <description><![CDATA[prtimes.jpは2026年9月15日、「クオリィ、CEATEC 2026のソニーブースに出展へ マイクロサージャリー支援ロボットを紹介」と報じた。]]></description>
+            <content:encoded><![CDATA[prtimes.jpは2026年9月15日、「クオリィ、CEATEC 2026のソニーブースに出展へ マイクロサージャリー支援ロボットを紹介」と報じた。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/kuorii-ceatec-2026-no-soniibuusu-ni-shutten-he-maikurosaajar-39364c/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>クオリィ、CEATEC 2026のソニーブースに出展へ　マイクロサージャリー支援ロボットを紹介</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+    </channel>
+</rss>
