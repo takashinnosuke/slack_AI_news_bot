@@ -1,0 +1,730 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AI・ロボティクス技術ニュース RSS",
+    "home_page_url": "https://takashinnosuke.github.io/slack_AI_news_bot/",
+    "feed_url": "https://takashinnosuke.github.io/slack_AI_news_bot/feeds/feed.json",
+    "description": "AI・ロボティクスに関連するテック情報やニュースをまとめたRSSフィード",
+    "icon": "https://takashinnosuke.github.io/slack_AI_news_bot/images/icon.png",
+    "items": [
+        {
+            "id": "https://physicalainews.jp/news/kinetic-blocks-27-ken-no-koukai-roboteikusudeetasetto-womato-177868",
+            "content_html": "Kinetic Blocksが、公開済みのロボット関連データセット27件をまとめたカタログを公開したとhumanoid.guideが18日に報じた。",
+            "url": "https://physicalainews.jp/news/kinetic-blocks-27-ken-no-koukai-roboteikusudeetasetto-womato-177868",
+            "title": "Kinetic Blocks、公開ロボットデータセット27件のカタログを公開 | 日本フィジカルAI新聞",
+            "summary": "Kinetic Blocksが、公開済みのロボット関連データセット27件をまとめたカタログを公開したとhumanoid.guideが18日に報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/kinetic-blocks-27-ken-no-koukai-roboteikusudeetasetto-womato-177868/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T10:43:58.000Z",
+            "date_published": "2026-09-19T10:43:58.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Kinetic Blocks、公開ロボットデータセット27件のカタログを公開",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/ieee-spectrum-no-video-friday-climb-lab-ya-figure-nadono-rob-1208df",
+            "content_html": "IEEE Spectrumは2026年9月18日、「Video Friday」で複数のロボット動画をまとめて紹介した。",
+            "url": "https://physicalainews.jp/news/ieee-spectrum-no-video-friday-climb-lab-ya-figure-nadono-rob-1208df",
+            "title": "IEEE Spectrumがロボット動画を紹介 | 日本フィジカルAI新聞",
+            "summary": "IEEE Spectrumは2026年9月18日、「Video Friday」で複数のロボット動画をまとめて紹介した。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/ieee-spectrum-no-video-friday-climb-lab-ya-figure-nadono-rob-1208df/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T10:38:23.000Z",
+            "date_published": "2026-09-19T10:38:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "IEEE Spectrumがロボット動画を紹介",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/benzinga-figure-ai-no-helix-2-5-to-tesla-optimus-no-hikaku-w-a85471",
+            "content_html": "米ベンジンガーは、Figure AIが新モデル「Helix 2.5」の試験結果を報じたと伝えた。",
+            "url": "https://physicalainews.jp/news/benzinga-figure-ai-no-helix-2-5-to-tesla-optimus-no-hikaku-w-a85471",
+            "title": "Figure AIの新モデル、家庭内作業の試験結果を公表 | 日本フィジカルAI新聞",
+            "summary": "米ベンジンガーは、Figure AIが新モデル「Helix 2.5」の試験結果を報じたと伝えた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/benzinga-figure-ai-no-helix-2-5-to-tesla-optimus-no-hikaku-w-a85471/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T10:32:31.000Z",
+            "date_published": "2026-09-19T10:32:31.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Figure AIの新モデル、家庭内作業の試験結果を公表",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/interact-analysis-robotto-no-binpikkingu-to-toreeraa-niorosh-458b2c",
+            "content_html": "Interact Analysisが、ロボットピッキング市場について新しい分析を公表した。主ソースの報道では、ビンピッキングとトレーラー荷下ろしが市場成長をけん引するとされている。詳細な数値や前提は原典側の記述に依存するため、ここでは報道事実の確認にとどめる。",
+            "url": "https://physicalainews.jp/news/interact-analysis-robotto-no-binpikkingu-to-toreeraa-niorosh-458b2c",
+            "title": "Interact Analysis、ロボットのビンピッキングとトレーラー荷下ろしの市場拡大を指摘 | 日本フィジカルAI新聞",
+            "summary": "Interact Analysisが、ロボットピッキング市場について新しい分析を公表した。主ソースの報道では、ビンピッキングとトレーラー荷下ろしが市場成長をけん引するとされている。詳細な数値や前提は原典側の記述に依存するため、ここでは報道事実の確認にとどめる。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/interact-analysis-robotto-no-binpikkingu-to-toreeraa-niorosh-458b2c/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T10:31:27.000Z",
+            "date_published": "2026-09-19T10:31:27.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Interact Analysis、ロボットのビンピッキングとトレーラー荷下ろしの市場拡大を指摘",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/tesla-optimus-wo-2027-nengo-han-ni-gaihan-kaishi-he-47fe43",
+            "content_html": "Teslaがヒト型ロボット「Optimus」の外部販売を2027年後半に始める見通しだと報じられた。販売前にはTeslaの施設で訓練と試験を行うとしており、次世代機Gen 3の生産準備も進めるという。JPMorganのアナリストがFremontの工場を訪れた後に伝えられた内容で、Teslaの物理世界向けAI戦略の一部と位置づけられている。",
+            "url": "https://physicalainews.jp/news/tesla-optimus-wo-2027-nengo-han-ni-gaihan-kaishi-he-47fe43",
+            "title": "Tesla、Optimusを2027年後半に外販へ　JPMorganとの工場訪問後に報道 | 日本フィジカルAI新聞",
+            "summary": "Teslaがヒト型ロボット「Optimus」の外部販売を2027年後半に始める見通しだと報じられた。販売前にはTeslaの施設で訓練と試験を行うとしており、次世代機Gen 3の生産準備も進めるという。JPMorganのアナリストがFremontの工場を訪れた後に伝えられた内容で、Teslaの物理世界向けAI戦略の一部と位置づけられている。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/tesla-optimus-wo-2027-nengo-han-ni-gaihan-kaishi-he-47fe43/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T10:29:38.000Z",
+            "date_published": "2026-09-19T10:29:38.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Tesla、Optimusを2027年後半に外販へ　JPMorganとの工場訪問後に報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/ugo-sharin-kata-hyuumanoido-nova-wo-shoukai-koujou-souko-but-b14fdf",
+            "content_html": "ugo, Inc.の車輪型ヒューマノイド「Nova」が紹介された。工場、倉庫、物流環境での作業を想定し、移動台車に両腕と腰部を組み合わせた構成だ。詳細な評価や導入条件は原典の範囲では限られており、仕様の意味づけが焦点になる。",
+            "url": "https://physicalainews.jp/news/ugo-sharin-kata-hyuumanoido-nova-wo-shoukai-koujou-souko-but-b14fdf",
+            "title": "ugo、車輪型ヒューマノイド「Nova」を紹介　工場・倉庫・物流向け | 日本フィジカルAI新聞",
+            "summary": "ugo, Inc.の車輪型ヒューマノイド「Nova」が紹介された。工場、倉庫、物流環境での作業を想定し、移動台車に両腕と腰部を組み合わせた構成だ。詳細な評価や導入条件は原典の範囲では限られており、仕様の意味づけが焦点になる。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/ugo-sharin-kata-hyuumanoido-nova-wo-shoukai-koujou-souko-but-b14fdf/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T10:28:48.000Z",
+            "date_published": "2026-09-19T10:28:48.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ugo、車輪型ヒューマノイド「Nova」を紹介　工場・倉庫・物流向け",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/techxplore-com-bishou-doroon-no-an-tokoro-koukou-ni-shokkaku-e5d3b4",
+            "content_html": "techxplore.comは2026年9月18日、微小ドローンが暗所で触覚を使って進める研究を報じた。対象は100グラム未満の機体で、視界不良環境での航行を想定している。詳細は原典を参照されたい。",
+            "url": "https://physicalainews.jp/news/techxplore-com-bishou-doroon-no-an-tokoro-koukou-ni-shokkaku-e5d3b4",
+            "title": "techxplore.com、微小ドローンの暗所航行に触覚ひげセンサーを用いる研究を報道 | 日本フィジカルAI新聞",
+            "summary": "techxplore.comは2026年9月18日、微小ドローンが暗所で触覚を使って進める研究を報じた。対象は100グラム未満の機体で、視界不良環境での航行を想定している。詳細は原典を参照されたい。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/techxplore-com-bishou-doroon-no-an-tokoro-koukou-ni-shokkaku-e5d3b4/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T10:27:48.000Z",
+            "date_published": "2026-09-19T10:27:48.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "techxplore.com、微小ドローンの暗所航行に触覚ひげセンサーを用いる研究を報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/reward-ai-om-1-wo-kouhyou-nin-no-jitsuen-deeta-de-gakushuu-t-3c49e3",
+            "content_html": "humanoid.guideは、Reward AIが人の実演データで学習したとするロボット基盤モデル「OM-1」を発表したと報じた。",
+            "url": "https://physicalainews.jp/news/reward-ai-om-1-wo-kouhyou-nin-no-jitsuen-deeta-de-gakushuu-t-3c49e3",
+            "title": "Reward AI、OM-1を発表 | 日本フィジカルAI新聞",
+            "summary": "humanoid.guideは、Reward AIが人の実演データで学習したとするロボット基盤モデル「OM-1」を発表したと報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/reward-ai-om-1-wo-kouhyou-nin-no-jitsuen-deeta-de-gakushuu-t-3c49e3/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T10:26:54.000Z",
+            "date_published": "2026-09-19T10:26:54.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Reward AI、OM-1を発表",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/tesla-tekisasu-no-optimus-koujou-tekkotsu-kouji-ga-kanryou-m-e20174",
+            "content_html": "humanoid.guideは2026年9月19日、「Tesla、テキサスのOptimus工場鉄骨工事が完了間近」と報じた。",
+            "url": "https://physicalainews.jp/news/tesla-tekisasu-no-optimus-koujou-tekkotsu-kouji-ga-kanryou-m-e20174",
+            "title": "Tesla、テキサスのOptimus工場鉄骨工事が完了間近 | 日本フィジカルAI新聞",
+            "summary": "humanoid.guideは2026年9月19日、「Tesla、テキサスのOptimus工場鉄骨工事が完了間近」と報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/tesla-tekisasu-no-optimus-koujou-tekkotsu-kouji-ga-kanryou-m-e20174/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T10:26:40.000Z",
+            "date_published": "2026-09-19T10:26:40.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Tesla、テキサスのOptimus工場鉄骨工事が完了間近",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/1x-neo-no-2027-nen-shukka-mokuhyou-wo-5-man-dai-ni-settei-ko-37cd7c",
+            "content_html": "人型ロボット開発の1Xが、2027年にNEO人型ロボット5万台の製造・出荷を目指すと報じられました。",
+            "url": "https://physicalainews.jp/news/1x-neo-no-2027-nen-shukka-mokuhyou-wo-5-man-dai-ni-settei-ko-37cd7c",
+            "title": "1X、NEO人型ロボットを2027年に5万台出荷へ | 日本フィジカルAI新聞",
+            "summary": "人型ロボット開発の1Xが、2027年にNEO人型ロボット5万台の製造・出荷を目指すと報じられました。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/1x-neo-no-2027-nen-shukka-mokuhyou-wo-5-man-dai-ni-settei-ko-37cd7c/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T10:24:47.000Z",
+            "date_published": "2026-09-19T10:24:47.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "1X、NEO人型ロボットを2027年に5万台出荷へ",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/figure-helix-2-5-wo-happyou-30-no-mikoukai-juutaku-de-jissho-fbda26",
+            "content_html": "Figureは、ヒューマノイド制御方策「Helix 2.5」を公開したと発表した。",
+            "url": "https://physicalainews.jp/news/figure-helix-2-5-wo-happyou-30-no-mikoukai-juutaku-de-jissho-fbda26",
+            "title": "Figure、Helix 2.5を発表 | 日本フィジカルAI新聞",
+            "summary": "Figureは、ヒューマノイド制御方策「Helix 2.5」を公開したと発表した。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/figure-helix-2-5-wo-happyou-30-no-mikoukai-juutaku-de-jissho-fbda26/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T10:22:59.000Z",
+            "date_published": "2026-09-19T10:22:59.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Figure、Helix 2.5を発表",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/sutd-tan-itsu-akuchueetaa-hikou-robo-no-seigyohou-wo-houkoku-d96e79",
+            "content_html": "シンガポール工科デザイン大学の研究者が、単一アクチュエーターで飛ぶロボットの制御法を報じた。",
+            "url": "https://physicalainews.jp/news/sutd-tan-itsu-akuchueetaa-hikou-robo-no-seigyohou-wo-houkoku-d96e79",
+            "title": "SUTD、単一アクチュエーター飛行ロボの制御法を報告　予測制御で経路追従を改善 | 日本フィジカルAI新聞",
+            "summary": "シンガポール工科デザイン大学の研究者が、単一アクチュエーターで飛ぶロボットの制御法を報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/sutd-tan-itsu-akuchueetaa-hikou-robo-no-seigyohou-wo-houkoku-d96e79/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T10:22:19.000Z",
+            "date_published": "2026-09-19T10:22:19.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "SUTD、単一アクチュエーター飛行ロボの制御法を報告　予測制御で経路追従を改善",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/haabaado-to-georgia-tech-ai-ga-jikki-robotto-wo-sekkei-dekir-01d2af",
+            "content_html": "ベンチマークは48の課題で構成され、制御、方策開発、知覚・推定、機械設計を扱う。シミュレーション上のコード生成だけでなく、質量、トルク、幾何、安定性といった物理制約を踏まえた判断ができるかを試す設計である。",
+            "url": "https://physicalainews.jp/news/haabaado-to-georgia-tech-ai-ga-jikki-robotto-wo-sekkei-dekir-01d2af",
+            "title": "ハーバードとGeorgia Tech、AIが実機ロボットを設計できるかを測るRLE-Benchを公開 | 日本フィジカルAI新聞",
+            "summary": "ベンチマークは48の課題で構成され、制御、方策開発、知覚・推定、機械設計を扱う。シミュレーション上のコード生成だけでなく、質量、トルク、幾何、安定性といった物理制約を踏まえた判断ができるかを試す設計である。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/haabaado-to-georgia-tech-ai-ga-jikki-robotto-wo-sekkei-dekir-01d2af/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T10:21:16.000Z",
+            "date_published": "2026-09-19T10:21:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ハーバードとGeorgia Tech、AIが実機ロボットを設計できるかを測るRLE-Benchを公開",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/icarus-robotics-iss-muke-robotto-joy-wo-bishoujuuryoku-shita-c1a711",
+            "content_html": "Icarus Roboticsは、ISS向けの自由飛行ロボットJOYを4回のパラボリック飛行で試験したとThe Robot Reportが伝えた。合計66回の放物線飛行で、約2分間の無重量状態を確認したという。",
+            "url": "https://physicalainews.jp/news/icarus-robotics-iss-muke-robotto-joy-wo-bishoujuuryoku-shita-c1a711",
+            "title": "Icarus Robotics、ISS向けロボットJOYを微小重力下で初試験 | 日本フィジカルAI新聞",
+            "summary": "Icarus Roboticsは、ISS向けの自由飛行ロボットJOYを4回のパラボリック飛行で試験したとThe Robot Reportが伝えた。合計66回の放物線飛行で、約2分間の無重量状態を確認したという。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/icarus-robotics-iss-muke-robotto-joy-wo-bishoujuuryoku-shita-c1a711/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T10:19:14.000Z",
+            "date_published": "2026-09-19T10:19:14.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Icarus Robotics、ISS向けロボットJOYを微小重力下で初試験",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/neptune-medical-triton-1-robotic-system-de-fda-ninka-wo-shut-d8ef39",
+            "content_html": "Neptune Medical Inc.はTriton 1 SystemについてFDA認可を得たと発表した。対象は柔軟内視鏡と、結腸全域での診断・治療手技である。同社は、同システムが結腸内視鏡の安定性や操作性を補い、EMRやESDにも使えるとしている。一方で、実装の細部や次世代機への反映はまだ進行中であり、詳細は原典の確認が必要である。",
+            "url": "https://physicalainews.jp/news/neptune-medical-triton-1-robotic-system-de-fda-ninka-wo-shut-d8ef39",
+            "title": "Neptune Medical、Triton 1 robotic systemでFDA認可を取得 | 日本フィジカルAI新聞",
+            "summary": "Neptune Medical Inc.はTriton 1 SystemについてFDA認可を得たと発表した。対象は柔軟内視鏡と、結腸全域での診断・治療手技である。同社は、同システムが結腸内視鏡の安定性や操作性を補い、EMRやESDにも使えるとしている。一方で、実装の細部や次世代機への反映はまだ進行中であり、詳細は原典の確認が必要である。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/neptune-medical-triton-1-robotic-system-de-fda-ninka-wo-shut-d8ef39/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T10:18:23.000Z",
+            "date_published": "2026-09-19T10:18:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Neptune Medical、Triton 1 robotic systemでFDA認可を取得",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/eth-zurich-no-soft-robotics-lab-robottohando-no-yubi-wo-ashi-090292",
+            "content_html": "スイス連邦工科大学チューリヒ校のSoft Robotics Labが、ロボットハンドの指を脚のように使って移動する技術を公表した。",
+            "url": "https://physicalainews.jp/news/eth-zurich-no-soft-robotics-lab-robottohando-no-yubi-wo-ashi-090292",
+            "title": "ETH Zurich、ロボットハンドの指を脚として使う技術を公開 | 日本フィジカルAI新聞",
+            "summary": "スイス連邦工科大学チューリヒ校のSoft Robotics Labが、ロボットハンドの指を脚のように使って移動する技術を公表した。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/eth-zurich-no-soft-robotics-lab-robottohando-no-yubi-wo-ashi-090292/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T06:37:00.000Z",
+            "date_published": "2026-09-19T06:37:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ETH Zurich、ロボットハンドの指を脚として使う技術を公開",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/einride-to-lidl-doku-de-kyabin-nashi-jidouunten-torakku-wo-h-6d90f4",
+            "content_html": "EinrideとLidlは、ドイツでキャブのない自律走行トラックを公道上の定期運行に投入したと発表した。この車両はKBAの正式許可を受け、Lidlの配送センターと店舗の間で貨物を運ぶ。初期路線は多地点配送網への拡張が計画され、Schwarz Groupの他部門への展開も協議中である。",
+            "url": "https://physicalainews.jp/news/einride-to-lidl-doku-de-kyabin-nashi-jidouunten-torakku-wo-h-6d90f4",
+            "title": "EinrideとLidl、ドイツでキャブレス自律トラックを公道運行 | 日本フィジカルAI新聞",
+            "summary": "EinrideとLidlは、ドイツでキャブのない自律走行トラックを公道上の定期運行に投入したと発表した。この車両はKBAの正式許可を受け、Lidlの配送センターと店舗の間で貨物を運ぶ。初期路線は多地点配送網への拡張が計画され、Schwarz Groupの他部門への展開も協議中である。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/einride-to-lidl-doku-de-kyabin-nashi-jidouunten-torakku-wo-h-6d90f4/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T03:46:52.000Z",
+            "date_published": "2026-09-19T03:46:52.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "EinrideとLidl、ドイツでキャブレス自律トラックを公道運行",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/u-ki-tsuuyou-ningyou-robo-kiban-moderu-unifolm-wla-1-0-wo-ko-24b351",
+            "content_html": "Unitreeは9月14日に人型ロボットG1+を発表し、感知と運動の機能を更新したと伝えた。あわせて、新世代の汎用人型ロボット基盤モデルUnifoLM-WLA-1.0も公表した。",
+            "url": "https://physicalainews.jp/news/u-ki-tsuuyou-ningyou-robo-kiban-moderu-unifolm-wla-1-0-wo-ko-24b351",
+            "title": "UnitreeがG1+と新基盤モデルを発表 | 日本フィジカルAI新聞",
+            "summary": "Unitreeは9月14日に人型ロボットG1+を発表し、感知と運動の機能を更新したと伝えた。あわせて、新世代の汎用人型ロボット基盤モデルUnifoLM-WLA-1.0も公表した。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/u-ki-tsuuyou-ningyou-robo-kiban-moderu-unifolm-wla-1-0-wo-ko-24b351/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-19T00:06:25.000Z",
+            "date_published": "2026-09-19T00:06:25.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "UnitreeがG1+と新基盤モデルを発表",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/jidouunten-kuruma-no-tenkai-kuni-ga-9-gatsu-ni-kyuuzou-waymo-a3aaae",
+            "content_html": "jidounten-lab.comは、2026年9月に自動運転車に乗れる国や都市が増えたと報じた。",
+            "url": "https://physicalainews.jp/news/jidouunten-kuruma-no-tenkai-kuni-ga-9-gatsu-ni-kyuuzou-waymo-a3aaae",
+            "title": "自動運転車の運行地域が9月に拡大 | 日本フィジカルAI新聞",
+            "summary": "jidounten-lab.comは、2026年9月に自動運転車に乗れる国や都市が増えたと報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/jidouunten-kuruma-no-tenkai-kuni-ga-9-gatsu-ni-kyuuzou-waymo-a3aaae/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-18T22:37:45.000Z",
+            "date_published": "2026-09-18T22:37:45.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "自動運転車の運行地域が9月に拡大",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/waymo-shanai-kamera-ga-juuki-wo-kenchi-996522",
+            "content_html": "Waymoのロボタクシーで、車内カメラが銃器らしき対象を検知し、同社が警察に通報した。報道によると、2026年9月3日未明に米サンフランシスコで発生し、2人の未成年者が拘束された。車内監視の有効性が示された一方、プライバシーをどう扱うかが改めて論点になっている。",
+            "url": "https://physicalainews.jp/news/waymo-shanai-kamera-ga-juuki-wo-kenchi-996522",
+            "title": "Waymoのロボタクシー、車内カメラでライフルを検知 警察に通報 | 日本フィジカルAI新聞",
+            "summary": "Waymoのロボタクシーで、車内カメラが銃器らしき対象を検知し、同社が警察に通報した。報道によると、2026年9月3日未明に米サンフランシスコで発生し、2人の未成年者が拘束された。車内監視の有効性が示された一方、プライバシーをどう扱うかが改めて論点になっている。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/waymo-shanai-kamera-ga-juuki-wo-kenchi-996522/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-18T22:37:00.000Z",
+            "date_published": "2026-09-18T22:37:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Waymoのロボタクシー、車内カメラでライフルを検知 警察に通報",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/temuzakku-to-nishinihon-kango-iryou-daigaku-shouni-kango-kyo-f82bf0",
+            "content_html": "prtimes.jpは2026年9月17日、「テムザックと西日本看護医療大学、小児看護教育で共同研究を開始」と報じた。",
+            "url": "https://physicalainews.jp/news/temuzakku-to-nishinihon-kango-iryou-daigaku-shouni-kango-kyo-f82bf0",
+            "title": "テムザックと西日本看護医療大学、小児看護教育で共同研究を開始 | 日本フィジカルAI新聞",
+            "summary": "prtimes.jpは2026年9月17日、「テムザックと西日本看護医療大学、小児看護教育で共同研究を開始」と報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/temuzakku-to-nishinihon-kango-iryou-daigaku-shouni-kango-kyo-f82bf0/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-18T19:17:10.000Z",
+            "date_published": "2026-09-18T19:17:10.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "テムザックと西日本看護医療大学、小児看護教育で共同研究を開始",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/adobantekku-nvidia-jetpack-7-2-no-kyoudou-dousa-kenshou-wo-k-17f6a1",
+            "content_html": "アドバンテックは、カメラエコシステムパートナー各社との協業で、MIC-AIおよびMIBシリーズ上のNVIDIA JetPack 7.2の動作検証を完了したと発表した。",
+            "url": "https://physicalainews.jp/news/adobantekku-nvidia-jetpack-7-2-no-kyoudou-dousa-kenshou-wo-k-17f6a1",
+            "title": "アドバンテック、JetPack 7.2の検証完了を発表 | 日本フィジカルAI新聞",
+            "summary": "アドバンテックは、カメラエコシステムパートナー各社との協業で、MIC-AIおよびMIBシリーズ上のNVIDIA JetPack 7.2の動作検証を完了したと発表した。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/adobantekku-nvidia-jetpack-7-2-no-kyoudou-dousa-kenshou-wo-k-17f6a1/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-18T16:17:08.000Z",
+            "date_published": "2026-09-18T16:17:08.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "アドバンテック、JetPack 7.2の検証完了を発表",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/lucid-to-bolt-oushuu-de-jidouunten-kuruma-2-man-5000-dai-no-229246",
+            "content_html": "LucidとBoltは9月17日、欧州で少なくとも2万5000台の自動運転Lucid車を展開する提携を発表した。対象はLucidの今後のMidsizeプラットフォームで、SAEレベル4の自動運転向けに開発する。Boltは2035年までに自社プラットフォーム上で10万台の自動運転車を目指しており、今回の提携はその一段階と位置づけられる。",
+            "url": "https://physicalainews.jp/news/lucid-to-bolt-oushuu-de-jidouunten-kuruma-2-man-5000-dai-no-229246",
+            "title": "LucidとBolt、欧州で自動運転車2万5000台の展開で提携 | 日本フィジカルAI新聞",
+            "summary": "LucidとBoltは9月17日、欧州で少なくとも2万5000台の自動運転Lucid車を展開する提携を発表した。対象はLucidの今後のMidsizeプラットフォームで、SAEレベル4の自動運転向けに開発する。Boltは2035年までに自社プラットフォーム上で10万台の自動運転車を目指しており、今回の提携はその一段階と位置づけられる。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/lucid-to-bolt-oushuu-de-jidouunten-kuruma-2-man-5000-dai-no-229246/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-18T15:06:22.000Z",
+            "date_published": "2026-09-18T15:06:22.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "LucidとBolt、欧州で自動運転車2万5000台の展開で提携",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/nikkei-bijinesu-denshi-han-iiron-masuku-shi-no-hitogata-robo-224ba2",
+            "content_html": "日経ビジネス電子版が、イーロン・マスク氏の人型ロボットを支える「見えない手」を報じた。",
+            "url": "https://physicalainews.jp/news/nikkei-bijinesu-denshi-han-iiron-masuku-shi-no-hitogata-robo-224ba2",
+            "title": "日経ビジネス電子版、イーロン・マスク氏の人型ロボットを支える「見えない手」を報道 | 日本フィジカルAI新聞",
+            "summary": "日経ビジネス電子版が、イーロン・マスク氏の人型ロボットを支える「見えない手」を報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/nikkei-bijinesu-denshi-han-iiron-masuku-shi-no-hitogata-robo-224ba2/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-18T13:07:38.000Z",
+            "date_published": "2026-09-18T13:07:38.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "日経ビジネス電子版、イーロン・マスク氏の人型ロボットを支える「見えない手」を報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/forbes-robotakushii-no-juyou-kyuuzou-taiou-wo-ronji-ru-410bfb",
+            "content_html": "Forbesが2026年9月18日付で、ロボタクシーが需要急増にどう対応するかを論じた。公開された見出しと短い説明からは、ピーク時の需要処理が論点であることが分かる。詳細な論旨は原典本文を確認する必要がある。",
+            "url": "https://physicalainews.jp/news/forbes-robotakushii-no-juyou-kyuuzou-taiou-wo-ronji-ru-410bfb",
+            "title": "Forbes、ロボタクシーの需要急増対応を論じる | 日本フィジカルAI新聞",
+            "summary": "Forbesが2026年9月18日付で、ロボタクシーが需要急増にどう対応するかを論じた。公開された見出しと短い説明からは、ピーク時の需要処理が論点であることが分かる。詳細な論旨は原典本文を確認する必要がある。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/forbes-robotakushii-no-juyou-kyuuzou-taiou-wo-ronji-ru-410bfb/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-18T13:06:56.000Z",
+            "date_published": "2026-09-18T13:06:56.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Forbes、ロボタクシーの需要急増対応を論じる",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/toyota-hito-kata-robo-40-man-dai-wo-sekai-no-koujou-ni-touny-e1e20b",
+            "content_html": "日本経済新聞が、トヨタ自動車が自社開発のヒト型ロボット40万台を世界の工場に投入すると報じた。関連する詳細な仕様や導入時期は、提示された抜粋だけでは確認できない。本件は、トヨタのロボット開発を工場運用に結びつける動きとして読む余地がある。",
+            "url": "https://physicalainews.jp/news/toyota-hito-kata-robo-40-man-dai-wo-sekai-no-koujou-ni-touny-e1e20b",
+            "title": "トヨタ、ヒト型ロボ40万台を世界の工場に投入と日経報道 | 日本フィジカルAI新聞",
+            "summary": "日本経済新聞が、トヨタ自動車が自社開発のヒト型ロボット40万台を世界の工場に投入すると報じた。関連する詳細な仕様や導入時期は、提示された抜粋だけでは確認できない。本件は、トヨタのロボット開発を工場運用に結びつける動きとして読む余地がある。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/toyota-hito-kata-robo-40-man-dai-wo-sekai-no-koujou-ni-touny-e1e20b/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-18T13:06:52.000Z",
+            "date_published": "2026-09-18T13:06:52.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "トヨタ、ヒト型ロボ40万台を世界の工場に投入と日経報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/forbes-ukuraina-no-robotto-sen-no-kakudai-wo-houdou-0e1610",
+            "content_html": "Forbesが、ウクライナのロボット戦を「一桁増の規模」に拡大する動きを報じた。原典はインタビュー/論説であり、報じられたという事実以外の具体策は本文では確認できない。詳細は原典を参照する必要がある。",
+            "url": "https://physicalainews.jp/news/forbes-ukuraina-no-robotto-sen-no-kakudai-wo-houdou-0e1610",
+            "title": "Forbes、ウクライナのロボット戦の拡大を報道 | 日本フィジカルAI新聞",
+            "summary": "Forbesが、ウクライナのロボット戦を「一桁増の規模」に拡大する動きを報じた。原典はインタビュー/論説であり、報じられたという事実以外の具体策は本文では確認できない。詳細は原典を参照する必要がある。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/forbes-ukuraina-no-robotto-sen-no-kakudai-wo-houdou-0e1610/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-18T12:36:39.000Z",
+            "date_published": "2026-09-18T12:36:39.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Forbes、ウクライナのロボット戦の拡大を報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/spirit-ai-sougyousha-robotto-no-nou-ha-2027-nen-ni-toppakou-d2a7d7",
+            "content_html": "Spirit AIの創業者は、ロボットの「脳」を巡る技術で2027年に突破口が来るとの見方を示した。発言はロボット本体ではなく、認識・判断・制御を担う中核ソフト／モデル層に焦点がある。実装時期の見通しを示した発言であり、量産や商用化の条件はなお別途確認が必要である。",
+            "url": "https://physicalainews.jp/news/spirit-ai-sougyousha-robotto-no-nou-ha-2027-nen-ni-toppakou-d2a7d7",
+            "title": "Spirit AI創業者、ロボットの「脳」は2027年に突破口と発言 | 日本フィジカルAI新聞",
+            "summary": "Spirit AIの創業者は、ロボットの「脳」を巡る技術で2027年に突破口が来るとの見方を示した。発言はロボット本体ではなく、認識・判断・制御を担う中核ソフト／モデル層に焦点がある。実装時期の見通しを示した発言であり、量産や商用化の条件はなお別途確認が必要である。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/spirit-ai-sougyousha-robotto-no-nou-ha-2027-nen-ni-toppakou-d2a7d7/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-18T11:49:18.000Z",
+            "date_published": "2026-09-18T11:49:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Spirit AI創業者、ロボットの「脳」は2027年に突破口と発言",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/toyota-2028-nen-kara-koujou-jidouka-he-nen-64-oku-doru-kibo-8ead72",
+            "content_html": "ロイターは、トヨタ自動車が2028年から工場の自動化と更新に年約1兆円を投じる見通しだと報じた。",
+            "url": "https://physicalainews.jp/news/toyota-2028-nen-kara-koujou-jidouka-he-nen-64-oku-doru-kibo-8ead72",
+            "title": "トヨタ、2028年から年1兆円規模の工場更新を報道 | 日本フィジカルAI新聞",
+            "summary": "ロイターは、トヨタ自動車が2028年から工場の自動化と更新に年約1兆円を投じる見通しだと報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/toyota-2028-nen-kara-koujou-jidouka-he-nen-64-oku-doru-kibo-8ead72/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-18T11:47:03.000Z",
+            "date_published": "2026-09-18T11:47:03.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "トヨタ、2028年から年1兆円規模の工場更新を報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/kagi-okugai-raibu-de-robotto-no-jiritsu-dousa-wo-koukai-19882f",
+            "content_html": "乐享科技は、以太大模型を載せたロボットの屋外ライブを公開したと報じられた。",
+            "url": "https://physicalainews.jp/news/kagi-okugai-raibu-de-robotto-no-jiritsu-dousa-wo-koukai-19882f",
+            "title": "乐享科技、屋外ライブで自律実演 | 日本フィジカルAI新聞",
+            "summary": "乐享科技は、以太大模型を載せたロボットの屋外ライブを公開したと報じられた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/kagi-okugai-raibu-de-robotto-no-jiritsu-dousa-wo-koukai-19882f/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-18T11:38:48.000Z",
+            "date_published": "2026-09-18T11:38:48.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "乐享科技、屋外ライブで自律実演",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        }
+    ]
+}
