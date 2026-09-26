@@ -1,0 +1,730 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AI・ロボティクス技術ニュース RSS",
+    "home_page_url": "https://takashinnosuke.github.io/slack_AI_news_bot/",
+    "feed_url": "https://takashinnosuke.github.io/slack_AI_news_bot/feeds/feed.json",
+    "description": "AI・ロボティクスに関連するテック情報やニュースをまとめたRSSフィード",
+    "icon": "https://takashinnosuke.github.io/slack_AI_news_bot/images/icon.png",
+    "items": [
+        {
+            "id": "https://physicalainews.jp/news/deeproute-ai-vla-tousai-no-unten-shien-purattofoomu-deeprout-2def92",
+            "content_html": "prnewswire.comは2025年8月26日、「DeepRoute.ai、VLA搭載の運転支援プラットフォーム「DeepRoute IO 2.0」を発表」と報じた。",
+            "url": "https://physicalainews.jp/news/deeproute-ai-vla-tousai-no-unten-shien-purattofoomu-deeprout-2def92",
+            "title": "DeepRoute.ai、VLA搭載の運転支援プラットフォーム「DeepRoute IO 2.0」を発表 | 日本フィジカルAI新聞",
+            "summary": "prnewswire.comは2025年8月26日、「DeepRoute.ai、VLA搭載の運転支援プラットフォーム「DeepRoute IO 2.0」を発表」と報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/deeproute-ai-vla-tousai-no-unten-shien-purattofoomu-deeprout-2def92/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T15:06:35.000Z",
+            "date_published": "2026-09-26T15:06:35.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "DeepRoute.ai、VLA搭載の運転支援プラットフォーム「DeepRoute IO 2.0」を発表",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/tesla-no-optimus-seisan-mondai-neoteo-ga-houji-ru-f60e8d",
+            "content_html": "Teslaのヒト型ロボット「Optimus」をめぐり、生産上の問題が報じられた。主ソースは2026年9月26日掲載のNeoTeo記事で、量産局面でのつまずきが主題である。詳細は原典確認が必要である。",
+            "url": "https://physicalainews.jp/news/tesla-no-optimus-seisan-mondai-neoteo-ga-houji-ru-f60e8d",
+            "title": "TeslaのOptimus生産問題、NeoTeoが報じる | 日本フィジカルAI新聞",
+            "summary": "Teslaのヒト型ロボット「Optimus」をめぐり、生産上の問題が報じられた。主ソースは2026年9月26日掲載のNeoTeo記事で、量産局面でのつまずきが主題である。詳細は原典確認が必要である。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/tesla-no-optimus-seisan-mondai-neoteo-ga-houji-ru-f60e8d/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T14:38:01.000Z",
+            "date_published": "2026-09-26T14:38:01.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "TeslaのOptimus生産問題、NeoTeoが報じる",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/the-robot-report-robotakushii-no-kakudai-jouken-wo-ronji-ru-e21b6f",
+            "content_html": "The Robot Reportは、ロボタクシーを大規模に広げるために必要な条件を扱う記事を掲載した。記事は、運行規模の拡大に向けた課題として充電や整備などの周辺業務に触れている。掲載日は2026年9月26日。",
+            "url": "https://physicalainews.jp/news/the-robot-report-robotakushii-no-kakudai-jouken-wo-ronji-ru-e21b6f",
+            "title": "The Robot Report、ロボタクシー拡大の条件を考察する記事を掲載 | 日本フィジカルAI新聞",
+            "summary": "The Robot Reportは、ロボタクシーを大規模に広げるために必要な条件を扱う記事を掲載した。記事は、運行規模の拡大に向けた課題として充電や整備などの周辺業務に触れている。掲載日は2026年9月26日。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/the-robot-report-robotakushii-no-kakudai-jouken-wo-ronji-ru-e21b6f/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T14:37:19.000Z",
+            "date_published": "2026-09-26T14:37:19.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The Robot Report、ロボタクシー拡大の条件を考察する記事を掲載",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/idtechex-chousa-hyuumanoido-sekkei-no-yaku-8-wari-ga-sangyou-da1b7d",
+            "content_html": "humanoid.guideは2026年9月26日、「IDTechEx調査、ヒューマノイド設計の約8割が産業用途」と報じた。",
+            "url": "https://physicalainews.jp/news/idtechex-chousa-hyuumanoido-sekkei-no-yaku-8-wari-ga-sangyou-da1b7d",
+            "title": "IDTechEx調査、ヒューマノイド設計の約8割が産業用途 | 日本フィジカルAI新聞",
+            "summary": "humanoid.guideは2026年9月26日、「IDTechEx調査、ヒューマノイド設計の約8割が産業用途」と報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/idtechex-chousa-hyuumanoido-sekkei-no-yaku-8-wari-ga-sangyou-da1b7d/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T11:17:56.000Z",
+            "date_published": "2026-09-26T11:17:56.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "IDTechEx調査、ヒューマノイド設計の約8割が産業用途",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/tesla-no-optimus-seisan-ni-ryousan-ueno-kadai-to-houdou-e7d8a1",
+            "content_html": "tbreak.comが2026年9月26日、Teslaのヒト型ロボット「Optimus」の生産が量産拡大の局面で課題に直面していると報じた。公開情報の範囲では、今回の記事は生産面の具体的なつまずきを示す報道であり、詳細は原典確認が必要である。本紙の既報では手の量産や部品供給網が焦点になっており、量産の難所が可動部から供給網へ連続している構図が見える。",
+            "url": "https://physicalainews.jp/news/tesla-no-optimus-seisan-ni-ryousan-ueno-kadai-to-houdou-e7d8a1",
+            "title": "TeslaのOptimus生産に量産上の課題と報道 | 日本フィジカルAI新聞",
+            "summary": "tbreak.comが2026年9月26日、Teslaのヒト型ロボット「Optimus」の生産が量産拡大の局面で課題に直面していると報じた。公開情報の範囲では、今回の記事は生産面の具体的なつまずきを示す報道であり、詳細は原典確認が必要である。本紙の既報では手の量産や部品供給網が焦点になっており、量産の難所が可動部から供給網へ連続している構図が見える。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/tesla-no-optimus-seisan-ni-ryousan-ueno-kadai-to-houdou-e7d8a1/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T11:17:01.000Z",
+            "date_published": "2026-09-26T11:17:01.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "TeslaのOptimus生産に量産上の課題と報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/china-mobile-hyuumanoido-seigyo-sofuto-open-rail-wo-houdou-70631d",
+            "content_html": "humanoid.guideが9月26日、China MobileがOpen-RAILを公開したと報じた。",
+            "url": "https://physicalainews.jp/news/china-mobile-hyuumanoido-seigyo-sofuto-open-rail-wo-houdou-70631d",
+            "title": "China Mobile、ヒューマノイド制御ソフトOpen-RAILを報道 | 日本フィジカルAI新聞",
+            "summary": "humanoid.guideが9月26日、China MobileがOpen-RAILを公開したと報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/china-mobile-hyuumanoido-seigyo-sofuto-open-rail-wo-houdou-70631d/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T08:17:28.000Z",
+            "date_published": "2026-09-26T08:17:28.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "China Mobile、ヒューマノイド制御ソフトOpen-RAILを報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/koushuu-kouan-no-hikou-gushou-ken-14-meetoru-maibyou-de-ochi-220f3e",
+            "content_html": "9月20日、杭州余杭で「智竞未来」首届智能機器人応用技能大展浙江站が始まったと、leaderobot.comが報じた。記事では300余台のロボットが集まったとしている。",
+            "url": "https://physicalainews.jp/news/koushuu-kouan-no-hikou-gushou-ken-14-meetoru-maibyou-de-ochi-220f3e",
+            "title": "杭州で特種機器人300台超が展示 | 日本フィジカルAI新聞",
+            "summary": "9月20日、杭州余杭で「智竞未来」首届智能機器人応用技能大展浙江站が始まったと、leaderobot.comが報じた。記事では300余台のロボットが集まったとしている。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/koushuu-kouan-no-hikou-gushou-ken-14-meetoru-maibyou-de-ochi-220f3e/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T08:07:11.000Z",
+            "date_published": "2026-09-26T08:07:11.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "杭州で特種機器人300台超が展示",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/indexbox-ai-shujutsu-robotto-shijou-no-2035-nen-mitooshi-wo-c07b16",
+            "content_html": "IndexBoxは、AI手術ロボット市場が2026年から2035年にかけて拡大すると報告した。市場拡大の主因として、外科医不足が挙げられた。",
+            "url": "https://physicalainews.jp/news/indexbox-ai-shujutsu-robotto-shijou-no-2035-nen-mitooshi-wo-c07b16",
+            "title": "IndexBox、AI手術ロボット市場の2035年までの拡大を予測 | 日本フィジカルAI新聞",
+            "summary": "IndexBoxは、AI手術ロボット市場が2026年から2035年にかけて拡大すると報告した。市場拡大の主因として、外科医不足が挙げられた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/indexbox-ai-shujutsu-robotto-shijou-no-2035-nen-mitooshi-wo-c07b16/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T05:38:31.000Z",
+            "date_published": "2026-09-26T05:38:31.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "IndexBox、AI手術ロボット市場の2035年までの拡大を予測",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/mondo-robotics-beni-no-shien-boshuu-wo-annai-735d9a",
+            "content_html": "海外メディアleaderobot.comは、Mondo Roboticsの小型双足ロボット「Beni」を数週間試した結果として、走行追跡や自立復帰は一定の評価に値する一方、障害物回避は大きな弱点だと報じた。",
+            "url": "https://physicalainews.jp/news/mondo-robotics-beni-no-shien-boshuu-wo-annai-735d9a",
+            "title": "Mondo RoboticsのBeniを海外メディアが検証　追跡は一定評価も障害物回避に難点 | 日本フィジカルAI新聞",
+            "summary": "海外メディアleaderobot.comは、Mondo Roboticsの小型双足ロボット「Beni」を数週間試した結果として、走行追跡や自立復帰は一定の評価に値する一方、障害物回避は大きな弱点だと報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/mondo-robotics-beni-no-shien-boshuu-wo-annai-735d9a/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T05:37:29.000Z",
+            "date_published": "2026-09-26T05:37:29.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Mondo RoboticsのBeniを海外メディアが検証　追跡は一定評価も障害物回避に難点",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/pitpro-automation-kanada-no-kal-tire-tenpo-de-jidou-taiya-ko-c2b305",
+            "content_html": "PitPro Automationが、カナダ・カルガリーのKal Tire店舗に初のロボットシステムを設置したと報じられた。システムは2台の箱型ロボットで構成され、タイヤ交換を約15分でこなすとされる。本件は、タイヤ交換の自動化をめぐる実装段階に入った動きとして読める。",
+            "url": "https://physicalainews.jp/news/pitpro-automation-kanada-no-kal-tire-tenpo-de-jidou-taiya-ko-c2b305",
+            "title": "PitPro Automation、カナダのKal Tire店舗で自動タイヤ交換システムを設置 | 日本フィジカルAI新聞",
+            "summary": "PitPro Automationが、カナダ・カルガリーのKal Tire店舗に初のロボットシステムを設置したと報じられた。システムは2台の箱型ロボットで構成され、タイヤ交換を約15分でこなすとされる。本件は、タイヤ交換の自動化をめぐる実装段階に入った動きとして読める。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/pitpro-automation-kanada-no-kal-tire-tenpo-de-jidou-taiya-ko-c2b305/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T05:36:44.000Z",
+            "date_published": "2026-09-26T05:36:44.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "PitPro Automation、カナダのKal Tire店舗で自動タイヤ交換システムを設置",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/zoox-rasubegasu-no-unkou-daisuu-jougen-ga-kaijo-kakudai-yoch-2cb998",
+            "content_html": "報道によると、Amazon傘下のZooxが米ネバダ州ラスベガスで展開する自動運転ロボタクシーの最大100台という台数制限が、9月25日の期限到来で失効した。",
+            "url": "https://physicalainews.jp/news/zoox-rasubegasu-no-unkou-daisuu-jougen-ga-kaijo-kakudai-yoch-2cb998",
+            "title": "Zoox、ラスベガスの台数上限が失効 | 日本フィジカルAI新聞",
+            "summary": "報道によると、Amazon傘下のZooxが米ネバダ州ラスベガスで展開する自動運転ロボタクシーの最大100台という台数制限が、9月25日の期限到来で失効した。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/zoox-rasubegasu-no-unkou-daisuu-jougen-ga-kaijo-kakudai-yoch-2cb998/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T05:07:51.000Z",
+            "date_published": "2026-09-26T05:07:51.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Zoox、ラスベガスの台数上限が失効",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/teradoroon-geigeki-doroon-ga-jisshou-shiken-wo-tsuuka-e25f50",
+            "content_html": "日経クロステックは、テラドローンの国産迎撃ドローン「Terra B1」が自衛隊向けの実証試験を通過したと報じた。",
+            "url": "https://physicalainews.jp/news/teradoroon-geigeki-doroon-ga-jisshou-shiken-wo-tsuuka-e25f50",
+            "title": "テラドローン、迎撃ドローンの実証通過を報道 | 日本フィジカルAI新聞",
+            "summary": "日経クロステックは、テラドローンの国産迎撃ドローン「Terra B1」が自衛隊向けの実証試験を通過したと報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/teradoroon-geigeki-doroon-ga-jisshou-shiken-wo-tsuuka-e25f50/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T05:07:18.000Z",
+            "date_published": "2026-09-26T05:07:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "テラドローン、迎撃ドローンの実証通過を報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/nikkei-kurosutekku-kensetsu-3d-purintaa-wo-meguru-kiseikanwa-c9856e",
+            "content_html": "日経クロステックが、建設3Dプリンターとロボットを支える建築現場の変化を報じた。",
+            "url": "https://physicalainews.jp/news/nikkei-kurosutekku-kensetsu-3d-purintaa-wo-meguru-kiseikanwa-c9856e",
+            "title": "日経クロステック、建設3Dプリンターを巡る規制緩和とロボット活用を報じる | 日本フィジカルAI新聞",
+            "summary": "日経クロステックが、建設3Dプリンターとロボットを支える建築現場の変化を報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/nikkei-kurosutekku-kensetsu-3d-purintaa-wo-meguru-kiseikanwa-c9856e/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T05:07:02.000Z",
+            "date_published": "2026-09-26T05:07:02.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "日経クロステック、建設3Dプリンターを巡る規制緩和とロボット活用を報じる",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/the-robot-works-kayou-robotto-goose-wo-koukai-ningyou-dehana-61e02b",
+            "content_html": "The Robot Worksが家用ロボット「Goose」を公開した。報道によると、人形型ではなく、低い底部と長い首を備えた形状を採用したという。同社は家庭内での整理、遊び、生活を想定しているとされる。詳細な設計意図や開発の位置づけは、原典を参照する必要がある。",
+            "url": "https://physicalainews.jp/news/the-robot-works-kayou-robotto-goose-wo-koukai-ningyou-dehana-61e02b",
+            "title": "The Robot Works、家用ロボット「Goose」を公開　人形ではなく“ガチョウ”型を採用 | 日本フィジカルAI新聞",
+            "summary": "The Robot Worksが家用ロボット「Goose」を公開した。報道によると、人形型ではなく、低い底部と長い首を備えた形状を採用したという。同社は家庭内での整理、遊び、生活を想定しているとされる。詳細な設計意図や開発の位置づけは、原典を参照する必要がある。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/the-robot-works-kayou-robotto-goose-wo-koukai-ningyou-dehana-61e02b/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T04:06:16.000Z",
+            "date_published": "2026-09-26T04:06:16.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The Robot Works、家用ロボット「Goose」を公開　人形ではなく“ガチョウ”型を採用",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/luum-matsuge-ekusute-no-jidouka-wo-houji-rareru-85e9c3",
+            "content_html": "米カリフォルニア州のLUUMは、ロボットとAIを使ってまつげエクステの施術を自動化するサービスを展開していると、leaderobot.comが報じた。",
+            "url": "https://physicalainews.jp/news/luum-matsuge-ekusute-no-jidouka-wo-houji-rareru-85e9c3",
+            "title": "LUUM、ロボットとAIでまつげエクステを自動化 | 日本フィジカルAI新聞",
+            "summary": "米カリフォルニア州のLUUMは、ロボットとAIを使ってまつげエクステの施術を自動化するサービスを展開していると、leaderobot.comが報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/luum-matsuge-ekusute-no-jidouka-wo-houji-rareru-85e9c3/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T03:41:29.000Z",
+            "date_published": "2026-09-26T03:41:29.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "LUUM、ロボットとAIでまつげエクステを自動化",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/ieee-spectrum-ga-maishuu-no-robotto-douga-kikaku-de-skydio-n-fc4cc3",
+            "content_html": "leaderobot.comは2026年9月26日、「IEEE Spectrumが毎週のロボット動画企画でSkydioのF10を紹介」と報じた。",
+            "url": "https://physicalainews.jp/news/ieee-spectrum-ga-maishuu-no-robotto-douga-kikaku-de-skydio-n-fc4cc3",
+            "title": "IEEE Spectrumが毎週のロボット動画企画でSkydioのF10を紹介 | 日本フィジカルAI新聞",
+            "summary": "leaderobot.comは2026年9月26日、「IEEE Spectrumが毎週のロボット動画企画でSkydioのF10を紹介」と報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/ieee-spectrum-ga-maishuu-no-robotto-douga-kikaku-de-skydio-n-fc4cc3/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T03:40:36.000Z",
+            "date_published": "2026-09-26T03:40:36.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "IEEE Spectrumが毎週のロボット動画企画でSkydioのF10を紹介",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/nanko-nou-ki-kousa-kenkyuu-in-nou-ki-intaafeesu-ha-rinshou-s-2c6a84",
+            "content_html": "leaderobot.comは2026年9月26日、南湖脳機交叉研究院に関する記事を掲載した。記事は、脳機インターフェースが一般患者に届くまでの距離と、段樹民氏の見方を伝えている。原典はインタビュー記事であり、詳細は原典を参照されたい。",
+            "url": "https://physicalainews.jp/news/nanko-nou-ki-kousa-kenkyuu-in-nou-ki-intaafeesu-ha-rinshou-s-2c6a84",
+            "title": "南湖脳機交叉研究院、脳機インターフェースは臨床試験段階と報じられる | 日本フィジカルAI新聞",
+            "summary": "leaderobot.comは2026年9月26日、南湖脳機交叉研究院に関する記事を掲載した。記事は、脳機インターフェースが一般患者に届くまでの距離と、段樹民氏の見方を伝えている。原典はインタビュー記事であり、詳細は原典を参照されたい。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/nanko-nou-ki-kousa-kenkyuu-in-nou-ki-intaafeesu-ha-rinshou-s-2c6a84/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T03:39:34.000Z",
+            "date_published": "2026-09-26T03:39:34.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "南湖脳機交叉研究院、脳機インターフェースは臨床試験段階と報じられる",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/kazu-no-gu-mi-chinou-robotto-kyougi-100-yo-shitai-go-ga-14-s-2bb2d4",
+            "content_html": "第5回グローバルデジタル貿易博覧会の会場で、具身智能ロボットの挑戦競技が行われた。",
+            "url": "https://physicalainews.jp/news/kazu-no-gu-mi-chinou-robotto-kyougi-100-yo-shitai-go-ga-14-s-2bb2d4",
+            "title": "杭州で具身智能ロボットの競技大会 | 日本フィジカルAI新聞",
+            "summary": "第5回グローバルデジタル貿易博覧会の会場で、具身智能ロボットの挑戦競技が行われた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/kazu-no-gu-mi-chinou-robotto-kyougi-100-yo-shitai-go-ga-14-s-2bb2d4/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T03:08:05.000Z",
+            "date_published": "2026-09-26T03:08:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "杭州で具身智能ロボットの競技大会",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/taiyoukou-hashu-robotto-shushi-haichi-seido-98-8-to-houdou-b8437f",
+            "content_html": "leaderobot.comは、太陽光で動く播種ロボットの種子配置精度を報じた。記事では、試験条件下で98.08%から98.80%の精度が示されたとしている。",
+            "url": "https://physicalainews.jp/news/taiyoukou-hashu-robotto-shushi-haichi-seido-98-8-to-houdou-b8437f",
+            "title": "太陽光播種ロボットの種子配置精度を報告 | 日本フィジカルAI新聞",
+            "summary": "leaderobot.comは、太陽光で動く播種ロボットの種子配置精度を報じた。記事では、試験条件下で98.08%から98.80%の精度が示されたとしている。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/taiyoukou-hashu-robotto-shushi-haichi-seido-98-8-to-houdou-b8437f/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T03:06:56.000Z",
+            "date_published": "2026-09-26T03:06:56.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "太陽光播種ロボットの種子配置精度を報告",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/leaderobot-com-satoru-motono-rei-koushu-omnihand-wo-houji-ru-cc64b6",
+            "content_html": "leaderobot.comは2026年9月26日、「leaderobot.com、智元の霊巧手OmniHandを報じる 運動会で7金」と報じた。",
+            "url": "https://physicalainews.jp/news/leaderobot-com-satoru-motono-rei-koushu-omnihand-wo-houji-ru-cc64b6",
+            "title": "leaderobot.com、智元の霊巧手OmniHandを報じる　運動会で7金 | 日本フィジカルAI新聞",
+            "summary": "leaderobot.comは2026年9月26日、「leaderobot.com、智元の霊巧手OmniHandを報じる 運動会で7金」と報じた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/leaderobot-com-satoru-motono-rei-koushu-omnihand-wo-houji-ru-cc64b6/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T02:37:03.000Z",
+            "date_published": "2026-09-26T02:37:03.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "leaderobot.com、智元の霊巧手OmniHandを報じる　運動会で7金",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/36kr-qunhe-baidu-jd-no-gu-mi-ai-deeta-kiban-wo-houdou-d0771b",
+            "content_html": "36Krが2026年4月24日、Qunhe、Baidu、JDに関する具身AIデータの取り組みを報じた。主題は、Qunheが訓練用の場をつくり、Baiduがパイプラインを敷き、JDが舞台を整えるという整理である。詳細は原典を参照する必要があり、公開情報だけでは各社の具体的な役割分担や規模は確定しない。",
+            "url": "https://physicalainews.jp/news/36kr-qunhe-baidu-jd-no-gu-mi-ai-deeta-kiban-wo-houdou-d0771b",
+            "title": "36Kr、Qunhe・Baidu・JDの具身AIデータ基盤を報道 | 日本フィジカルAI新聞",
+            "summary": "36Krが2026年4月24日、Qunhe、Baidu、JDに関する具身AIデータの取り組みを報じた。主題は、Qunheが訓練用の場をつくり、Baiduがパイプラインを敷き、JDが舞台を整えるという整理である。詳細は原典を参照する必要があり、公開情報だけでは各社の具体的な役割分担や規模は確定しない。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/36kr-qunhe-baidu-jd-no-gu-mi-ai-deeta-kiban-wo-houdou-d0771b/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T02:07:07.000Z",
+            "date_published": "2026-09-26T02:07:07.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "36Kr、Qunhe・Baidu・JDの具身AIデータ基盤を報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/36kr-kei-kiji-unitree-wo-sangyou-cheen-no-shudou-kigyou-tosh-759283",
+            "content_html": "36Kr系の報道が、Unitreeを「産業チェーンの主導企業」と位置づけて取り上げた。主題は、ヒューマノイドロボットの技術成熟と量産普及をどう進めるかにある。詳細は原典を参照する必要があり、本文では報道された事実の範囲にとどめる。",
+            "url": "https://physicalainews.jp/news/36kr-kei-kiji-unitree-wo-sangyou-cheen-no-shudou-kigyou-tosh-759283",
+            "title": "36Kr系記事、Unitreeを産業チェーンの主導企業として取り上げる | 日本フィジカルAI新聞",
+            "summary": "36Kr系の報道が、Unitreeを「産業チェーンの主導企業」と位置づけて取り上げた。主題は、ヒューマノイドロボットの技術成熟と量産普及をどう進めるかにある。詳細は原典を参照する必要があり、本文では報道された事実の範囲にとどめる。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/36kr-kei-kiji-unitree-wo-sangyou-cheen-no-shudou-kigyou-tosh-759283/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T02:06:18.000Z",
+            "date_published": "2026-09-26T02:06:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "36Kr系記事、Unitreeを産業チェーンの主導企業として取り上げる",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/tesla-no-optimus-gen-3-android-apuri-nai-de-shisa-c1d15d",
+            "content_html": "TeslaのAndroidアプリ内に、未発表とみられるヒト型ロボット「Optimus Gen 3」のアセットが見つかったと報じられた。",
+            "url": "https://physicalainews.jp/news/tesla-no-optimus-gen-3-android-apuri-nai-de-shisa-c1d15d",
+            "title": "TeslaのAndroidアプリでOptimus Gen 3のデザイン示唆か | 日本フィジカルAI新聞",
+            "summary": "TeslaのAndroidアプリ内に、未発表とみられるヒト型ロボット「Optimus Gen 3」のアセットが見つかったと報じられた。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/tesla-no-optimus-gen-3-android-apuri-nai-de-shisa-c1d15d/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T01:51:49.000Z",
+            "date_published": "2026-09-26T01:51:49.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "TeslaのAndroidアプリでOptimus Gen 3のデザイン示唆か",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/sankei-nyuusu-josetsu-doroon-r-no-jidou-soukou-ka-wo-houdou-131c45",
+            "content_html": "産経ニュースは2026年9月24日、除雪ドローン(R)が「ラジコン操作」から「自動走行」へ進化したと報じた。主題は操作方法の変化であり、記事本文の抜粋からは具体的な性能値や導入規模は確認できない。本件は実証や開発の段階変化を示す報道として読むのが妥当である。",
+            "url": "https://physicalainews.jp/news/sankei-nyuusu-josetsu-doroon-r-no-jidou-soukou-ka-wo-houdou-131c45",
+            "title": "除雪ドローンが「ラジコン操作」から自動走行へ進化と産経ニュースが報道 | 日本フィジカルAI新聞",
+            "summary": "産経ニュースは2026年9月24日、除雪ドローン(R)が「ラジコン操作」から「自動走行」へ進化したと報じた。主題は操作方法の変化であり、記事本文の抜粋からは具体的な性能値や導入規模は確認できない。本件は実証や開発の段階変化を示す報道として読むのが妥当である。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/sankei-nyuusu-josetsu-doroon-r-no-jidou-soukou-ka-wo-houdou-131c45/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-26T01:47:24.000Z",
+            "date_published": "2026-09-26T01:47:24.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "除雪ドローンが「ラジコン操作」から自動走行へ進化と産経ニュースが報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/douro-tenken-no-soukouchuu-kenchi-shisutemu-jisshou-jikken-w-742524",
+            "content_html": "道路点検の担い手不足を見据え、走行しながら損傷などを自動検知するシステムの実証実験が始まった。報道によると、走行中に検知する方式を採る点が特徴で、点検業務の省力化を狙う動きだ。詳細は原典を参照されたい。",
+            "url": "https://physicalainews.jp/news/douro-tenken-no-soukouchuu-kenchi-shisutemu-jisshou-jikken-w-742524",
+            "title": "道路点検の走行中検知システム、実証実験を開始 | 日本フィジカルAI新聞",
+            "summary": "道路点検の担い手不足を見据え、走行しながら損傷などを自動検知するシステムの実証実験が始まった。報道によると、走行中に検知する方式を採る点が特徴で、点検業務の省力化を狙う動きだ。詳細は原典を参照されたい。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/douro-tenken-no-soukouchuu-kenchi-shisutemu-jisshou-jikken-w-742524/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-25T22:39:58.000Z",
+            "date_published": "2026-09-25T22:39:58.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "道路点検の走行中検知システム、実証実験を開始",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/nvidia-jetson-agx-orin-no-genba-muke-katsuyou-wo-houji-ru-ta-b08e23",
+            "content_html": "sankei.comが、NVIDIA Jetson AGX Orinを現場にそのまま持ち込む多眼カメラのAI認識について報じた。原典はインタビュー/コラムであり、発言や論旨の詳細は本稿では踏み込まない。詳細は原典を参照しつつ、公開情報の範囲で位置づけを読む必要がある。",
+            "url": "https://physicalainews.jp/news/nvidia-jetson-agx-orin-no-genba-muke-katsuyou-wo-houji-ru-ta-b08e23",
+            "title": "NVIDIA Jetson AGX Orinの現場向け活用を報じる　多眼カメラ認識をプラグアンドプレイで | 日本フィジカルAI新聞",
+            "summary": "sankei.comが、NVIDIA Jetson AGX Orinを現場にそのまま持ち込む多眼カメラのAI認識について報じた。原典はインタビュー/コラムであり、発言や論旨の詳細は本稿では踏み込まない。詳細は原典を参照しつつ、公開情報の範囲で位置づけを読む必要がある。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/nvidia-jetson-agx-orin-no-genba-muke-katsuyou-wo-houji-ru-ta-b08e23/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-25T22:39:23.000Z",
+            "date_published": "2026-09-25T22:39:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "NVIDIA Jetson AGX Orinの現場向け活用を報じる　多眼カメラ認識をプラグアンドプレイで",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/nikkei-kurosutekku-e2e-jidouunten-no-haken-arasoi-wo-houdou-7223e7",
+            "content_html": "日経クロステックが2026年9月25日、E2E自動運転の覇権争いをテーマにした記事を掲載した。見出しではトヨタ、テスラ、新興勢の狙いを並べ、チューリングの山本CEOの発言も取り上げている。詳細は原典を参照する必要がある。",
+            "url": "https://physicalainews.jp/news/nikkei-kurosutekku-e2e-jidouunten-no-haken-arasoi-wo-houdou-7223e7",
+            "title": "日経クロステック、E2E自動運転の覇権争いを報道　トヨタ・テスラ・新興勢の狙いを特集 | 日本フィジカルAI新聞",
+            "summary": "日経クロステックが2026年9月25日、E2E自動運転の覇権争いをテーマにした記事を掲載した。見出しではトヨタ、テスラ、新興勢の狙いを並べ、チューリングの山本CEOの発言も取り上げている。詳細は原典を参照する必要がある。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/nikkei-kurosutekku-e2e-jidouunten-no-haken-arasoi-wo-houdou-7223e7/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-25T22:38:53.000Z",
+            "date_published": "2026-09-25T22:38:53.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "日経クロステック、E2E自動運転の覇権争いを報道　トヨタ・テスラ・新興勢の狙いを特集",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/feather-hyuumanoidorobotto-wo-29-990-doru-de-hatsubai-to-hou-34874c",
+            "content_html": "Featherがヒューマノイドロボットを29,990ドルで発売したと報じられた。原典は報道記事であり、発言や詳細仕様の一次情報は本文抜粋から確認できない。焦点は、低価格を前面に出したヒューマノイドの商用化がどこまで現実的かに移る。",
+            "url": "https://physicalainews.jp/news/feather-hyuumanoidorobotto-wo-29-990-doru-de-hatsubai-to-hou-34874c",
+            "title": "Feather、ヒューマノイドロボットを29,990ドルで発売と報道 | 日本フィジカルAI新聞",
+            "summary": "Featherがヒューマノイドロボットを29,990ドルで発売したと報じられた。原典は報道記事であり、発言や詳細仕様の一次情報は本文抜粋から確認できない。焦点は、低価格を前面に出したヒューマノイドの商用化がどこまで現実的かに移る。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/feather-hyuumanoidorobotto-wo-29-990-doru-de-hatsubai-to-hou-34874c/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-25T22:37:00.000Z",
+            "date_published": "2026-09-25T22:37:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Feather、ヒューマノイドロボットを29,990ドルで発売と報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/the-robot-report-general-robotics-no-intabyuu-wo-keisai-grid-cefbe4",
+            "content_html": "The Robot Reportは2026年9月25日、General RoboticsのCTO、Sai Vemprala氏へのインタビュー記事を掲載した。記事は、同社が単一の「ロボット脳」ではなく、モジュール型の知能を重視している点を取り上げた。詳細な発言内容は原典を参照されたい。",
+            "url": "https://physicalainews.jp/news/the-robot-report-general-robotics-no-intabyuu-wo-keisai-grid-cefbe4",
+            "title": "The Robot Report、General Roboticsのインタビューを掲載　GRIDの考え方を紹介 | 日本フィジカルAI新聞",
+            "summary": "The Robot Reportは2026年9月25日、General RoboticsのCTO、Sai Vemprala氏へのインタビュー記事を掲載した。記事は、同社が単一の「ロボット脳」ではなく、モジュール型の知能を重視している点を取り上げた。詳細な発言内容は原典を参照されたい。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/the-robot-report-general-robotics-no-intabyuu-wo-keisai-grid-cefbe4/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-25T21:07:56.000Z",
+            "date_published": "2026-09-25T21:07:56.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The Robot Report、General Roboticsのインタビューを掲載　GRIDの考え方を紹介",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/amazon-ga-indiana-shuu-ni-shinsei-zou-shisetsu-he-toushi-306b3a",
+            "content_html": "Amazonはインディアナ州グリーンウッドで、1億ドル超を投じる585,000平方フィートの先端製造施設を整備する。",
+            "url": "https://physicalainews.jp/news/amazon-ga-indiana-shuu-ni-shinsei-zou-shisetsu-he-toushi-306b3a",
+            "title": "Amazon、インディアナ州グリーンウッドに製造施設へ1億ドル超投資 | 日本フィジカルAI新聞",
+            "summary": "Amazonはインディアナ州グリーンウッドで、1億ドル超を投じる585,000平方フィートの先端製造施設を整備する。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/amazon-ga-indiana-shuu-ni-shinsei-zou-shisetsu-he-toushi-306b3a/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-09-25T21:07:18.000Z",
+            "date_published": "2026-09-25T21:07:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Amazon、インディアナ州グリーンウッドに製造施設へ1億ドル超投資",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        }
+    ]
+}
