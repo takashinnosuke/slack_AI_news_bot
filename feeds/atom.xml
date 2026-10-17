@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://takashinnosuke.github.io/slack_AI_news_bot/</id>
+    <title>AI・ロボティクス技術ニュース RSS</title>
+    <updated>2026-10-17T16:07:56.506Z</updated>
+    <generator>takashinnosuke/slack_AI_news_bot</generator>
+    <link rel="alternate" href="https://takashinnosuke.github.io/slack_AI_news_bot/"/>
+    <link rel="self" href="https://takashinnosuke.github.io/slack_AI_news_bot/feeds/atom.xml"/>
+    <subtitle>AI・ロボティクスに関連するテック情報やニュースをまとめたRSSフィード</subtitle>
+    <logo>https://takashinnosuke.github.io/slack_AI_news_bot/images/icon.png</logo>
+    <icon>https://takashinnosuke.github.io/slack_AI_news_bot/images/favicon.ico</icon>
+    <rights>takashinnosuke/slack_AI_news_bot</rights>
+    <entry>
+        <title type="html"><![CDATA[1Xの家庭用ヒューマノイドNeo、TIMEの2026年ベスト発明に選出 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/1x-no-kateiyou-hyuumanoido-neo-time-no-2026-nen-besuto-hatsu-00ef60</id>
+        <link href="https://physicalainews.jp/news/1x-no-kateiyou-hyuumanoido-neo-time-no-2026-nen-besuto-hatsu-00ef60"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/1x-no-kateiyou-hyuumanoido-neo-time-no-2026-nen-besuto-hatsu-00ef60/opengraph-image?239fa34c8367487c" type="image//news/1x-no-kateiyou-hyuumanoido-neo-time-no-2026-nen-besuto-hatsu-00ef60/opengraph-image"/>
+        <updated>2026-10-17T14:38:54.000Z</updated>
+        <summary type="html"><![CDATA[TIMEは10月15日付で、1X Technologiesの家庭用ヒューマノイド「Neo」を「Best Inventions of 2026」に選んだ。対象は家庭内作業向けの機体で、TIMEは価格を2万ドルとし、2026年に世界展開したと伝えた。本件は製品評価の報道であり、量産台数や供給体制よりも、家庭用ヒューマノイドの位置づけが焦点になる。]]></summary>
+        <content type="html"><![CDATA[TIMEは10月15日付で、1X Technologiesの家庭用ヒューマノイド「Neo」を「Best Inventions of 2026」に選んだ。対象は家庭内作業向けの機体で、TIMEは価格を2万ドルとし、2026年に世界展開したと伝えた。本件は製品評価の報道であり、量産台数や供給体制よりも、家庭用ヒューマノイドの位置づけが焦点になる。]]></content>
+        <published>2026-10-17T14:38:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Robot Report、ヒューマノイドとAIの論考を掲載 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/the-robot-report-hyuumanoido-to-ai-womeguru-ronkou-wo-keisai-5574e4</id>
+        <link href="https://physicalainews.jp/news/the-robot-report-hyuumanoido-to-ai-womeguru-ronkou-wo-keisai-5574e4"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/the-robot-report-hyuumanoido-to-ai-womeguru-ronkou-wo-keisai-5574e4/opengraph-image?239fa34c8367487c" type="image//news/the-robot-report-hyuumanoido-to-ai-womeguru-ronkou-wo-keisai-5574e4/opengraph-image"/>
+        <updated>2026-10-17T14:38:02.000Z</updated>
+        <summary type="html"><![CDATA[The Robot Reportは、AIの進歩でヒューマノイドが研究段階を離れ、工場で使われ始めているとする論考を掲載した。記事は、Boston DynamicsのAtlasや、Tesla、AmazonやNVIDIAの支援を受ける新興企業、中国の国有企業を例に挙げている。]]></summary>
+        <content type="html"><![CDATA[The Robot Reportは、AIの進歩でヒューマノイドが研究段階を離れ、工場で使われ始めているとする論考を掲載した。記事は、Boston DynamicsのAtlasや、Tesla、AmazonやNVIDIAの支援を受ける新興企業、中国の国有企業を例に挙げている。]]></content>
+        <published>2026-10-17T14:38:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla工場でOptimusの訓練に従業員が難色と報道 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/tesla-koujou-de-optimus-no-kunren-ni-juugyouin-ga-nanshoku-t-c95307</id>
+        <link href="https://physicalainews.jp/news/tesla-koujou-de-optimus-no-kunren-ni-juugyouin-ga-nanshoku-t-c95307"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/tesla-koujou-de-optimus-no-kunren-ni-juugyouin-ga-nanshoku-t-c95307/opengraph-image?239fa34c8367487c" type="image//news/tesla-koujou-de-optimus-no-kunren-ni-juugyouin-ga-nanshoku-t-c95307/opengraph-image"/>
+        <updated>2026-10-17T14:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Ars Technicaは9月25日、Teslaの従業員がOptimus人型ロボットの訓練を担うことに難色を示していると報じた。]]></summary>
+        <content type="html"><![CDATA[Ars Technicaは9月25日、Teslaの従業員がOptimus人型ロボットの訓練を担うことに難色を示していると報じた。]]></content>
+        <published>2026-10-17T14:36:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla、Optimus向けに中国のロボティクス供給網を再び活用か | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/tesla-optimus-muke-ni-chuugoku-no-robotto-buzai-kyoukyuu-ami-28fe08</id>
+        <link href="https://physicalainews.jp/news/tesla-optimus-muke-ni-chuugoku-no-robotto-buzai-kyoukyuu-ami-28fe08"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/tesla-optimus-muke-ni-chuugoku-no-robotto-buzai-kyoukyuu-ami-28fe08/opengraph-image?239fa34c8367487c" type="image//news/tesla-optimus-muke-ni-chuugoku-no-robotto-buzai-kyoukyuu-ami-28fe08/opengraph-image"/>
+        <updated>2026-10-17T11:42:07.000Z</updated>
+        <summary type="html"><![CDATA[TeslaがOptimus向けに中国拠点のロボティクス供給業者を呼びかけていると、Yahoo Financeが9月24日に報じた。]]></summary>
+        <content type="html"><![CDATA[TeslaがOptimus向けに中国拠点のロボティクス供給業者を呼びかけていると、Yahoo Financeが9月24日に報じた。]]></content>
+        <published>2026-10-17T11:42:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tau Robotics、Unitree G1で清掃サービスを提供と報道 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/tau-robotics-unitree-g1-de-seisou-saabisu-wo-teikyou-to-houd-68986b</id>
+        <link href="https://physicalainews.jp/news/tau-robotics-unitree-g1-de-seisou-saabisu-wo-teikyou-to-houd-68986b"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/tau-robotics-unitree-g1-de-seisou-saabisu-wo-teikyou-to-houd-68986b/opengraph-image?239fa34c8367487c" type="image//news/tau-robotics-unitree-g1-de-seisou-saabisu-wo-teikyou-to-houd-68986b/opengraph-image"/>
+        <updated>2026-10-17T11:19:28.000Z</updated>
+        <summary type="html"><![CDATA[Tau Roboticsが、改造したUnitree G1を使い、サンフランシスコの住宅やオフィスで清掃サービスを提供していると報じられた。]]></summary>
+        <content type="html"><![CDATA[Tau Roboticsが、改造したUnitree G1を使い、サンフランシスコの住宅やオフィスで清掃サービスを提供していると報じられた。]]></content>
+        <published>2026-10-17T11:19:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港科技大の研究チーム、全腕触覚を備えたロボットアーム「EmArm」を開発 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/honkon-kagidai-no-kenkyuu-chiimu-zen-ude-shokkaku-wo-sonae-t-23d849</id>
+        <link href="https://physicalainews.jp/news/honkon-kagidai-no-kenkyuu-chiimu-zen-ude-shokkaku-wo-sonae-t-23d849"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/honkon-kagidai-no-kenkyuu-chiimu-zen-ude-shokkaku-wo-sonae-t-23d849/opengraph-image?239fa34c8367487c" type="image//news/honkon-kagidai-no-kenkyuu-chiimu-zen-ude-shokkaku-wo-sonae-t-23d849/opengraph-image"/>
+        <updated>2026-10-17T11:18:45.000Z</updated>
+        <summary type="html"><![CDATA[香港科技大学（HKUST）の研究チームが、全腕触覚を備えたEmbodied Sensorimotor Robotic Arm「EmArm」を開発した。柔らかい光学式触覚スキンをロボット骨格に組み込み、リアルタイム判断アルゴリズムと統合した点が特徴である。『こちょばし』と『たたく』のような触り方の違いを識別し、触覚フィードバックで障害物回避も行うとされる。]]></summary>
+        <content type="html"><![CDATA[香港科技大学（HKUST）の研究チームが、全腕触覚を備えたEmbodied Sensorimotor Robotic Arm「EmArm」を開発した。柔らかい光学式触覚スキンをロボット骨格に組み込み、リアルタイム判断アルゴリズムと統合した点が特徴である。『こちょばし』と『たたく』のような触り方の違いを識別し、触覚フィードバックで障害物回避も行うとされる。]]></content>
+        <published>2026-10-17T11:18:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seeed Studio、GMSL2マルチカメラとBEVの解説記事を公開 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/seeed-studio-gmsl2-maruchikamera-to-bev-no-kaisetsukiji-wo-k-e51acf</id>
+        <link href="https://physicalainews.jp/news/seeed-studio-gmsl2-maruchikamera-to-bev-no-kaisetsukiji-wo-k-e51acf"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/seeed-studio-gmsl2-maruchikamera-to-bev-no-kaisetsukiji-wo-k-e51acf/opengraph-image?239fa34c8367487c" type="image//news/seeed-studio-gmsl2-maruchikamera-to-bev-no-kaisetsukiji-wo-k-e51acf/opengraph-image"/>
+        <updated>2026-10-17T11:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Seeed Studioが「Give the Robot Its Eyes — GMSL2 Multi-Camera, Calibration, and BEV」と題した記事を公開した。掲載日は2026年10月16日である。主ソースは解説記事であり、発言や論旨を含むが、一次情報としての製品発表や数値は確認できない。本紙の過去報道ではSeeed Studioがロボットアームや周辺機器の紹介を続けてお]]></summary>
+        <content type="html"><![CDATA[Seeed Studioが「Give the Robot Its Eyes — GMSL2 Multi-Camera, Calibration, and BEV」と題した記事を公開した。掲載日は2026年10月16日である。主ソースは解説記事であり、発言や論旨を含むが、一次情報としての製品発表や数値は確認できない。本紙の過去報道ではSeeed Studioがロボットアームや周辺機器の紹介を続けており、今回は視覚・認識系の解説に重心が移っている。]]></content>
+        <published>2026-10-17T11:17:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ホンダ、CEATEC 2026でアバターロボットを展示 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/honda-ceatec-2026-de-abataarobotto-wo-jitsuen-tashi-hando-to-2e36fa</id>
+        <link href="https://physicalainews.jp/news/honda-ceatec-2026-de-abataarobotto-wo-jitsuen-tashi-hando-to-2e36fa"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/honda-ceatec-2026-de-abataarobotto-wo-jitsuen-tashi-hando-to-2e36fa/opengraph-image?239fa34c8367487c" type="image//news/honda-ceatec-2026-de-abataarobotto-wo-jitsuen-tashi-hando-to-2e36fa/opengraph-image"/>
+        <updated>2026-10-17T11:06:43.000Z</updated>
+        <summary type="html"><![CDATA[ホンダはCEATEC 2026で、遠隔操作で作業できるアバターロボットを展示した。多指ハンドとAIによる操作支援を組み合わせた技術で、会場ではねじ締めの実演が行われた。]]></summary>
+        <content type="html"><![CDATA[ホンダはCEATEC 2026で、遠隔操作で作業できるアバターロボットを展示した。多指ハンドとAIによる操作支援を組み合わせた技術で、会場ではねじ締めの実演が行われた。]]></content>
+        <published>2026-10-17T11:06:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JR西日本、鉄道保守向け「多機能鉄道重機」2機を導入 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/jr-nishinihon-tetsudou-hoshu-muke-takinou-tetsudou-juuki-2-k-4bcc20</id>
+        <link href="https://physicalainews.jp/news/jr-nishinihon-tetsudou-hoshu-muke-takinou-tetsudou-juuki-2-k-4bcc20"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/jr-nishinihon-tetsudou-hoshu-muke-takinou-tetsudou-juuki-2-k-4bcc20/opengraph-image?239fa34c8367487c" type="image//news/jr-nishinihon-tetsudou-hoshu-muke-takinou-tetsudou-juuki-2-k-4bcc20/opengraph-image"/>
+        <updated>2026-10-17T09:46:58.000Z</updated>
+        <summary type="html"><![CDATA[JR西日本が鉄道保守の人手不足対策として「多機能鉄道重機」2機を導入したと産経ニュースが報じた。導入の狙いは、保守作業の一部をロボット技術で補うことにある。詳細な機能や運用条件は記事本文の確認が必要である。]]></summary>
+        <content type="html"><![CDATA[JR西日本が鉄道保守の人手不足対策として「多機能鉄道重機」2機を導入したと産経ニュースが報じた。導入の狙いは、保守作業の一部をロボット技術で補うことにある。詳細な機能や運用条件は記事本文の確認が必要である。]]></content>
+        <published>2026-10-17T09:46:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思霊機器人、工博会で12款展品を公開　全栈構成を提示 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/omoi-reiki-utsuwa-nin-kouhaku-kai-de-12-kan-ten-hin-wo-kouka-8565b0</id>
+        <link href="https://physicalainews.jp/news/omoi-reiki-utsuwa-nin-kouhaku-kai-de-12-kan-ten-hin-wo-kouka-8565b0"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/omoi-reiki-utsuwa-nin-kouhaku-kai-de-12-kan-ten-hin-wo-kouka-8565b0/opengraph-image?239fa34c8367487c" type="image//news/omoi-reiki-utsuwa-nin-kouhaku-kai-de-12-kan-ten-hin-wo-kouka-8565b0/opengraph-image"/>
+        <updated>2026-10-17T09:36:44.000Z</updated>
+        <summary type="html"><![CDATA[思霊機器人は工博会で12款展品と五大展区を打ち出した。出展内容は核心伝感器から機器人操作系統、具身模型までを含む。会場では工業、康养、科研、文創など多元場景を並べ、技術底座から応用までを一体で示した。本紙は、これは展示の拡張というより、実装段階に向けた構成の可視化だとみる。]]></summary>
+        <content type="html"><![CDATA[思霊機器人は工博会で12款展品と五大展区を打ち出した。出展内容は核心伝感器から機器人操作系統、具身模型までを含む。会場では工業、康养、科研、文創など多元場景を並べ、技術底座から応用までを一体で示した。本紙は、これは展示の拡張というより、実装段階に向けた構成の可視化だとみる。]]></content>
+        <published>2026-10-17T09:36:44.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AGIBOT、累計出荷1万台に到達 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/karada-ga-agibot-kanren-no-hitogata-robotto-seisan-hatchuu-w-bcd0f1</id>
+        <link href="https://physicalainews.jp/news/karada-ga-agibot-kanren-no-hitogata-robotto-seisan-hatchuu-w-bcd0f1"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/karada-ga-agibot-kanren-no-hitogata-robotto-seisan-hatchuu-w-bcd0f1/opengraph-image?239fa34c8367487c" type="image//news/karada-ga-agibot-kanren-no-hitogata-robotto-seisan-hatchuu-w-bcd0f1/opengraph-image"/>
+        <updated>2026-10-17T09:06:57.000Z</updated>
+        <summary type="html"><![CDATA[報道によると、AGIBOTのヒューマノイドロボット累計出荷台数が1万台に達した。近年の出荷増加の経過もあわせて伝えられた。]]></summary>
+        <content type="html"><![CDATA[報道によると、AGIBOTのヒューマノイドロボット累計出荷台数が1万台に達した。近年の出荷増加の経過もあわせて伝えられた。]]></content>
+        <published>2026-10-17T09:06:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XPENG、欧州で自動運転を前倒しへ | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/xpeng-oushuu-de-jidouunten-wo-maedaoshi-he-399556</id>
+        <link href="https://physicalainews.jp/news/xpeng-oushuu-de-jidouunten-wo-maedaoshi-he-399556"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/xpeng-oushuu-de-jidouunten-wo-maedaoshi-he-399556/opengraph-image?239fa34c8367487c" type="image//news/xpeng-oushuu-de-jidouunten-wo-maedaoshi-he-399556/opengraph-image"/>
+        <updated>2026-10-17T09:05:50.000Z</updated>
+        <summary type="html"><![CDATA[Forbesは、XPENGが欧州で自動運転技術の展開を想定より早く進める可能性があると報じた。記事は、同社の技術をパリで試した内容に触れている。]]></summary>
+        <content type="html"><![CDATA[Forbesは、XPENGが欧州で自動運転技術の展開を想定より早く進める可能性があると報じた。記事は、同社の技術をパリで試した内容に触れている。]]></content>
+        <published>2026-10-17T09:05:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[36Kr、ヒューマノイドロボットの実用化を論じる記事を掲載 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/36kr-hyuumanoidorobotto-no-jitsuyouka-wo-ronji-ru-kiji-wo-ke-f5e59c</id>
+        <link href="https://physicalainews.jp/news/36kr-hyuumanoidorobotto-no-jitsuyouka-wo-ronji-ru-kiji-wo-ke-f5e59c"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/36kr-hyuumanoidorobotto-no-jitsuyouka-wo-ronji-ru-kiji-wo-ke-f5e59c/opengraph-image?239fa34c8367487c" type="image//news/36kr-hyuumanoidorobotto-no-jitsuyouka-wo-ronji-ru-kiji-wo-ke-f5e59c/opengraph-image"/>
+        <updated>2026-10-17T08:39:53.000Z</updated>
+        <summary type="html"><![CDATA[36Krが、ヒューマノイドロボットの発展段階を論じる記事を掲載した。記事は、過熱した市場期待よりも実務用途を重視する流れを扱っている。本紙としては、詳細は原典を参照する必要がある。]]></summary>
+        <content type="html"><![CDATA[36Krが、ヒューマノイドロボットの発展段階を論じる記事を掲載した。記事は、過熱した市場期待よりも実務用途を重視する流れを扱っている。本紙としては、詳細は原典を参照する必要がある。]]></content>
+        <published>2026-10-17T08:39:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[36Krが梁文鋒氏のロボット重視を報じる | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/36kr-ga-hari-bun-hou-shi-no-robotto-juushi-wo-houji-ru-675386</id>
+        <link href="https://physicalainews.jp/news/36kr-ga-hari-bun-hou-shi-no-robotto-juushi-wo-houji-ru-675386"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/36kr-ga-hari-bun-hou-shi-no-robotto-juushi-wo-houji-ru-675386/opengraph-image?239fa34c8367487c" type="image//news/36kr-ga-hari-bun-hou-shi-no-robotto-juushi-wo-houji-ru-675386/opengraph-image"/>
+        <updated>2026-10-17T08:36:41.000Z</updated>
+        <summary type="html"><![CDATA[36Krが、梁文鋒氏のロボット重視を取り上げたと報じた。記事は「大型モデルが具身AIモデルを置き換えるのか」という論点を軸にしている。詳細な発言内容や結論は、原典を参照する必要がある。]]></summary>
+        <content type="html"><![CDATA[36Krが、梁文鋒氏のロボット重視を取り上げたと報じた。記事は「大型モデルが具身AIモデルを置き換えるのか」という論点を軸にしている。詳細な発言内容や結論は、原典を参照する必要がある。]]></content>
+        <published>2026-10-17T08:36:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DexForceがシミュレーション訓練を活用 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/dexforce-shimyureeshon-deno-hyuumanoido-kunren-wo-teikosuto-45692b</id>
+        <link href="https://physicalainews.jp/news/dexforce-shimyureeshon-deno-hyuumanoido-kunren-wo-teikosuto-45692b"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/dexforce-shimyureeshon-deno-hyuumanoido-kunren-wo-teikosuto-45692b/opengraph-image?239fa34c8367487c" type="image//news/dexforce-shimyureeshon-deno-hyuumanoido-kunren-wo-teikosuto-45692b/opengraph-image"/>
+        <updated>2026-10-17T08:16:47.000Z</updated>
+        <summary type="html"><![CDATA[ロイターは、深圳のDexForceが仮想環境を使ってヒューマノイドロボットを訓練していると報じた。]]></summary>
+        <content type="html"><![CDATA[ロイターは、深圳のDexForceが仮想環境を使ってヒューマノイドロボットを訓練していると報じた。]]></content>
+        <published>2026-10-17T08:16:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国、具身智能の倫理治理報告を公表　六類のリスクと五段階の分級を提示 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/chuugoku-gu-mi-chinou-no-rinri-chiri-houkoku-wo-kouhyou-roku-b0970e</id>
+        <link href="https://physicalainews.jp/news/chuugoku-gu-mi-chinou-no-rinri-chiri-houkoku-wo-kouhyou-roku-b0970e"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/chuugoku-gu-mi-chinou-no-rinri-chiri-houkoku-wo-kouhyou-roku-b0970e/opengraph-image?239fa34c8367487c" type="image//news/chuugoku-gu-mi-chinou-no-rinri-chiri-houkoku-wo-kouhyou-roku-b0970e/opengraph-image"/>
+        <updated>2026-10-17T08:06:35.000Z</updated>
+        <summary type="html"><![CDATA[国家人工智能標準化总体組が10月13日、《具身智能倫理治理研究報告》を公表したとleaderobot.comが10月17日に報じた。翌日には央視《正点财经》が伝えたという。報道によれば、報告は六類の倫理リスクとR1からR5までの五段階分級、六項目の治理原則を示した。具身智能が実験段階を越え、責任分界と安全設計を制度側が先に整えようとしている局面とみられる。]]></summary>
+        <content type="html"><![CDATA[国家人工智能標準化总体組が10月13日、《具身智能倫理治理研究報告》を公表したとleaderobot.comが10月17日に報じた。翌日には央視《正点财经》が伝えたという。報道によれば、報告は六類の倫理リスクとR1からR5までの五段階分級、六項目の治理原則を示した。具身智能が実験段階を越え、責任分界と安全設計を制度側が先に整えようとしている局面とみられる。]]></content>
+        <published>2026-10-17T08:06:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seeed Studio WikiにGR00T推論と実ロボット展開の章 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/seeed-studio-wiki-ni-gr00t-suiron-to-mi-robotto-tenkai-no-sh-687672</id>
+        <link href="https://physicalainews.jp/news/seeed-studio-wiki-ni-gr00t-suiron-to-mi-robotto-tenkai-no-sh-687672"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/seeed-studio-wiki-ni-gr00t-suiron-to-mi-robotto-tenkai-no-sh-687672/opengraph-image?239fa34c8367487c" type="image//news/seeed-studio-wiki-ni-gr00t-suiron-to-mi-robotto-tenkai-no-sh-687672/opengraph-image"/>
+        <updated>2026-10-17T05:06:22.000Z</updated>
+        <summary type="html"><![CDATA[Seeed Studio Wikiに「Chapter 22 - GR00T Inference and Real-Robot Deployment」が掲載された。主題はGR00Tの推論と実機ロボットへの展開で、技術手順を扱う章とみられる。ただし、公開抜粋だけでは具体的な方式や対象機体の詳細は確認できない。]]></summary>
+        <content type="html"><![CDATA[Seeed Studio Wikiに「Chapter 22 - GR00T Inference and Real-Robot Deployment」が掲載された。主題はGR00Tの推論と実機ロボットへの展開で、技術手順を扱う章とみられる。ただし、公開抜粋だけでは具体的な方式や対象機体の詳細は確認できない。]]></content>
+        <published>2026-10-17T05:06:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日産の次世代プロパイロットでヴァレオとWayveを採用 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/nissan-no-jisedai-unten-shien-de-wayve-no-ai-to-vareo-ga-tou-b50bba</id>
+        <link href="https://physicalainews.jp/news/nissan-no-jisedai-unten-shien-de-wayve-no-ai-to-vareo-ga-tou-b50bba"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/nissan-no-jisedai-unten-shien-de-wayve-no-ai-to-vareo-ga-tou-b50bba/opengraph-image?239fa34c8367487c" type="image//news/nissan-no-jisedai-unten-shien-de-wayve-no-ai-to-vareo-ga-tou-b50bba/opengraph-image"/>
+        <updated>2026-10-17T00:41:51.000Z</updated>
+        <summary type="html"><![CDATA[日産の次世代運転支援技術「プロパイロット」に関し、統合役をヴァレオが担い、運転判断の機能にはWayveのAIが組み込まれると報じられました。]]></summary>
+        <content type="html"><![CDATA[日産の次世代運転支援技術「プロパイロット」に関し、統合役をヴァレオが担い、運転判断の機能にはWayveのAIが組み込まれると報じられました。]]></content>
+        <published>2026-10-17T00:41:51.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReBlueTechが設立、立命館大発の管内検査ロボットを事業化 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/rebluetech-ga-setsuritsu-ritsumeikandai-hatsu-no-kannai-kens-363c5c</id>
+        <link href="https://physicalainews.jp/news/rebluetech-ga-setsuritsu-ritsumeikandai-hatsu-no-kannai-kens-363c5c"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/rebluetech-ga-setsuritsu-ritsumeikandai-hatsu-no-kannai-kens-363c5c/opengraph-image?239fa34c8367487c" type="image//news/rebluetech-ga-setsuritsu-ritsumeikandai-hatsu-no-kannai-kens-363c5c/opengraph-image"/>
+        <updated>2026-10-17T00:20:05.000Z</updated>
+        <summary type="html"><![CDATA[prtimes.jpは2026年10月15日、「ReBlueTechが設立、立命館大発の管内検査ロボットを事業化」と報じた。]]></summary>
+        <content type="html"><![CDATA[prtimes.jpは2026年10月15日、「ReBlueTechが設立、立命館大発の管内検査ロボットを事業化」と報じた。]]></content>
+        <published>2026-10-17T00:20:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[愛知県の自動運転プロジェクト、国際工科専門職大学の学生デザイン車両とAIキャラを導入 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/aichiken-no-jidouunten-purojiekuto-kokusai-kouka-senmonshoku-fb7b47</id>
+        <link href="https://physicalainews.jp/news/aichiken-no-jidouunten-purojiekuto-kokusai-kouka-senmonshoku-fb7b47"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/aichiken-no-jidouunten-purojiekuto-kokusai-kouka-senmonshoku-fb7b47/opengraph-image?239fa34c8367487c" type="image//news/aichiken-no-jidouunten-purojiekuto-kokusai-kouka-senmonshoku-fb7b47/opengraph-image"/>
+        <updated>2026-10-17T00:19:02.000Z</updated>
+        <summary type="html"><![CDATA[愛知県の自動運転プロジェクトに、国際工科専門職大学の学生がデザインした車両とAIキャラクターが導入された。]]></summary>
+        <content type="html"><![CDATA[愛知県の自動運転プロジェクトに、国際工科専門職大学の学生がデザインした車両とAIキャラクターが導入された。]]></content>
+        <published>2026-10-17T00:19:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seeed Studio、NVIDIA Jetson Orin Nano Super 8GB搭載の『reComputer Robotics J3011 with GMSL Extension』を報じられる | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/seeed-studio-nvidia-jetson-orin-nano-super-8gb-tousai-no-rec-b3e33f</id>
+        <link href="https://physicalainews.jp/news/seeed-studio-nvidia-jetson-orin-nano-super-8gb-tousai-no-rec-b3e33f"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/seeed-studio-nvidia-jetson-orin-nano-super-8gb-tousai-no-rec-b3e33f/opengraph-image?239fa34c8367487c" type="image//news/seeed-studio-nvidia-jetson-orin-nano-super-8gb-tousai-no-rec-b3e33f/opengraph-image"/>
+        <updated>2026-10-16T22:40:23.000Z</updated>
+        <summary type="html"><![CDATA[Seeed Studioの「reComputer Robotics J3011 with GMSL Extension」が報じられた。主ソースでは、NVIDIA Jetson Orin Nano Super 8GBを搭載するエッジAIコンピュータとして示されている。公開情報は製品名と採用部品に限られ、性能数値や販売条件は読み取れない。したがって、現時点では製品の位置づけを細部まで判断するより、採用]]></summary>
+        <content type="html"><![CDATA[Seeed Studioの「reComputer Robotics J3011 with GMSL Extension」が報じられた。主ソースでは、NVIDIA Jetson Orin Nano Super 8GBを搭載するエッジAIコンピュータとして示されている。公開情報は製品名と採用部品に限られ、性能数値や販売条件は読み取れない。したがって、現時点では製品の位置づけを細部まで判断するより、採用プラットフォームと拡張要素の確認が先になる。]]></content>
+        <published>2026-10-16T22:40:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA研究部門、Closed-Loop Robot Execution Engineを公開 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/nvidia-kenkyuubumon-closed-loop-robot-execution-engine-wo-ko-5cf29f</id>
+        <link href="https://physicalainews.jp/news/nvidia-kenkyuubumon-closed-loop-robot-execution-engine-wo-ko-5cf29f"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/nvidia-kenkyuubumon-closed-loop-robot-execution-engine-wo-ko-5cf29f/opengraph-image?239fa34c8367487c" type="image//news/nvidia-kenkyuubumon-closed-loop-robot-execution-engine-wo-ko-5cf29f/opengraph-image"/>
+        <updated>2026-10-16T22:38:57.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA Researchは「Closed-Loop Robot Execution Engine」を公開した。]]></summary>
+        <content type="html"><![CDATA[NVIDIA Researchは「Closed-Loop Robot Execution Engine」を公開した。]]></content>
+        <published>2026-10-16T22:38:57.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fourier、NVIDIA Isaac Gymでヒューマノイドを実環境向けに訓練 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/fourier-nvidia-isaac-gym-de-hyuumanoido-wo-mi-kankyou-muke-n-318c89</id>
+        <link href="https://physicalainews.jp/news/fourier-nvidia-isaac-gym-de-hyuumanoido-wo-mi-kankyou-muke-n-318c89"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/fourier-nvidia-isaac-gym-de-hyuumanoido-wo-mi-kankyou-muke-n-318c89/opengraph-image?239fa34c8367487c" type="image//news/fourier-nvidia-isaac-gym-de-hyuumanoido-wo-mi-kankyou-muke-n-318c89/opengraph-image"/>
+        <updated>2026-10-16T22:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Fourierは2024年11月6日、NVIDIAの開発者ブログで、ヒューマノイドロボットを実世界の役割に向けて訓練している取り組みを紹介した。記事は、NVIDIA Isaac Gymを使った訓練手法を軸に、相互作用の多い作業への適用を狙う内容である。公開情報上は、具体的な機体数や量産計画よりも、訓練環境と学習方法が主題である。]]></summary>
+        <content type="html"><![CDATA[Fourierは2024年11月6日、NVIDIAの開発者ブログで、ヒューマノイドロボットを実世界の役割に向けて訓練している取り組みを紹介した。記事は、NVIDIA Isaac Gymを使った訓練手法を軸に、相互作用の多い作業への適用を狙う内容である。公開情報上は、具体的な機体数や量産計画よりも、訓練環境と学習方法が主題である。]]></content>
+        <published>2026-10-16T22:38:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA、Project GR00Tでヒューマノイドの視覚と技能開発を支援 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/nvidia-project-gr00t-de-hyuumanoido-no-shikaku-to-ginou-kaih-082338</id>
+        <link href="https://physicalainews.jp/news/nvidia-project-gr00t-de-hyuumanoido-no-shikaku-to-ginou-kaih-082338"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/nvidia-project-gr00t-de-hyuumanoido-no-shikaku-to-ginou-kaih-082338/opengraph-image?239fa34c8367487c" type="image//news/nvidia-project-gr00t-de-hyuumanoido-no-shikaku-to-ginou-kaih-082338/opengraph-image"/>
+        <updated>2026-10-16T22:38:02.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIAは2024年11月6日、ヒューマノイドロボット向けの視覚と技能開発を支援する「Project GR00T」を公開した。発表文は、ヒューマノイドをメカトロニクス、制御理論、AIが交差する課題として位置づけ、学習・制御の開発基盤を強調している。本件は、ロボット本体の供給よりも、認識と技能獲得を支える計算・学習基盤をどこまで標準化できるかが焦点になる。]]></summary>
+        <content type="html"><![CDATA[NVIDIAは2024年11月6日、ヒューマノイドロボット向けの視覚と技能開発を支援する「Project GR00T」を公開した。発表文は、ヒューマノイドをメカトロニクス、制御理論、AIが交差する課題として位置づけ、学習・制御の開発基盤を強調している。本件は、ロボット本体の供給よりも、認識と技能獲得を支える計算・学習基盤をどこまで標準化できるかが焦点になる。]]></content>
+        <published>2026-10-16T22:38:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA、JetPack 6.1を公開　カメラスタック最適化とFirmware TPMを追加 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/nvidia-jetpack-6-1-wo-koukai-kamerasutakku-saitekika-to-firm-8c1f89</id>
+        <link href="https://physicalainews.jp/news/nvidia-jetpack-6-1-wo-koukai-kamerasutakku-saitekika-to-firm-8c1f89"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/nvidia-jetpack-6-1-wo-koukai-kamerasutakku-saitekika-to-firm-8c1f89/opengraph-image?239fa34c8367487c" type="image//news/nvidia-jetpack-6-1-wo-koukai-kamerasutakku-saitekika-to-firm-8c1f89/opengraph-image"/>
+        <updated>2026-10-16T22:37:48.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIAは2024年11月21日、エッジAIとロボティクス向けのソフトウェア基盤「JetPack 6.1」を公開した。今回の更新は、カメラスタックの最適化による性能向上と、Firmware TPMの導入によるセキュリティ強化が柱である。ロボット開発で重要な入力側の画像処理と、実機運用で求められる保護機能を同時に更新した点が特徴である。]]></summary>
+        <content type="html"><![CDATA[NVIDIAは2024年11月21日、エッジAIとロボティクス向けのソフトウェア基盤「JetPack 6.1」を公開した。今回の更新は、カメラスタックの最適化による性能向上と、Firmware TPMの導入によるセキュリティ強化が柱である。ロボット開発で重要な入力側の画像処理と、実機運用で求められる保護機能を同時に更新した点が特徴である。]]></content>
+        <published>2026-10-16T22:37:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA、物理シミュレーション人型向けの一体制御手法を公開 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/nvidia-butsuri-shimyureeshon-hitogata-muke-no-ittai-seigyo-s-6da202</id>
+        <link href="https://physicalainews.jp/news/nvidia-butsuri-shimyureeshon-hitogata-muke-no-ittai-seigyo-s-6da202"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/nvidia-butsuri-shimyureeshon-hitogata-muke-no-ittai-seigyo-s-6da202/opengraph-image?239fa34c8367487c" type="image//news/nvidia-butsuri-shimyureeshon-hitogata-muke-no-ittai-seigyo-s-6da202/opengraph-image"/>
+        <updated>2026-10-16T22:37:33.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIAは2024-12-02、物理シミュレーション上の人型ロボット向けに、全身を一体で制御する手法「Unified Whole-Body Control for Physically Simulated Humanoids」を公開した。対象は、自然な移動と多様な制御入力への応答を両立させるシミュレート人型である。実機量産ではなく、まずはシミュレーション環境での制御と学習の精度を引き上げる位置]]></summary>
+        <content type="html"><![CDATA[NVIDIAは2024-12-02、物理シミュレーション上の人型ロボット向けに、全身を一体で制御する手法「Unified Whole-Body Control for Physically Simulated Humanoids」を公開した。対象は、自然な移動と多様な制御入力への応答を両立させるシミュレート人型である。実機量産ではなく、まずはシミュレーション環境での制御と学習の精度を引き上げる位置づけとみられる。]]></content>
+        <published>2026-10-16T22:37:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA、合成データで行動認識モデルを拡張する手法を解説 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/nvidia-gousei-deeta-de-koudou-ninshiki-moderu-wo-kakuchou-su-957f61</id>
+        <link href="https://physicalainews.jp/news/nvidia-gousei-deeta-de-koudou-ninshiki-moderu-wo-kakuchou-su-957f61"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/nvidia-gousei-deeta-de-koudou-ninshiki-moderu-wo-kakuchou-su-957f61/opengraph-image?239fa34c8367487c" type="image//news/nvidia-gousei-deeta-de-koudou-ninshiki-moderu-wo-kakuchou-su-957f61/opengraph-image"/>
+        <updated>2026-10-16T22:37:08.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIAは2024年12月3日、合成データを使って行動認識モデルを拡張する方法を解説した。中心は、実世界のデータ収集だけに依存せず、学習データを増やしてモデルを鍛える考え方である。物体認識ではなく人の行動認識を対象にしている点が、フィジカルAI向けの基盤づくりとして注目される。]]></summary>
+        <content type="html"><![CDATA[NVIDIAは2024年12月3日、合成データを使って行動認識モデルを拡張する方法を解説した。中心は、実世界のデータ収集だけに依存せず、学習データを増やしてモデルを鍛える考え方である。物体認識ではなく人の行動認識を対象にしている点が、フィジカルAI向けの基盤づくりとして注目される。]]></content>
+        <published>2026-10-16T22:37:08.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA、手術ロボットの自律化につながるAI研究を公表 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/nvidia-shujutsu-robotto-no-jiritsu-ka-nitsunagaru-ai-kenkyuu-d0e656</id>
+        <link href="https://physicalainews.jp/news/nvidia-shujutsu-robotto-no-jiritsu-ka-nitsunagaru-ai-kenkyuu-d0e656"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/nvidia-shujutsu-robotto-no-jiritsu-ka-nitsunagaru-ai-kenkyuu-d0e656/opengraph-image?239fa34c8367487c" type="image//news/nvidia-shujutsu-robotto-no-jiritsu-ka-nitsunagaru-ai-kenkyuu-d0e656/opengraph-image"/>
+        <updated>2026-10-16T22:36:41.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIAは2024年12月10日、手術ロボットが人の手で操作される工程の一部を、自律的に実行できることを示すAI研究を公開した。同社は、手術で一般的に使われるロボットが、縫合などの重要作業を人間と同程度の精度でこなせる可能性を示したとしている。実用化には、安全性、規制、臨床現場での検証の3点が焦点になるとみられる。]]></summary>
+        <content type="html"><![CDATA[NVIDIAは2024年12月10日、手術ロボットが人の手で操作される工程の一部を、自律的に実行できることを示すAI研究を公開した。同社は、手術で一般的に使われるロボットが、縫合などの重要作業を人間と同程度の精度でこなせる可能性を示したとしている。実用化には、安全性、規制、臨床現場での検証の3点が焦点になるとみられる。]]></content>
+        <published>2026-10-16T22:36:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA、家庭内作業を担うロボット研究を紹介　StanfordがGTC 2024で発表 | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/nvidia-kateinai-sagyou-wo-ninau-robotto-kenkyuu-wo-shoukai-s-830487</id>
+        <link href="https://physicalainews.jp/news/nvidia-kateinai-sagyou-wo-ninau-robotto-kenkyuu-wo-shoukai-s-830487"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/nvidia-kateinai-sagyou-wo-ninau-robotto-kenkyuu-wo-shoukai-s-830487/opengraph-image?239fa34c8367487c" type="image//news/nvidia-kateinai-sagyou-wo-ninau-robotto-kenkyuu-wo-shoukai-s-830487/opengraph-image"/>
+        <updated>2026-10-16T22:36:14.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIAの開発者向けブログは2024年10月30日、GTC 2024でStanford Universityの研究者が家庭内の反復作業に取り組むロボット研究を紹介した。記事は、日常生活の作業をロボットが担う方向性を示し、学習と実機の活用が焦点になると読める内容である。公開情報上は、研究の個別仕様よりも、家庭作業を扱う汎用ロボット学習の位置づけが中心である。]]></summary>
+        <content type="html"><![CDATA[NVIDIAの開発者向けブログは2024年10月30日、GTC 2024でStanford Universityの研究者が家庭内の反復作業に取り組むロボット研究を紹介した。記事は、日常生活の作業をロボットが担う方向性を示し、学習と実機の活用が焦点になると読める内容である。公開情報上は、研究の個別仕様よりも、家庭作業を扱う汎用ロボット学習の位置づけが中心である。]]></content>
+        <published>2026-10-16T22:36:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1Xの家庭用ヒューマノイドNEO、TIMEが世界展開を報道　価格は2万ドル | 日本フィジカルAI新聞]]></title>
+        <id>https://physicalainews.jp/news/1x-no-kateiyou-hyuumanoido-neo-time-ga-sekai-tenkai-wo-houdo-803178</id>
+        <link href="https://physicalainews.jp/news/1x-no-kateiyou-hyuumanoido-neo-time-ga-sekai-tenkai-wo-houdo-803178"/>
+        <link rel="enclosure" href="https://physicalainews.jp/news/1x-no-kateiyou-hyuumanoido-neo-time-ga-sekai-tenkai-wo-houdo-803178/opengraph-image?239fa34c8367487c" type="image//news/1x-no-kateiyou-hyuumanoido-neo-time-ga-sekai-tenkai-wo-houdo-803178/opengraph-image"/>
+        <updated>2026-10-16T21:07:18.000Z</updated>
+        <summary type="html"><![CDATA[humanoid.guideが、TIMEの報道として1X Technologiesの家庭用ヒューマノイド「NEO」が2万ドルで世界展開したと伝えた。記事では、家庭内作業への対応や自律機能に関する同社トップの説明が紹介された。詳細は原典を参照されたい。]]></summary>
+        <content type="html"><![CDATA[humanoid.guideが、TIMEの報道として1X Technologiesの家庭用ヒューマノイド「NEO」が2万ドルで世界展開したと伝えた。記事では、家庭内作業への対応や自律機能に関する同社トップの説明が紹介された。詳細は原典を参照されたい。]]></content>
+        <published>2026-10-16T21:07:18.000Z</published>
+    </entry>
+</feed>
