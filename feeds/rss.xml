@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>AI・ロボティクス技術ニュース RSS</title>
+        <link>https://takashinnosuke.github.io/slack_AI_news_bot/</link>
+        <description>AI・ロボティクスに関連するテック情報やニュースをまとめたRSSフィード</description>
+        <lastBuildDate>Sat, 24 Oct 2026 05:22:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>takashinnosuke/slack_AI_news_bot</generator>
+        <language>ja</language>
+        <image>
+            <title>AI・ロボティクス技術ニュース RSS</title>
+            <url>https://takashinnosuke.github.io/slack_AI_news_bot/images/icon.png</url>
+            <link>https://takashinnosuke.github.io/slack_AI_news_bot/</link>
+        </image>
+        <copyright>takashinnosuke/slack_AI_news_bot</copyright>
+        <atom:link href="https://takashinnosuke.github.io/slack_AI_news_bot/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[UnitreeのG1-Dを紹介 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/humanoid-guide-unitree-no-g1-d-wo-shoukai-e350f5</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/humanoid-guide-unitree-no-g1-d-wo-shoukai-e350f5</guid>
+            <pubDate>Sat, 24 Oct 2026 01:50:30 GMT</pubDate>
+            <description><![CDATA[humanoid.guideは、UnitreeのG1-Dを紹介する記事を掲載した。]]></description>
+            <content:encoded><![CDATA[humanoid.guideは、UnitreeのG1-Dを紹介する記事を掲載した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/humanoid-guide-unitree-no-g1-d-wo-shoukai-e350f5/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>UnitreeのG1-Dを紹介</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[日本経済新聞、ラピダスや川崎重工など注目5本をまとめ記事で紹介 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/nihonkeizaishinbun-rapidasu-ya-kawasakijuukou-nado-chuumoku-7c9601</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/nihonkeizaishinbun-rapidasu-ya-kawasakijuukou-nado-chuumoku-7c9601</guid>
+            <pubDate>Sat, 24 Oct 2026 01:48:53 GMT</pubDate>
+            <description><![CDATA[日本経済新聞が2026年10月24日、NIKKEI Tech Foresightの注目記事5本をまとめて紹介した。ラインアップにはラピダスの2ナノ半導体、川崎重工業のフィジカルAIロボ戦略、日本のAIロボ部品などが含まれる。主題記事はまとめ読み形式で、各テーマの詳細は個別記事の扱いとなっている。]]></description>
+            <content:encoded><![CDATA[日本経済新聞が2026年10月24日、NIKKEI Tech Foresightの注目記事5本をまとめて紹介した。ラインアップにはラピダスの2ナノ半導体、川崎重工業のフィジカルAIロボ戦略、日本のAIロボ部品などが含まれる。主題記事はまとめ読み形式で、各テーマの詳細は個別記事の扱いとなっている。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/nihonkeizaishinbun-rapidasu-ya-kawasakijuukou-nado-chuumoku-7c9601/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>日本経済新聞、ラピダスや川崎重工など注目5本をまとめ記事で紹介</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Sereact、NVIDIAなど5社で返品処理の学習ループを構築 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/sereact-nvidia-nado-5-sha-de-henpin-shori-no-gakushuu-ruupu-fe5800</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/sereact-nvidia-nado-5-sha-de-henpin-shori-no-gakushuu-ruupu-fe5800</guid>
+            <pubDate>Sat, 24 Oct 2026 01:47:54 GMT</pubDate>
+            <description><![CDATA[Sereact、NVIDIA、Nebius、CEVA Logistics、Zalandoが、返品処理向けロボット「Cortex」の閉ループ学習を公表した。]]></description>
+            <content:encoded><![CDATA[Sereact、NVIDIA、Nebius、CEVA Logistics、Zalandoが、返品処理向けロボット「Cortex」の閉ループ学習を公表した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/sereact-nvidia-nado-5-sha-de-henpin-shori-no-gakushuu-ruupu-fe5800/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Sereact、NVIDIAなど5社で返品処理の学習ループを構築</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Waymo、トロントで準備開始 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/waymo-toronto-de-jidouunten-robotakushii-no-junbi-kaishi-202-e30bed</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/waymo-toronto-de-jidouunten-robotakushii-no-junbi-kaishi-202-e30bed</guid>
+            <pubDate>Fri, 23 Oct 2026 22:41:22 GMT</pubDate>
+            <description><![CDATA[Waymoは、カナダのトロントで自動運転配車サービスの準備を始め、2028年に最初の乗客を迎える方針を示した。]]></description>
+            <content:encoded><![CDATA[Waymoは、カナダのトロントで自動運転配車サービスの準備を始め、2028年に最初の乗客を迎える方針を示した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/waymo-toronto-de-jidouunten-robotakushii-no-junbi-kaishi-202-e30bed/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Waymo、トロントで準備開始</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[NVIDIA、欧州の自動運転計画向けにHyperionを発表　BoltやLucidらが採用 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/nvidia-oushuu-no-jidouunten-keikaku-muke-ni-hyperion-wo-happ-5211d0</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/nvidia-oushuu-no-jidouunten-keikaku-muke-ni-hyperion-wo-happ-5211d0</guid>
+            <pubDate>Fri, 23 Oct 2026 22:40:55 GMT</pubDate>
+            <description><![CDATA[NVIDIAは10月21日、欧州の自動車メーカーとモビリティ事業者が自動運転向けにHyperion計算基盤を採用・活用していると発表した。BoltはLucidと組み、少なくとも2万5000台のレベル4対応予定車両を前提に欧州ロボタクシー計画を進める。あわせてNVIDIAは、AV安全性の証跡作成を支えるHalos SAFEや、Alpamayo 2 Edgeなどの新ツール群を公表した。]]></description>
+            <content:encoded><![CDATA[NVIDIAは10月21日、欧州の自動車メーカーとモビリティ事業者が自動運転向けにHyperion計算基盤を採用・活用していると発表した。BoltはLucidと組み、少なくとも2万5000台のレベル4対応予定車両を前提に欧州ロボタクシー計画を進める。あわせてNVIDIAは、AV安全性の証跡作成を支えるHalos SAFEや、Alpamayo 2 Edgeなどの新ツール群を公表した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/nvidia-oushuu-no-jidouunten-keikaku-muke-ni-hyperion-wo-happ-5211d0/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>NVIDIA、欧州の自動運転計画向けにHyperionを発表　BoltやLucidらが採用</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[テスラ、日本で新型Model 3・Model Yを発売　V2LとCHAdeMOアダプターも順次投入 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/tesura-nippon-de-kairyougata-model-3-to-model-y-wo-hatsubai-f97419</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/tesura-nippon-de-kairyougata-model-3-to-model-y-wo-hatsubai-f97419</guid>
+            <pubDate>Fri, 23 Oct 2026 22:40:38 GMT</pubDate>
+            <description><![CDATA[テスラは2026年10月23日、日本で新しくなったModel 3とModel Yを発売した。あわせて、車載電力を家電に使う給電アダプター（V2L）と、CHAdeMO対応の急速充電アダプターを2027年1月から順次発売する。充電サポートプログラムは先着5000台で、Model 3向け26万4000円、Model Y向け8万8000円が用意される。]]></description>
+            <content:encoded><![CDATA[テスラは2026年10月23日、日本で新しくなったModel 3とModel Yを発売した。あわせて、車載電力を家電に使う給電アダプター（V2L）と、CHAdeMO対応の急速充電アダプターを2027年1月から順次発売する。充電サポートプログラムは先着5000台で、Model 3向け26万4000円、Model Y向け8万8000円が用意される。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/tesura-nippon-de-kairyougata-model-3-to-model-y-wo-hatsubai-f97419/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>テスラ、日本で新型Model 3・Model Yを発売　V2LとCHAdeMOアダプターも順次投入</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[NVIDIA、欧州製造業向けにFOXを早期公開　SiemensやMercedes-Benzが活用 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/nvidia-oushuusei-zou-gyou-muke-ni-fox-wo-souki-koukai-siemen-ca3716</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/nvidia-oushuusei-zou-gyou-muke-ni-fox-wo-souki-koukai-siemen-ca3716</guid>
+            <pubDate>Fri, 23 Oct 2026 22:40:12 GMT</pubDate>
+            <description><![CDATA[NVIDIAは10月21日、欧州の産業企業がCUDA-X、Omniverse、Cosmos、Nemotronを工程全体に使う事例を公開した。中核はFactory Operations Blueprint（FOX）のGitHub早期アクセス公開で、工場内で常時稼働する管理エージェント群を構築する道筋を示した。SiemensはFOX由来のエージェントをIntelligence Center Xに統合し]]></description>
+            <content:encoded><![CDATA[NVIDIAは10月21日、欧州の産業企業がCUDA-X、Omniverse、Cosmos、Nemotronを工程全体に使う事例を公開した。中核はFactory Operations Blueprint（FOX）のGitHub早期アクセス公開で、工場内で常時稼働する管理エージェント群を構築する道筋を示した。SiemensはFOX由来のエージェントをIntelligence Center Xに統合し、推定コスト削減20%を見込む。Mercedes-Benz、Audi、Schaeffler、Volkswagen Sachsenなどは設計、検査、デジタルツイン、ロボット検証にNVIDIA基盤を組み合わせている。一方で、各社の導入は用途別に分かれており、量産規模や商用展開の広がりは個別案件ごとの進捗確認が必要である。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/nvidia-oushuusei-zou-gyou-muke-ni-fox-wo-souki-koukai-siemen-ca3716/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>NVIDIA、欧州製造業向けにFOXを早期公開　SiemensやMercedes-Benzが活用</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Bloomberg、道路の緑青色ライトと自動運転車の関係を報じる | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/bloomberg-douro-no-rokushou-iro-raito-to-jidouunten-kuruma-n-f214a2</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/bloomberg-douro-no-rokushou-iro-raito-to-jidouunten-kuruma-n-f214a2</guid>
+            <pubDate>Fri, 23 Oct 2026 22:39:40 GMT</pubDate>
+            <description><![CDATA[Bloombergが、道路上の緑青色のライトが自動運転車を示す可能性について報じた。公開情報だけでは、具体的な導入地域や運用条件は確認できない。詳細な論点は原典記事を参照する必要がある。]]></description>
+            <content:encoded><![CDATA[Bloombergが、道路上の緑青色のライトが自動運転車を示す可能性について報じた。公開情報だけでは、具体的な導入地域や運用条件は確認できない。詳細な論点は原典記事を参照する必要がある。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/bloomberg-douro-no-rokushou-iro-raito-to-jidouunten-kuruma-n-f214a2/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Bloomberg、道路の緑青色ライトと自動運転車の関係を報じる</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[柔軟ロボットアームの予測制御手法を研究チームが提示 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/peking-university-no-kenkyuu-chiimu-juunan-robottoaamu-no-yo-a043aa</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/peking-university-no-kenkyuu-chiimu-juunan-robottoaamu-no-yo-a043aa</guid>
+            <pubDate>Fri, 23 Oct 2026 22:38:26 GMT</pubDate>
+            <description><![CDATA[TechXploreは、北京大学の研究チームが柔軟に曲がるロボットアームの動きを予測する手法を示したと報じました。]]></description>
+            <content:encoded><![CDATA[TechXploreは、北京大学の研究チームが柔軟に曲がるロボットアームの動きを予測する手法を示したと報じました。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/peking-university-no-kenkyuu-chiimu-juunan-robottoaamu-no-yo-a043aa/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>柔軟ロボットアームの予測制御手法を研究チームが提示</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Unitree RoboticsのH2-D紹介記事 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/unitree-robotics-no-h2-d-wo-shoukai-908285</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/unitree-robotics-no-h2-d-wo-shoukai-908285</guid>
+            <pubDate>Fri, 23 Oct 2026 19:21:21 GMT</pubDate>
+            <description><![CDATA[humanoid.guideが、Unitree Roboticsの車輪型ヒューマノイド「H2-D」を紹介する記事を掲載した。]]></description>
+            <content:encoded><![CDATA[humanoid.guideが、Unitree Roboticsの車輪型ヒューマノイド「H2-D」を紹介する記事を掲載した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/unitree-robotics-no-h2-d-wo-shoukai-908285/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Unitree RoboticsのH2-D紹介記事</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[広州交易会、サービスロボット専用区を設置 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/koushuu-koueki-kai-saabisurobotto-senyou-ku-wo-setchi-e20c56</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/koushuu-koueki-kai-saabisurobotto-senyou-ku-wo-setchi-e20c56</guid>
+            <pubDate>Fri, 23 Oct 2026 19:20:09 GMT</pubDate>
+            <description><![CDATA[ロボティクス・アンド・オートメーション・ニュースは、広州交易会の第1期「高度製造」プログラムでサービスロボット専用区が設けられたと報じた。]]></description>
+            <content:encoded><![CDATA[ロボティクス・アンド・オートメーション・ニュースは、広州交易会の第1期「高度製造」プログラムでサービスロボット専用区が設けられたと報じた。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/koushuu-koueki-kai-saabisurobotto-senyou-ku-wo-setchi-e20c56/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>広州交易会、サービスロボット専用区を設置</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[スペースデータ、横風や吊り荷の揺れを比べるドローンの物理シミュレーションデモ3種を公開 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/supeesudeeta-yokokaze-ya-tsuri-ka-no-yure-wo-kurabe-ru-doroo-20ffb2</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/supeesudeeta-yokokaze-ya-tsuri-ka-no-yure-wo-kurabe-ru-doroo-20ffb2</guid>
+            <pubDate>Fri, 23 Oct 2026 17:46:20 GMT</pubDate>
+            <description><![CDATA[スペースデータは、ロボットの現場実装基盤「RobotBrain」で想定する導入前検証の考え方を示すドローン向けの物理シミュレーションデモ3種を公開した。対象は横風や吊り荷の揺れで、実機投入前に挙動差を比べる用途を前面に出している。同社が示したのは、機体の見た目ではなく物理挙動を検証対象に置く設計である。]]></description>
+            <content:encoded><![CDATA[スペースデータは、ロボットの現場実装基盤「RobotBrain」で想定する導入前検証の考え方を示すドローン向けの物理シミュレーションデモ3種を公開した。対象は横風や吊り荷の揺れで、実機投入前に挙動差を比べる用途を前面に出している。同社が示したのは、機体の見た目ではなく物理挙動を検証対象に置く設計である。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/supeesudeeta-yokokaze-ya-tsuri-ka-no-yure-wo-kurabe-ru-doroo-20ffb2/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>スペースデータ、横風や吊り荷の揺れを比べるドローンの物理シミュレーションデモ3種を公開</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Highlanders、京都市内に「京都フィジカルAI研究所」を開設　HLQ Edgeを披露 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/highlanders-kyoutoshinai-ni-kyouto-fijikaru-ai-kenkyuusho-wo-b627eb</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/highlanders-kyoutoshinai-ni-kyouto-fijikaru-ai-kenkyuusho-wo-b627eb</guid>
+            <pubDate>Fri, 23 Oct 2026 17:07:33 GMT</pubDate>
+            <description><![CDATA[同社は2026年10月13日、京都市役所で松井孝治市長を表敬訪問し、四足歩行ロボット「HLQ Edge」のデモンストレーションを披露した。同社のヒューマノイド「N」は2027年の出荷開始に向けて量産準備が進んでおり、新拠点はその開発と実証を支える位置づけとみられる。]]></description>
+            <content:encoded><![CDATA[同社は2026年10月13日、京都市役所で松井孝治市長を表敬訪問し、四足歩行ロボット「HLQ Edge」のデモンストレーションを披露した。同社のヒューマノイド「N」は2027年の出荷開始に向けて量産準備が進んでおり、新拠点はその開発と実証を支える位置づけとみられる。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/highlanders-kyoutoshinai-ni-kyouto-fijikaru-ai-kenkyuusho-wo-b627eb/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Highlanders、京都市内に「京都フィジカルAI研究所」を開設　HLQ Edgeを披露</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[NVIDIA、AIエージェントでMicroduckの歩行学習をシミュレーションで支援 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/nvidia-ai-eejiento-de-microduck-no-hokou-gakushuu-wo-shimyur-9794b2</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/nvidia-ai-eejiento-de-microduck-no-hokou-gakushuu-wo-shimyur-9794b2</guid>
+            <pubDate>Fri, 23 Oct 2026 17:06:18 GMT</pubDate>
+            <description><![CDATA[NVIDIAが、Microduckのようなロボットに歩行を教える手法として、AIエージェントを使うシミュレーションの考え方を紹介した。]]></description>
+            <content:encoded><![CDATA[NVIDIAが、Microduckのようなロボットに歩行を教える手法として、AIエージェントを使うシミュレーションの考え方を紹介した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/nvidia-ai-eejiento-de-microduck-no-hokou-gakushuu-wo-shimyur-9794b2/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>NVIDIA、AIエージェントでMicroduckの歩行学習をシミュレーションで支援</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Unitree創業者、ロボットの突破時期は2028年ごろと見るとブルームバーグ報道 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/unitree-sougyousha-robotto-no-gijutsuteki-tenkan-ten-wo-2028-af0962</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/unitree-sougyousha-robotto-no-gijutsuteki-tenkan-ten-wo-2028-af0962</guid>
+            <pubDate>Fri, 23 Oct 2026 16:41:44 GMT</pubDate>
+            <description><![CDATA[Unitreeの創業者が、ロボット分野の「突破」は2028年ごろに起きるとの見方を示したとBloombergが報じた。報道は、同社の将来見通しに関する発言を伝えるもので、技術到達時期の評価が主題である。記事の一次情報はなく、Bloombergの報道内容を基にした二次報道である。]]></description>
+            <content:encoded><![CDATA[Unitreeの創業者が、ロボット分野の「突破」は2028年ごろに起きるとの見方を示したとBloombergが報じた。報道は、同社の将来見通しに関する発言を伝えるもので、技術到達時期の評価が主題である。記事の一次情報はなく、Bloombergの報道内容を基にした二次報道である。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/unitree-sougyousha-robotto-no-gijutsuteki-tenkan-ten-wo-2028-af0962/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Unitree創業者、ロボットの突破時期は2028年ごろと見るとブルームバーグ報道</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[ETH研究チーム、マウス由来の筋肉を使う生体ハイブリッドロボットを報告 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/eth-kenkyuu-chiimu-mausu-yurai-no-kinniku-wo-tsukau-seitai-h-1a39f4</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/eth-kenkyuu-chiimu-mausu-yurai-no-kinniku-wo-tsukau-seitai-h-1a39f4</guid>
+            <pubDate>Fri, 23 Oct 2026 16:21:21 GMT</pubDate>
+            <description><![CDATA[ETH Zurichの研究チームが、マウス細胞由来の骨格筋組織を3Dプリントしたハイドロゲル骨格に組み込んだロボット作動部を示したと、roboticsandautomationnews.comが報じた。焦点は筋肉量そのものではなく、筋肉と人工骨格を一体設計した点にある。詳細は原典を参照されたい。]]></description>
+            <content:encoded><![CDATA[ETH Zurichの研究チームが、マウス細胞由来の骨格筋組織を3Dプリントしたハイドロゲル骨格に組み込んだロボット作動部を示したと、roboticsandautomationnews.comが報じた。焦点は筋肉量そのものではなく、筋肉と人工骨格を一体設計した点にある。詳細は原典を参照されたい。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/eth-kenkyuu-chiimu-mausu-yurai-no-kinniku-wo-tsukau-seitai-h-1a39f4/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>ETH研究チーム、マウス由来の筋肉を使う生体ハイブリッドロボットを報告</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[IEEE Spectrum、四足ロボットの巨大ルービックキューブ自律解法を紹介 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/ieee-spectrum-yotsuashi-robotto-no-kyodai-ruubikkukyuubu-jir-fe3eb9</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/ieee-spectrum-yotsuashi-robotto-no-kyodai-ruubikkukyuubu-jir-fe3eb9</guid>
+            <pubDate>Fri, 23 Oct 2026 16:20:03 GMT</pubDate>
+            <description><![CDATA[IEEE Spectrumが2026年10月23日、四足ロボットが巨大ルービックキューブを自律的に解く映像を紹介した。主題は、足のみで立方体を操作する脚先操作と全身制御の組み合わせである。詳細は原典を参照されたい。]]></description>
+            <content:encoded><![CDATA[IEEE Spectrumが2026年10月23日、四足ロボットが巨大ルービックキューブを自律的に解く映像を紹介した。主題は、足のみで立方体を操作する脚先操作と全身制御の組み合わせである。詳細は原典を参照されたい。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/ieee-spectrum-yotsuashi-robotto-no-kyodai-ruubikkukyuubu-jir-fe3eb9/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>IEEE Spectrum、四足ロボットの巨大ルービックキューブ自律解法を紹介</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Teradyne RoboticsとSereact、返品処理の自動化で提携 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/teradyne-robotics-to-sereact-henpin-shori-no-jidouka-de-teik-e58b6d</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/teradyne-robotics-to-sereact-henpin-shori-no-jidouka-de-teik-e58b6d</guid>
+            <pubDate>Fri, 23 Oct 2026 16:18:30 GMT</pubDate>
+            <description><![CDATA[universal-robots.comは2026年10月21日、「Teradyne RoboticsとSereact、返品処理の自動化で提携」と報じた。]]></description>
+            <content:encoded><![CDATA[universal-robots.comは2026年10月21日、「Teradyne RoboticsとSereact、返品処理の自動化で提携」と報じた。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/teradyne-robotics-to-sereact-henpin-shori-no-jidouka-de-teik-e58b6d/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Teradyne RoboticsとSereact、返品処理の自動化で提携</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[TeslaのOptimusに生産面の課題と報じられる StoneXはQ3納車前に強気維持 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/tesla-no-optimus-ni-seisan-men-no-kadai-to-houji-rareru-ston-e56609</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/tesla-no-optimus-ni-seisan-men-no-kadai-to-houji-rareru-ston-e56609</guid>
+            <pubDate>Fri, 23 Oct 2026 16:16:51 GMT</pubDate>
+            <description><![CDATA[Yahoo Financeは9月25日、Teslaの人型ロボットOptimusが生産面の課題に直面していると報じた。一方でStoneXは、Teslaの第3四半期の車両納車を前に強気姿勢を維持しているとされた。主題はOptimusの生産停滞観測であり、詳細は原典を参照されたい。]]></description>
+            <content:encoded><![CDATA[Yahoo Financeは9月25日、Teslaの人型ロボットOptimusが生産面の課題に直面していると報じた。一方でStoneXは、Teslaの第3四半期の車両納車を前に強気姿勢を維持しているとされた。主題はOptimusの生産停滞観測であり、詳細は原典を参照されたい。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/tesla-no-optimus-ni-seisan-men-no-kadai-to-houji-rareru-ston-e56609/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>TeslaのOptimusに生産面の課題と報じられる StoneXはQ3納車前に強気維持</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[AIで最適化した仮想の翅で性能向上 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/pekin-kagidai-manana-dono-48-guramu-kochou-robotto-ai-de-shi-470e39</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/pekin-kagidai-manana-dono-48-guramu-kochou-robotto-ai-de-shi-470e39</guid>
+            <pubDate>Fri, 23 Oct 2026 14:38:54 GMT</pubDate>
+            <description><![CDATA[北京科技大学などの研究チームは、翅の形を変えられる仿生の蝶型ロボットを使い、飛行性能と翅形の関係を調べたと報じた。]]></description>
+            <content:encoded><![CDATA[北京科技大学などの研究チームは、翅の形を変えられる仿生の蝶型ロボットを使い、飛行性能と翅形の関係を調べたと報じた。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/pekin-kagidai-manana-dono-48-guramu-kochou-robotto-ai-de-shi-470e39/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>AIで最適化した仮想の翅で性能向上</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[AWSがロボット開発向け工具链を公開 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/aws-kiki-nin-kaihatsu-muke-no-kai-gen-tsuurucheen-wo-koukai-4337b2</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/aws-kiki-nin-kaihatsu-muke-no-kai-gen-tsuurucheen-wo-koukai-4337b2</guid>
+            <pubDate>Fri, 23 Oct 2026 14:07:33 GMT</pubDate>
+            <description><![CDATA[AWSは、ロボット開発者向けの開源工具链「Physical AI Toolchain」を公開したと報じられた。]]></description>
+            <content:encoded><![CDATA[AWSは、ロボット開発者向けの開源工具链「Physical AI Toolchain」を公開したと報じられた。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/aws-kiki-nin-kaihatsu-muke-no-kai-gen-tsuurucheen-wo-koukai-4337b2/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>AWSがロボット開発向け工具链を公開</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[海康機器人の単体型搬送ロボット紹介 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/umi-yasushi-kiki-nin-tantai-de-ugoku-hansou-robotto-no-kanga-5e98bc</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/umi-yasushi-kiki-nin-tantai-de-ugoku-hansou-robotto-no-kanga-5e98bc</guid>
+            <pubDate>Fri, 23 Oct 2026 14:06:39 GMT</pubDate>
+            <description><![CDATA[leaderobot.comは2026年10月23日、海康機器人の「明智」シリーズを取り上げ、単体で使える搬送ロボットの考え方を紹介した。記事は、個別の搬送作業から導入を始めやすくする狙いを説明している。]]></description>
+            <content:encoded><![CDATA[leaderobot.comは2026年10月23日、海康機器人の「明智」シリーズを取り上げ、単体で使える搬送ロボットの考え方を紹介した。記事は、個別の搬送作業から導入を始めやすくする狙いを説明している。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/umi-yasushi-kiki-nin-tantai-de-ugoku-hansou-robotto-no-kanga-5e98bc/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>海康機器人の単体型搬送ロボット紹介</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Tesla、Optimusの販売開始を来年目指すとWSJ報道 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/tesla-optimus-no-hanbaikaishi-wo-rainen-mezasu-to-wsj-houdou-ed9552</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/tesla-optimus-no-hanbaikaishi-wo-rainen-mezasu-to-wsj-houdou-ed9552</guid>
+            <pubDate>Fri, 23 Oct 2026 13:07:09 GMT</pubDate>
+            <description><![CDATA[WSJは、Teslaが人型ロボット「Optimus」の販売開始を来年目指していると報じた。原典はインタビュー記事で、発言の具体的内容や技術的詳細は要約に含まれていない。本紙としては、過去報道と公開情報を踏まえ、販売時期の示唆と実装・量産の距離を慎重に見る必要がある。]]></description>
+            <content:encoded><![CDATA[WSJは、Teslaが人型ロボット「Optimus」の販売開始を来年目指していると報じた。原典はインタビュー記事で、発言の具体的内容や技術的詳細は要約に含まれていない。本紙としては、過去報道と公開情報を踏まえ、販売時期の示唆と実装・量産の距離を慎重に見る必要がある。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/tesla-optimus-no-hanbaikaishi-wo-rainen-mezasu-to-wsj-houdou-ed9552/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Tesla、Optimusの販売開始を来年目指すとWSJ報道</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[AGIBOT、公式サイトで製品群とデータ基盤を一覧表示 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/agibot-koushiki-saito-de-seihin-gun-to-kenkyuujouhou-wo-keis-56e0a1</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/agibot-koushiki-saito-de-seihin-gun-to-kenkyuujouhou-wo-keis-56e0a1</guid>
+            <pubDate>Fri, 23 Oct 2026 11:36:16 GMT</pubDate>
+            <description><![CDATA[AGIBOT Innovation (Shanghai) Technology Co., Ltd.は公式サイトで、A3やA2 Ultra、X1、X2 series、G2、G1 MAX、D1系、C5、OmniHand 2025、VR Teleoperation Kitなどの製品・関連要素を並べた。同社は製品群だけでなく、One-stop Development Platform for Embodi]]></description>
+            <content:encoded><![CDATA[AGIBOT Innovation (Shanghai) Technology Co., Ltd.は公式サイトで、A3やA2 Ultra、X1、X2 series、G2、G1 MAX、D1系、C5、OmniHand 2025、VR Teleoperation Kitなどの製品・関連要素を並べた。同社は製品群だけでなく、One-stop Development Platform for Embodied AIやIntegrated Data-solution for Embodied AI、AGIBOT World Dataset、AimRT Frameworkも掲載した。今回のページは、単体機体の紹介よりも、研究・開発・データ・アクセサリーまで含めた体系の提示に重心がある。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/agibot-koushiki-saito-de-seihin-gun-to-kenkyuujouhou-wo-keis-56e0a1/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>AGIBOT、公式サイトで製品群とデータ基盤を一覧表示</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[テクノダイナミックス、小型・高精度のロボット向け減速機を報じられる | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/tekunodainamikkusu-kogata-kouseido-no-robotto-muke-gensoku-k-5c0633</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/tekunodainamikkusu-kogata-kouseido-no-robotto-muke-gensoku-k-5c0633</guid>
+            <pubDate>Fri, 23 Oct 2026 11:17:21 GMT</pubDate>
+            <description><![CDATA[日本経済新聞は2026年10月23日、静岡のテクノダイナミックスが小型・高精度の減速機をロボット向けに手がけると報じた。記事は製品の狙いをロボット用途に置いており、精度と小型化が焦点とみられる。詳細は原典を参照されたい。]]></description>
+            <content:encoded><![CDATA[日本経済新聞は2026年10月23日、静岡のテクノダイナミックスが小型・高精度の減速機をロボット向けに手がけると報じた。記事は製品の狙いをロボット用途に置いており、精度と小型化が焦点とみられる。詳細は原典を参照されたい。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/tekunodainamikkusu-kogata-kouseido-no-robotto-muke-gensoku-k-5c0633/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>テクノダイナミックス、小型・高精度のロボット向け減速機を報じられる</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Pudu Roboticsのエレベーター制御ソリューション、CSA認証を取得 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/pudu-robotics-no-erebeetaa-seigyo-soryuushon-csa-ninshou-wo-1ea2d0</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/pudu-robotics-no-erebeetaa-seigyo-soryuushon-csa-ninshou-wo-1ea2d0</guid>
+            <pubDate>Fri, 23 Oct 2026 11:05:52 GMT</pubDate>
+            <description><![CDATA[Pudu Roboticsの独自エレベーター制御ソリューションが、CSA B44.1 / ASME A17.5の認証を取得した。同社は、中国のロボット企業としてエレベーター制御ソリューションでこの認証を得た初の企業だとしている。北米でのロボット導入に向け、安全性と適合性の確認を前面に出した形だ。]]></description>
+            <content:encoded><![CDATA[Pudu Roboticsの独自エレベーター制御ソリューションが、CSA B44.1 / ASME A17.5の認証を取得した。同社は、中国のロボット企業としてエレベーター制御ソリューションでこの認証を得た初の企業だとしている。北米でのロボット導入に向け、安全性と適合性の確認を前面に出した形だ。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/pudu-robotics-no-erebeetaa-seigyo-soryuushon-csa-ninshou-wo-1ea2d0/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Pudu Roboticsのエレベーター制御ソリューション、CSA認証を取得</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[杭州工場で人形ロボット15台が常態稼働 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/koushuu-no-koujou-de-ningyou-robotto-15-dai-ga-joutai-unyou-424fb0</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/koushuu-no-koujou-de-ningyou-robotto-15-dai-ga-joutai-unyou-424fb0</guid>
+            <pubDate>Fri, 23 Oct 2026 10:39:10 GMT</pubDate>
+            <description><![CDATA[財聯社によると、兆豊股份の杭州工場で人形ロボット15台が上料作業に常態的に使われています。]]></description>
+            <content:encoded><![CDATA[財聯社によると、兆豊股份の杭州工場で人形ロボット15台が上料作業に常態的に使われています。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/koushuu-no-koujou-de-ningyou-robotto-15-dai-ga-joutai-unyou-424fb0/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>杭州工場で人形ロボット15台が常態稼働</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[論文「Who Improves the Robot?」をleaderobot.comが紹介 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/ronbun-who-improves-the-robot-wo-leaderobot-com-ga-shoukai-c380e8</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/ronbun-who-improves-the-robot-wo-leaderobot-com-ga-shoukai-c380e8</guid>
+            <pubDate>Fri, 23 Oct 2026 10:06:49 GMT</pubDate>
+            <description><![CDATA[leaderobot.comが2026年10月23日、論文「Who Improves the Robot? Toward Physical Recursive Self-Improvement」を紹介した。原典は、ロボットの自己改善を物理世界に拡張する際の難しさを論じる論説である。本紙としては、詳細な論旨は原典を参照すべきであり、位置づけの確認にとどめる。]]></description>
+            <content:encoded><![CDATA[leaderobot.comが2026年10月23日、論文「Who Improves the Robot? Toward Physical Recursive Self-Improvement」を紹介した。原典は、ロボットの自己改善を物理世界に拡張する際の難しさを論じる論説である。本紙としては、詳細な論旨は原典を参照すべきであり、位置づけの確認にとどめる。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/ronbun-who-improves-the-robot-wo-leaderobot-com-ga-shoukai-c380e8/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>論文「Who Improves the Robot?」をleaderobot.comが紹介</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[宇樹科技、創業10周年の場で王興興氏がAIへの信頼を訴えると報道 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/u-ki-kagi-sougyou-10-shuunen-no-ba-de-ou-kyou-kyou-shi-ga-ai-6087d5</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/u-ki-kagi-sougyou-10-shuunen-no-ba-de-ou-kyou-kyou-shi-ga-ai-6087d5</guid>
+            <pubDate>Fri, 23 Oct 2026 10:06:23 GMT</pubDate>
+            <description><![CDATA[leaderobot.comが、宇樹科技の創業10周年の場で王興興氏がAIについて語ったと報じた。発言の中心はロボット製品ではなくAIそのものに置かれた。本件の詳細な発言内容は原典を参照されたい。]]></description>
+            <content:encoded><![CDATA[leaderobot.comが、宇樹科技の創業10周年の場で王興興氏がAIについて語ったと報じた。発言の中心はロボット製品ではなくAIそのものに置かれた。本件の詳細な発言内容は原典を参照されたい。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/u-ki-kagi-sougyou-10-shuunen-no-ba-de-ou-kyou-kyou-shi-ga-ai-6087d5/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>宇樹科技、創業10周年の場で王興興氏がAIへの信頼を訴えると報道</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Generative Bionics、ヒューマノイド向け欧州「physical AI data factory」建設を発表　AMD基盤を採用 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/generative-bionics-hyuumanoido-muke-oushuu-physical-ai-data-de0688</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/generative-bionics-hyuumanoido-muke-oushuu-physical-ai-data-de0688</guid>
+            <pubDate>Fri, 23 Oct 2026 09:49:24 GMT</pubDate>
+            <description><![CDATA[Generative Bionicsは、ヒューマノイド向けのフィジカルAI学習施設「Physical AI Data Factory」を欧州で3拠点構想として整備すると発表した。第1拠点はイタリアの5,000平方メートル施設で、2027年第4四半期の稼働を予定する。AMDはHeliosラックスケール基盤を通じて、実データ処理、モデル学習、デジタルツインの並列シミュレーションを支える。]]></description>
+            <content:encoded><![CDATA[Generative Bionicsは、ヒューマノイド向けのフィジカルAI学習施設「Physical AI Data Factory」を欧州で3拠点構想として整備すると発表した。第1拠点はイタリアの5,000平方メートル施設で、2027年第4四半期の稼働を予定する。AMDはHeliosラックスケール基盤を通じて、実データ処理、モデル学習、デジタルツインの並列シミュレーションを支える。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/generative-bionics-hyuumanoido-muke-oushuu-physical-ai-data-de0688/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Generative Bionics、ヒューマノイド向け欧州「physical AI data factory」建設を発表　AMD基盤を採用</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+    </channel>
+</rss>
