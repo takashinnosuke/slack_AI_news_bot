@@ -1,0 +1,730 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AI・ロボティクス技術ニュース RSS",
+    "home_page_url": "https://takashinnosuke.github.io/slack_AI_news_bot/",
+    "feed_url": "https://takashinnosuke.github.io/slack_AI_news_bot/feeds/feed.json",
+    "description": "AI・ロボティクスに関連するテック情報やニュースをまとめたRSSフィード",
+    "icon": "https://takashinnosuke.github.io/slack_AI_news_bot/images/icon.png",
+    "items": [
+        {
+            "id": "https://physicalainews.jp/news/karada-gu-mi-chinou-no-oopunsoosu-wo-atsukau-ronsetsu-wo-kei-861ca3",
+            "content_html": "钛媒体は2026年7月29日、具身知能のオープンソースを扱う論説を掲載した。確認できるのは論説の掲載であり、技術の採用や商業化の実績ではない。評価には、公開内容と実環境での稼働実績を分けて見る必要がある。",
+            "url": "https://physicalainews.jp/news/karada-gu-mi-chinou-no-oopunsoosu-wo-atsukau-ronsetsu-wo-kei-861ca3",
+            "title": "钛媒体、具身知能のオープンソースを扱う論説を掲載 | 日本フィジカルAI新聞",
+            "summary": "钛媒体は2026年7月29日、具身知能のオープンソースを扱う論説を掲載した。確認できるのは論説の掲載であり、技術の採用や商業化の実績ではない。評価には、公開内容と実環境での稼働実績を分けて見る必要がある。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/karada-gu-mi-chinou-no-oopunsoosu-wo-atsukau-ronsetsu-wo-kei-861ca3/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-07T12:37:05.000Z",
+            "date_published": "2026-11-07T12:37:05.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "钛媒体、具身知能のオープンソースを扱う論説を掲載",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/humanoid-guide-roboscience-no-sharin-kata-hyuumanoido-rex-g1-7b8327",
+            "content_html": "humanoid.guideは2026年11月7日、RoboScienceの車輪型ヒューマノイド「REX G1」を扱う記事を掲載した。",
+            "url": "https://physicalainews.jp/news/humanoid-guide-roboscience-no-sharin-kata-hyuumanoido-rex-g1-7b8327",
+            "title": "REX G1を扱う記事を掲載 | 日本フィジカルAI新聞",
+            "summary": "humanoid.guideは2026年11月7日、RoboScienceの車輪型ヒューマノイド「REX G1」を扱う記事を掲載した。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/humanoid-guide-roboscience-no-sharin-kata-hyuumanoido-rex-g1-7b8327/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-07T11:19:20.000Z",
+            "date_published": "2026-11-07T11:19:20.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "REX G1を扱う記事を掲載",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/humanoid-guide-bytedance-no-bytedexter-kiji-wo-keisai-7e3fe1",
+            "content_html": "humanoid.guideが「Welcome, ByteDexter!」と題する記事を掲載した。記事はByteDance Seedのロボットハンドを扱っている。公式発表や一次資料による裏付けは、今回の提供情報にはない。",
+            "url": "https://physicalainews.jp/news/humanoid-guide-bytedance-no-bytedexter-kiji-wo-keisai-7e3fe1",
+            "title": "humanoid.guide、ByteDanceの「ByteDexter」記事を掲載 | 日本フィジカルAI新聞",
+            "summary": "humanoid.guideが「Welcome, ByteDexter!」と題する記事を掲載した。記事はByteDance Seedのロボットハンドを扱っている。公式発表や一次資料による裏付けは、今回の提供情報にはない。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/humanoid-guide-bytedance-no-bytedexter-kiji-wo-keisai-7e3fe1/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-07T11:17:24.000Z",
+            "date_published": "2026-11-07T11:17:24.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "humanoid.guide、ByteDanceの「ByteDexter」記事を掲載",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/wired-whill-sugie-ceo-no-kuukou-mobiritei-kousou-wo-keisai-c5886f",
+            "content_html": "WIRED.jpは、WHILLの杉江理CEOが「行けない」という諦めをなくすことを目指す姿を記事で紹介した。",
+            "url": "https://physicalainews.jp/news/wired-whill-sugie-ceo-no-kuukou-mobiritei-kousou-wo-keisai-c5886f",
+            "title": "WIRED.jp、杉江理CEOの近距離モビリティ構想を紹介 | 日本フィジカルAI新聞",
+            "summary": "WIRED.jpは、WHILLの杉江理CEOが「行けない」という諦めをなくすことを目指す姿を記事で紹介した。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/wired-whill-sugie-ceo-no-kuukou-mobiritei-kousou-wo-keisai-c5886f/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-07T09:38:29.000Z",
+            "date_published": "2026-11-07T09:38:29.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "WIRED.jp、杉江理CEOの近距離モビリティ構想を紹介",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/karada-ryougen-shinsou-no-kyou-asahi-shi-no-waic-toudan-wo-h-7a85a3",
+            "content_html": "鈦媒体が亮源新創の姜旭氏を扱う記事を掲載した。記事は、姜氏のWAICでの公開発信を報じるものだ。記事の掲載だけでは、ロボットの実機性能や導入実績は確認できない。",
+            "url": "https://physicalainews.jp/news/karada-ryougen-shinsou-no-kyou-asahi-shi-no-waic-toudan-wo-h-7a85a3",
+            "title": "鈦媒体、亮源新創の姜旭氏のWAIC登壇を報道 | 日本フィジカルAI新聞",
+            "summary": "鈦媒体が亮源新創の姜旭氏を扱う記事を掲載した。記事は、姜氏のWAICでの公開発信を報じるものだ。記事の掲載だけでは、ロボットの実機性能や導入実績は確認できない。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/karada-ryougen-shinsou-no-kyou-asahi-shi-no-waic-toudan-wo-h-7a85a3/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-07T08:37:53.000Z",
+            "date_published": "2026-11-07T08:37:53.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "鈦媒体、亮源新創の姜旭氏のWAIC登壇を報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/gac-group-no-gomate-mini-sharin-to-ashi-wo-kumiawase-ta-hito-d8ddac",
+            "content_html": "humanoid.guideが2026年11月7日、GAC Groupの人型ロボットGoMate Miniを紹介した。高さ170cm、重量60kgで、車輪を使う移動と手作業を組み合わせる設計だ。公表された仕様値や能力評価の試験条件は、記事の記載からは確認できない。",
+            "url": "https://physicalainews.jp/news/gac-group-no-gomate-mini-sharin-to-ashi-wo-kumiawase-ta-hito-d8ddac",
+            "title": "GAC GroupのGoMate Mini、車輪と脚を組み合わせた人型ロボットとして紹介 | 日本フィジカルAI新聞",
+            "summary": "humanoid.guideが2026年11月7日、GAC Groupの人型ロボットGoMate Miniを紹介した。高さ170cm、重量60kgで、車輪を使う移動と手作業を組み合わせる設計だ。公表された仕様値や能力評価の試験条件は、記事の記載からは確認できない。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/gac-group-no-gomate-mini-sharin-to-ashi-wo-kumiawase-ta-hito-d8ddac/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-07T08:19:18.000Z",
+            "date_published": "2026-11-07T08:19:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "GAC GroupのGoMate Mini、車輪と脚を組み合わせた人型ロボットとして紹介",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/embodied-ai-koujou-sagyou-muke-sharin-kata-hyuumanoido-air-w-1b84ae",
+            "content_html": "Embodied AIが工場で人と作業する車輪型ヒューマノイド「AIR」を発表した。開発期間は研究からハードウェア化まで9カ月とし、腱駆動の腕と車輪による移動を採用する。作業習得には人による操作記録を使い、CEマーキングは2027年を計画する。",
+            "url": "https://physicalainews.jp/news/embodied-ai-koujou-sagyou-muke-sharin-kata-hyuumanoido-air-w-1b84ae",
+            "title": "Embodied AI、工場作業向け車輪型ヒューマノイド「AIR」を発表 | 日本フィジカルAI新聞",
+            "summary": "Embodied AIが工場で人と作業する車輪型ヒューマノイド「AIR」を発表した。開発期間は研究からハードウェア化まで9カ月とし、腱駆動の腕と車輪による移動を採用する。作業習得には人による操作記録を使い、CEマーキングは2027年を計画する。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/embodied-ai-koujou-sagyou-muke-sharin-kata-hyuumanoido-air-w-1b84ae/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-07T08:17:00.000Z",
+            "date_published": "2026-11-07T08:17:00.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Embodied AI、工場作業向け車輪型ヒューマノイド「AIR」を発表",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/karada-ginga-tsuuyou-wo-atsukau-kiji-wo-keisai-749e3a",
+            "content_html": "钛媒体が、銀河通用を扱う記事を掲載した。本件は二次報道であり、公式発表やIRによる裏付けは提示されていない。資金面の報道と、ロボットの稼働・生産を示す情報は分けて検証する必要がある。",
+            "url": "https://physicalainews.jp/news/karada-ginga-tsuuyou-wo-atsukau-kiji-wo-keisai-749e3a",
+            "title": "钛媒体、銀河通用を扱う記事を掲載 | 日本フィジカルAI新聞",
+            "summary": "钛媒体が、銀河通用を扱う記事を掲載した。本件は二次報道であり、公式発表やIRによる裏付けは提示されていない。資金面の報道と、ロボットの稼働・生産を示す情報は分けて検証する必要がある。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/karada-ginga-tsuuyou-wo-atsukau-kiji-wo-keisai-749e3a/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-07T08:06:34.000Z",
+            "date_published": "2026-11-07T08:06:34.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "钛媒体、銀河通用を扱う記事を掲載",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/karada-robotto-bunya-no-kyouiku-wo-atsukau-ronkou-wo-keisai-6ffd5e",
+            "content_html": "钛媒体が具身商業前哨名義の論考を掲載した。記事の主題はロボット分野と教育である。論考の内容や個別の製品情報は、本稿では事実として扱わない。",
+            "url": "https://physicalainews.jp/news/karada-robotto-bunya-no-kyouiku-wo-atsukau-ronkou-wo-keisai-6ffd5e",
+            "title": "钛媒体、ロボット分野の教育を扱う論考を掲載 | 日本フィジカルAI新聞",
+            "summary": "钛媒体が具身商業前哨名義の論考を掲載した。記事の主題はロボット分野と教育である。論考の内容や個別の製品情報は、本稿では事実として扱わない。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/karada-robotto-bunya-no-kyouiku-wo-atsukau-ronkou-wo-keisai-6ffd5e/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-07T06:38:32.000Z",
+            "date_published": "2026-11-07T06:38:32.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "钛媒体、ロボット分野の教育を扱う論考を掲載",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/tech-insider-tesla-optimus-wo-meguru-musk-hatsugen-wo-houdou-f37b44",
+            "content_html": "Tech-InsiderがTeslaのOptimusを巡るMusk発言について報じた。提示された情報には、発言の内容を確認できる一次資料は含まれていない。生産計画や注文に関する報道とは、確認できる事実の段階を分けて見る必要がある。",
+            "url": "https://physicalainews.jp/news/tech-insider-tesla-optimus-wo-meguru-musk-hatsugen-wo-houdou-f37b44",
+            "title": "Tech-Insider、Tesla Optimusを巡るMusk発言を報道 | 日本フィジカルAI新聞",
+            "summary": "Tech-InsiderがTeslaのOptimusを巡るMusk発言について報じた。提示された情報には、発言の内容を確認できる一次資料は含まれていない。生産計画や注文に関する報道とは、確認できる事実の段階を分けて見る必要がある。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/tech-insider-tesla-optimus-wo-meguru-musk-hatsugen-wo-houdou-f37b44/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-07T05:08:24.000Z",
+            "date_published": "2026-11-07T05:08:24.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Tech-Insider、Tesla Optimusを巡るMusk発言を報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/nihonkeizaishinbun-2026-nen-10-gatsu-no-kiji-akusesurankingu-b4730d",
+            "content_html": "日本経済新聞が、2026年10月に公開した記事のアクセスランキングを掲載した。ランキングは読者の閲覧状況を示すが、技術の実装や普及を直接示すものではない。本稿はランキングという編集上の動きを、技術報道の読み方から考える。",
+            "url": "https://physicalainews.jp/news/nihonkeizaishinbun-2026-nen-10-gatsu-no-kiji-akusesurankingu-b4730d",
+            "title": "日本経済新聞、2026年10月の記事アクセスランキングを掲載 | 日本フィジカルAI新聞",
+            "summary": "日本経済新聞が、2026年10月に公開した記事のアクセスランキングを掲載した。ランキングは読者の閲覧状況を示すが、技術の実装や普及を直接示すものではない。本稿はランキングという編集上の動きを、技術報道の読み方から考える。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/nihonkeizaishinbun-2026-nen-10-gatsu-no-kiji-akusesurankingu-b4730d/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-07T05:07:26.000Z",
+            "date_published": "2026-11-07T05:07:26.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "日本経済新聞、2026年10月の記事アクセスランキングを掲載",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/humanoid-guide-shien-robotto-armar-7-wo-shoukai-7a3643",
+            "content_html": "humanoid.guideは、支援ロボット「ARMAR 7」を取り上げる記事を掲載した。",
+            "url": "https://physicalainews.jp/news/humanoid-guide-shien-robotto-armar-7-wo-shoukai-7a3643",
+            "title": "humanoid.guide、ARMAR 7の記事を掲載 | 日本フィジカルAI新聞",
+            "summary": "humanoid.guideは、支援ロボット「ARMAR 7」を取り上げる記事を掲載した。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/humanoid-guide-shien-robotto-armar-7-wo-shoukai-7a3643/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-07T05:07:23.000Z",
+            "date_published": "2026-11-07T05:07:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "humanoid.guide、ARMAR 7の記事を掲載",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/bijinesujaanaru-kensetsu-butsuryuu-no-fijikaru-ai-doukou-wo-0608a3",
+            "content_html": "ビジネスジャーナルが2026年11月7日、建設・物流分野のフィジカルAIを扱う記事を掲載した。記事はARAV、T2、Mujinなどを取り上げている。各社の進捗を評価する際は、現場稼働・車両生産・施設側の受け入れを分けて見る必要がある。",
+            "url": "https://physicalainews.jp/news/bijinesujaanaru-kensetsu-butsuryuu-no-fijikaru-ai-doukou-wo-0608a3",
+            "title": "ビジネスジャーナル、建設・物流のフィジカルAI動向を特集 | 日本フィジカルAI新聞",
+            "summary": "ビジネスジャーナルが2026年11月7日、建設・物流分野のフィジカルAIを扱う記事を掲載した。記事はARAV、T2、Mujinなどを取り上げている。各社の進捗を評価する際は、現場稼働・車両生産・施設側の受け入れを分けて見る必要がある。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/bijinesujaanaru-kensetsu-butsuryuu-no-fijikaru-ai-doukou-wo-0608a3/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-07T04:46:55.000Z",
+            "date_published": "2026-11-07T04:46:55.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "ビジネスジャーナル、建設・物流のフィジカルAI動向を特集",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/36kr-intbot-no-guroobaru-tenkai-wo-meguru-dokusen-intabyuu-w-63615d",
+            "content_html": "36KrがIntBotを扱う独占インタビュー記事を掲載した。記事の掲載は、同社の事業拡大やロボット導入の実績を示す公式発表ではない。本紙の既報にあるシンガポールでの応用検討と、実運用の進展は分けて見る必要がある。",
+            "url": "https://physicalainews.jp/news/36kr-intbot-no-guroobaru-tenkai-wo-meguru-dokusen-intabyuu-w-63615d",
+            "title": "36Kr、IntBotのグローバル展開を巡る独占インタビューを掲載 | 日本フィジカルAI新聞",
+            "summary": "36KrがIntBotを扱う独占インタビュー記事を掲載した。記事の掲載は、同社の事業拡大やロボット導入の実績を示す公式発表ではない。本紙の既報にあるシンガポールでの応用検討と、実運用の進展は分けて見る必要がある。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/36kr-intbot-no-guroobaru-tenkai-wo-meguru-dokusen-intabyuu-w-63615d/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-07T04:06:37.000Z",
+            "date_published": "2026-11-07T04:06:37.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "36Kr、IntBotのグローバル展開を巡る独占インタビューを掲載",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/senshin-mobiritei-fujishi-no-jidouunten-basu-jisshou-unkou-w-51288a",
+            "content_html": "先進モビリティは、静岡県富士市の自動運転バス実証運行に参画し、2026年11月6日に運行を開始した。11月15日まで、新富士駅―富士駅間を運行し、土日は田子の浦港への区間も加える。運行は自動運転レベル2で、信号連携を含む技術・運用面を検証する。",
+            "url": "https://physicalainews.jp/news/senshin-mobiritei-fujishi-no-jidouunten-basu-jisshou-unkou-w-51288a",
+            "title": "先進モビリティ、富士市の自動運転バス実証運行を開始 | 日本フィジカルAI新聞",
+            "summary": "先進モビリティは、静岡県富士市の自動運転バス実証運行に参画し、2026年11月6日に運行を開始した。11月15日まで、新富士駅―富士駅間を運行し、土日は田子の浦港への区間も加える。運行は自動運転レベル2で、信号連携を含む技術・運用面を検証する。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/senshin-mobiritei-fujishi-no-jidouunten-basu-jisshou-unkou-w-51288a/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T22:47:23.000Z",
+            "date_published": "2026-11-06T22:47:23.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "先進モビリティ、富士市の自動運転バス実証運行を開始",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/embodied-ai-no-air-wo-humanoid-guide-ga-shoukai-181b57",
+            "content_html": "Humanoid GuideがEmbodied AIの車輪型ヒューマノイド「AIR」を紹介した。本稿は製品紹介記事の掲載を扱う。個別仕様や評価の詳細は原典を参照されたい。",
+            "url": "https://physicalainews.jp/news/embodied-ai-no-air-wo-humanoid-guide-ga-shoukai-181b57",
+            "title": "Embodied AIの「AIR」をHumanoid Guideが紹介 | 日本フィジカルAI新聞",
+            "summary": "Humanoid GuideがEmbodied AIの車輪型ヒューマノイド「AIR」を紹介した。本稿は製品紹介記事の掲載を扱う。個別仕様や評価の詳細は原典を参照されたい。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/embodied-ai-no-air-wo-humanoid-guide-ga-shoukai-181b57/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T22:46:46.000Z",
+            "date_published": "2026-11-06T22:46:46.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Embodied AIの「AIR」をHumanoid Guideが紹介",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/humanoid-guide-honda-r-d-no-kenkyuuyou-robottohando-wo-shouk-e4ced0",
+            "content_html": "humanoid.guideが「Honda Hand」を紹介した。提供された情報は二次報道で、公式資料は含まれていない。評価方法や実機性能を確認できる一次情報は示されていない。",
+            "url": "https://physicalainews.jp/news/humanoid-guide-honda-r-d-no-kenkyuuyou-robottohando-wo-shouk-e4ced0",
+            "title": "humanoid.guide、Honda R&amp;Dの研究用ロボットハンドを紹介 | 日本フィジカルAI新聞",
+            "summary": "humanoid.guideが「Honda Hand」を紹介した。提供された情報は二次報道で、公式資料は含まれていない。評価方法や実機性能を確認できる一次情報は示されていない。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/humanoid-guide-honda-r-d-no-kenkyuuyou-robottohando-wo-shouk-e4ced0/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T22:45:18.000Z",
+            "date_published": "2026-11-06T22:45:18.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "humanoid.guide、Honda R&amp;Dの研究用ロボットハンドを紹介",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/the-robot-report-point-one-navigation-wo-atsukau-kiji-wo-kei-b43a7c",
+            "content_html": "The Robot ReportがPoint One Navigationを扱う記事を掲載した。記事はGPS精度とロボティクス・プラットフォームを題材としている。提供された抜粋には、技術仕様や性能値は示されていない。",
+            "url": "https://physicalainews.jp/news/the-robot-report-point-one-navigation-wo-atsukau-kiji-wo-kei-b43a7c",
+            "title": "The Robot Report、Point One Navigationを扱う記事を掲載 | 日本フィジカルAI新聞",
+            "summary": "The Robot ReportがPoint One Navigationを扱う記事を掲載した。記事はGPS精度とロボティクス・プラットフォームを題材としている。提供された抜粋には、技術仕様や性能値は示されていない。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/the-robot-report-point-one-navigation-wo-atsukau-kiji-wo-kei-b43a7c/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T22:42:48.000Z",
+            "date_published": "2026-11-06T22:42:48.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "The Robot Report、Point One Navigationを扱う記事を掲載",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/nikkei-sutaatoappu-no-shikinchoutatsu-wo-houdou-bionicm-ha-7-57f67b",
+            "content_html": "日本経済新聞は2026年11月7日、スタートアップの資金調達案件をまとめ、BionicMとクアドリティクスの調達を掲載した。BionicMはシリーズBで7.1億円を調達し、2027年に米国投入を予定するパワード義足「ASISTA」の生産・販売基盤を強化する。クアドリティクスは6億円を調達し、心拍変動解析や発作兆候検知の開発、事業基盤の整備に充てる。",
+            "url": "https://physicalainews.jp/news/nikkei-sutaatoappu-no-shikinchoutatsu-wo-houdou-bionicm-ha-7-57f67b",
+            "title": "日経、スタートアップの資金調達を報道　BionicMは7.1億円、クアドリティクスは6億円 | 日本フィジカルAI新聞",
+            "summary": "日本経済新聞は2026年11月7日、スタートアップの資金調達案件をまとめ、BionicMとクアドリティクスの調達を掲載した。BionicMはシリーズBで7.1億円を調達し、2027年に米国投入を予定するパワード義足「ASISTA」の生産・販売基盤を強化する。クアドリティクスは6億円を調達し、心拍変動解析や発作兆候検知の開発、事業基盤の整備に充てる。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/nikkei-sutaatoappu-no-shikinchoutatsu-wo-houdou-bionicm-ha-7-57f67b/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T22:42:43.000Z",
+            "date_published": "2026-11-06T22:42:43.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "日経、スタートアップの資金調達を報道　BionicMは7.1億円、クアドリティクスは6億円",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/nihonkeizaishinbun-shoujin-ka-wo-atsukau-rensaikiji-genkan-h-3b2703",
+            "content_html": "日本経済新聞が省人化をテーマにした連載記事を掲載した。記事タイトルは配送ロボットと自動運転バスを取り上げている。提供された情報からは、具体的な事例や運用条件は確認できない。",
+            "url": "https://physicalainews.jp/news/nihonkeizaishinbun-shoujin-ka-wo-atsukau-rensaikiji-genkan-h-3b2703",
+            "title": "日本経済新聞、省人化を扱う連載記事「玄関開けたら配送ロボ…」を掲載 | 日本フィジカルAI新聞",
+            "summary": "日本経済新聞が省人化をテーマにした連載記事を掲載した。記事タイトルは配送ロボットと自動運転バスを取り上げている。提供された情報からは、具体的な事例や運用条件は確認できない。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/nihonkeizaishinbun-shoujin-ka-wo-atsukau-rensaikiji-genkan-h-3b2703/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T22:40:50.000Z",
+            "date_published": "2026-11-06T22:40:50.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "日本経済新聞、省人化を扱う連載記事「玄関開けたら配送ロボ…」を掲載",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/cnn-apptronik-no-hyuumanoido-apollo-no-sekkei-koukai-wo-houd-e0eec6",
+            "content_html": "CNNがApptronikの「Apollo」の設計公開を報じた。記事は2023年8月23日付。設計公開の報道と、技能獲得や量産の実証は区別して読む必要がある。",
+            "url": "https://physicalainews.jp/news/cnn-apptronik-no-hyuumanoido-apollo-no-sekkei-koukai-wo-houd-e0eec6",
+            "title": "CNN、Apptronikのヒューマノイド「Apollo」の設計公開を報道 | 日本フィジカルAI新聞",
+            "summary": "CNNがApptronikの「Apollo」の設計公開を報じた。記事は2023年8月23日付。設計公開の報道と、技能獲得や量産の実証は区別して読む必要がある。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/cnn-apptronik-no-hyuumanoido-apollo-no-sekkei-koukai-wo-houd-e0eec6/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T22:38:39.000Z",
+            "date_published": "2026-11-06T22:38:39.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "CNN、Apptronikのヒューマノイド「Apollo」の設計公開を報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/teslarati-tesla-no-optimus-academy-wo-houdou-f3d095",
+            "content_html": "Teslaの「Optimus Academy」を巡る記事を、teslarati.comが掲載した。提示されたソースに公式発表やIRは含まれていない。報道内容と、実際の生産・運用実績は分けて確認する必要がある。",
+            "url": "https://physicalainews.jp/news/teslarati-tesla-no-optimus-academy-wo-houdou-f3d095",
+            "title": "Teslarati、Teslaの「Optimus Academy」を報道 | 日本フィジカルAI新聞",
+            "summary": "Teslaの「Optimus Academy」を巡る記事を、teslarati.comが掲載した。提示されたソースに公式発表やIRは含まれていない。報道内容と、実際の生産・運用実績は分けて確認する必要がある。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/teslarati-tesla-no-optimus-academy-wo-houdou-f3d095/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T22:37:35.000Z",
+            "date_published": "2026-11-06T22:37:35.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Teslarati、Teslaの「Optimus Academy」を報道",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/forbes-amazon-to-boston-globe-kankeisha-no-robotto-taidankij-302909",
+            "content_html": "Forbesが2026年11月6日、ロボットをテーマにした対談記事を掲載した。記事の登場者はAmazonのTye BradyとBoston GlobeのAaron Pressmanだ。媒体記事の掲載であり、Amazonによる新たなロボット発表を示すものではない。",
+            "url": "https://physicalainews.jp/news/forbes-amazon-to-boston-globe-kankeisha-no-robotto-taidankij-302909",
+            "title": "Forbes、AmazonとBoston Globe関係者のロボット対談記事を掲載 | 日本フィジカルAI新聞",
+            "summary": "Forbesが2026年11月6日、ロボットをテーマにした対談記事を掲載した。記事の登場者はAmazonのTye BradyとBoston GlobeのAaron Pressmanだ。媒体記事の掲載であり、Amazonによる新たなロボット発表を示すものではない。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/forbes-amazon-to-boston-globe-kankeisha-no-robotto-taidankij-302909/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T22:06:44.000Z",
+            "date_published": "2026-11-06T22:06:44.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Forbes、AmazonとBoston Globe関係者のロボット対談記事を掲載",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/humanoid-guide-tlibot-no-hitogata-robotto-tianzhen-z1-wo-sho-cc0776",
+            "content_html": "humanoid.guideが2026年11月6日、Tlibotの人型ロボット「Tianzhen Z1」を紹介した。同記事は身長167cm、重量45kg、最大40の可動自由度（手を除く）などを掲載した。紹介記事で示された仕様であり、メーカーの一次資料による確認はできていない。",
+            "url": "https://physicalainews.jp/news/humanoid-guide-tlibot-no-hitogata-robotto-tianzhen-z1-wo-sho-cc0776",
+            "title": "humanoid.guide、Tlibotの人型ロボット「Tianzhen Z1」を紹介 | 日本フィジカルAI新聞",
+            "summary": "humanoid.guideが2026年11月6日、Tlibotの人型ロボット「Tianzhen Z1」を紹介した。同記事は身長167cm、重量45kg、最大40の可動自由度（手を除く）などを掲載した。紹介記事で示された仕様であり、メーカーの一次資料による確認はできていない。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/humanoid-guide-tlibot-no-hitogata-robotto-tianzhen-z1-wo-sho-cc0776/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T19:18:14.000Z",
+            "date_published": "2026-11-06T19:18:14.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "humanoid.guide、Tlibotの人型ロボット「Tianzhen Z1」を紹介",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/plibot-to-nabutesuko-jidou-doa-to-robotto-no-renkei-demo-wo-f980c2",
+            "content_html": "PLiBOTとナブテスコは、ロボットと自動ドアを連携させるデモを実施する。会場は2026年11月16日から20日まで開催するプライベートショールーム。提示された情報では、使用するロボットや連携の具体的な方式は示されていない。",
+            "url": "https://physicalainews.jp/news/plibot-to-nabutesuko-jidou-doa-to-robotto-no-renkei-demo-wo-f980c2",
+            "title": "PLiBOTとナブテスコ、自動ドアとロボットの連携デモを実施 | 日本フィジカルAI新聞",
+            "summary": "PLiBOTとナブテスコは、ロボットと自動ドアを連携させるデモを実施する。会場は2026年11月16日から20日まで開催するプライベートショールーム。提示された情報では、使用するロボットや連携の具体的な方式は示されていない。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/plibot-to-nabutesuko-jidou-doa-to-robotto-no-renkei-demo-wo-f980c2/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T19:16:42.000Z",
+            "date_published": "2026-11-06T19:16:42.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "PLiBOTとナブテスコ、自動ドアとロボットの連携デモを実施",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/sekaikeizai-fooramu-nvidia-no-fuan-ceo-to-dabosu-de-taidan-w-4a6375",
+            "content_html": "世界経済フォーラムは、2026年ダボス年次総会でNVIDIAのジェンスン・フアンCEOらとの対談を収録した。今回確認できるのは対談の開催・収録に関する情報で、発言の内容は記載しない。本紙の関連報道では、計算基盤、学習データ、ロボット操作が別々の具体的な課題として現れている。",
+            "url": "https://physicalainews.jp/news/sekaikeizai-fooramu-nvidia-no-fuan-ceo-to-dabosu-de-taidan-w-4a6375",
+            "title": "世界経済フォーラム、NVIDIAのフアンCEOとダボスで対談を収録 | 日本フィジカルAI新聞",
+            "summary": "世界経済フォーラムは、2026年ダボス年次総会でNVIDIAのジェンスン・フアンCEOらとの対談を収録した。今回確認できるのは対談の開催・収録に関する情報で、発言の内容は記載しない。本紙の関連報道では、計算基盤、学習データ、ロボット操作が別々の具体的な課題として現れている。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/sekaikeizai-fooramu-nvidia-no-fuan-ceo-to-dabosu-de-taidan-w-4a6375/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T18:27:35.000Z",
+            "date_published": "2026-11-06T18:27:35.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "世界経済フォーラム、NVIDIAのフアンCEOとダボスで対談を収録",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/note-com-jiensun-fuan-ceo-no-nippon-kanren-hatsugen-wo-atsuk-3c51f0",
+            "content_html": "note.comが、NVIDIAのジェンスン・フアンCEOによる日本関連発言を扱う記事を掲載した。提供された資料に一次情報は含まれていない。本紙関連記事にある製造・データ・計算基盤の動きとの関係を限定的に整理する。",
+            "url": "https://physicalainews.jp/news/note-com-jiensun-fuan-ceo-no-nippon-kanren-hatsugen-wo-atsuk-3c51f0",
+            "title": "note.com、ジェンスン・フアンCEOの日本関連発言を扱う記事を掲載 | 日本フィジカルAI新聞",
+            "summary": "note.comが、NVIDIAのジェンスン・フアンCEOによる日本関連発言を扱う記事を掲載した。提供された資料に一次情報は含まれていない。本紙関連記事にある製造・データ・計算基盤の動きとの関係を限定的に整理する。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/note-com-jiensun-fuan-ceo-no-nippon-kanren-hatsugen-wo-atsuk-3c51f0/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T18:26:33.000Z",
+            "date_published": "2026-11-06T18:26:33.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "note.com、ジェンスン・フアンCEOの日本関連発言を扱う記事を掲載",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/seifu-fijikaru-ai-nado-16-koumoku-wo-seichou-senryaku-no-juu-80dfac",
+            "content_html": "日本成長戦略会議は11月6日、成長戦略の実行に向けた重点項目を確認した。フィジカルAIや自動運転技術など、計16項目を位置づける。報道された情報からは、個別施策や予算、実行時期は読み取れない。",
+            "url": "https://physicalainews.jp/news/seifu-fijikaru-ai-nado-16-koumoku-wo-seichou-senryaku-no-juu-80dfac",
+            "title": "政府、フィジカルAIなど16項目を成長戦略の重点項目に | 日本フィジカルAI新聞",
+            "summary": "日本成長戦略会議は11月6日、成長戦略の実行に向けた重点項目を確認した。フィジカルAIや自動運転技術など、計16項目を位置づける。報道された情報からは、個別施策や予算、実行時期は読み取れない。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/seifu-fijikaru-ai-nado-16-koumoku-wo-seichou-senryaku-no-juu-80dfac/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T17:06:56.000Z",
+            "date_published": "2026-11-06T17:06:56.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "政府、フィジカルAIなど16項目を成長戦略の重点項目に",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/humanoid-guide-gento-luna-no-shiyou-wo-keisai-ori-tatami-shi-5e4781",
+            "content_html": "humanoid.guideは、Gento Roboticsの車輪式人型ロボット「Luna」を紹介する記事を掲載した。",
+            "url": "https://physicalainews.jp/news/humanoid-guide-gento-luna-no-shiyou-wo-keisai-ori-tatami-shi-5e4781",
+            "title": "humanoid.guide、Gento Lunaを紹介 | 日本フィジカルAI新聞",
+            "summary": "humanoid.guideは、Gento Roboticsの車輪式人型ロボット「Luna」を紹介する記事を掲載した。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/humanoid-guide-gento-luna-no-shiyou-wo-keisai-ori-tatami-shi-5e4781/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T16:20:32.000Z",
+            "date_published": "2026-11-06T16:20:32.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "humanoid.guide、Gento Lunaを紹介",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        },
+        {
+            "id": "https://physicalainews.jp/news/physicl-robotto-muke-jigyou-de-1000-man-doru-no-shiido-shiki-9a6eee",
+            "content_html": "Physiclがシード資金として1000万ドルを調達した。調達を主導したのはInovia Capitalだ。資金調達の事実だけでは、技術の有効性や事業の進捗は判断できない。",
+            "url": "https://physicalainews.jp/news/physicl-robotto-muke-jigyou-de-1000-man-doru-no-shiido-shiki-9a6eee",
+            "title": "Physicl、ロボット向け事業で1000万ドルのシード資金を調達 | 日本フィジカルAI新聞",
+            "summary": "Physiclがシード資金として1000万ドルを調達した。調達を主導したのはInovia Capitalだ。資金調達の事実だけでは、技術の有効性や事業の進捗は判断できない。",
+            "image": {
+                "height": "630",
+                "type": "image/png",
+                "url": "https://physicalainews.jp/news/physicl-robotto-muke-jigyou-de-1000-man-doru-no-shiido-shiki-9a6eee/opengraph-image?239fa34c8367487c",
+                "width": "1200",
+                "alt": "記事"
+            },
+            "date_modified": "2026-11-06T16:18:55.000Z",
+            "date_published": "2026-11-06T16:18:55.000Z",
+            "tags": [],
+            "_custom": {
+                "hatenaCount": 0,
+                "originalTitle": "Physicl、ロボット向け事業で1000万ドルのシード資金を調達",
+                "blogTitle": "日本フィジカルAI新聞",
+                "blogLink": "https://physicalainews.jp",
+                "blogLinkMd5Hash": "9c74dcbdf9440dceaff87c8bcc7abb97"
+            }
+        }
+    ]
+}
