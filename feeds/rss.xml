@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>AI・ロボティクス技術ニュース RSS</title>
+        <link>https://takashinnosuke.github.io/slack_AI_news_bot/</link>
+        <description>AI・ロボティクスに関連するテック情報やニュースをまとめたRSSフィード</description>
+        <lastBuildDate>Sat, 21 Nov 2026 07:58:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>takashinnosuke/slack_AI_news_bot</generator>
+        <language>ja</language>
+        <image>
+            <title>AI・ロボティクス技術ニュース RSS</title>
+            <url>https://takashinnosuke.github.io/slack_AI_news_bot/images/icon.png</url>
+            <link>https://takashinnosuke.github.io/slack_AI_news_bot/</link>
+        </image>
+        <copyright>takashinnosuke/slack_AI_news_bot</copyright>
+        <atom:link href="https://takashinnosuke.github.io/slack_AI_news_bot/feeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ワイズコンサルティング、台湾のAIサーバー機構部品と液冷を扱うレポートを発行 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/waizukonsaruteingu-taiwan-no-ai-saabaa-kikou-buhin-to-ekirei-4a7554</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/waizukonsaruteingu-taiwan-no-ai-saabaa-kikou-buhin-to-ekirei-4a7554</guid>
+            <pubDate>Thu, 19 Nov 2026 14:40:11 GMT</pubDate>
+            <description><![CDATA[ワイズコンサルティング グループが台湾電子半導体・機械業界の最新レポートを発行した。レポートの表題は、AIサーバーのラック単位出荷と台湾の機構部品業界による液冷分野への拡大を取り上げる。表題では受注が「倍増ペース」とするが、提示された本文には対象や算定期間などの詳細は記載されていない。]]></description>
+            <content:encoded><![CDATA[ワイズコンサルティング グループが台湾電子半導体・機械業界の最新レポートを発行した。レポートの表題は、AIサーバーのラック単位出荷と台湾の機構部品業界による液冷分野への拡大を取り上げる。表題では受注が「倍増ペース」とするが、提示された本文には対象や算定期間などの詳細は記載されていない。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/waizukonsaruteingu-taiwan-no-ai-saabaa-kikou-buhin-to-ekirei-4a7554/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>ワイズコンサルティング、台湾のAIサーバー機構部品と液冷を扱うレポートを発行</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[ピムト、東京スカイツリーで移動型無人販売ロボット「PIMT-0」の実証開始 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/pimuto-toukyou-sukaitsurii-de-idougata-mujin-hanbai-robotto-5c1215</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/pimuto-toukyou-sukaitsurii-de-idougata-mujin-hanbai-robotto-5c1215</guid>
+            <pubDate>Thu, 19 Nov 2026 14:39:42 GMT</pubDate>
+            <description><![CDATA[ピムト株式会社が、東京スカイツリーで「PIMT-0」のビジネス実証を始めた。対象は移動型の無人販売ロボットだ。実証の期間や運用条件、販売規模は提示された情報から確認できない。]]></description>
+            <content:encoded><![CDATA[ピムト株式会社が、東京スカイツリーで「PIMT-0」のビジネス実証を始めた。対象は移動型の無人販売ロボットだ。実証の期間や運用条件、販売規模は提示された情報から確認できない。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/pimuto-toukyou-sukaitsurii-de-idougata-mujin-hanbai-robotto-5c1215/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>ピムト、東京スカイツリーで移動型無人販売ロボット「PIMT-0」の実証開始</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Design News、人間大のクラゲ型ロボットを扱う動画記事を掲載 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/design-news-ningen-dai-no-kurage-kata-robotto-wo-atsukau-dou-49c6f6</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/design-news-ningen-dai-no-kurage-kata-robotto-wo-atsukau-dou-49c6f6</guid>
+            <pubDate>Thu, 19 Nov 2026 14:39:12 GMT</pubDate>
+            <description><![CDATA[Design Newsが人間大のクラゲ型ロボットを扱う動画記事を掲載した。見出しは、海域の巡回を用途として示している。提示資料に記事本文はなく、機体の仕様や運用状況は確認できない。]]></description>
+            <content:encoded><![CDATA[Design Newsが人間大のクラゲ型ロボットを扱う動画記事を掲載した。見出しは、海域の巡回を用途として示している。提示資料に記事本文はなく、機体の仕様や運用状況は確認できない。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/design-news-ningen-dai-no-kurage-kata-robotto-wo-atsukau-dou-49c6f6/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Design News、人間大のクラゲ型ロボットを扱う動画記事を掲載</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Design News、太陽光で推進する次世代Wave Gliderロボットのスライドショーを掲載 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/design-news-taiyoukou-de-suishin-suru-jisedai-wave-glider-ro-f3f12f</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/design-news-taiyoukou-de-suishin-suru-jisedai-wave-glider-ro-f3f12f</guid>
+            <pubDate>Thu, 19 Nov 2026 14:38:13 GMT</pubDate>
+            <description><![CDATA[Design Newsが、太陽光で推進する次世代Wave Gliderロボットを扱うスライドショーを掲載した。提供された情報から確認できるのは、記事の題名と掲載日までだ。機体の仕様や運用条件は確認できず、技術的な評価はできない。]]></description>
+            <content:encoded><![CDATA[Design Newsが、太陽光で推進する次世代Wave Gliderロボットを扱うスライドショーを掲載した。提供された情報から確認できるのは、記事の題名と掲載日までだ。機体の仕様や運用条件は確認できず、技術的な評価はできない。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/design-news-taiyoukou-de-suishin-suru-jisedai-wave-glider-ro-f3f12f/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Design News、太陽光で推進する次世代Wave Gliderロボットのスライドショーを掲載</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Design News、「The Robot’s Got the Cookies Handled」を掲載 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/design-news-the-robot-s-got-the-cookies-handled-wo-keisai-6e1a64</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/design-news-the-robot-s-got-the-cookies-handled-wo-keisai-6e1a64</guid>
+            <pubDate>Thu, 19 Nov 2026 14:37:17 GMT</pubDate>
+            <description><![CDATA[Design Newsは2023年11月14日、「The Robot’s Got the Cookies Handled」を掲載した。提供された情報から確認できるのは、記事のタイトルと掲載日までだ。記事が扱うロボットや作業の具体像は、ここに示された情報だけでは判断できない。]]></description>
+            <content:encoded><![CDATA[Design Newsは2023年11月14日、「The Robot’s Got the Cookies Handled」を掲載した。提供された情報から確認できるのは、記事のタイトルと掲載日までだ。記事が扱うロボットや作業の具体像は、ここに示された情報だけでは判断できない。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/design-news-the-robot-s-got-the-cookies-handled-wo-keisai-6e1a64/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Design News、「The Robot’s Got the Cookies Handled」を掲載</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[钛媒体、ロボット製造を扱う記事を掲載 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/karada-robotto-seizou-wo-atsukau-kiji-wo-keisai-6ecbd2</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/karada-robotto-seizou-wo-atsukau-kiji-wo-keisai-6ecbd2</guid>
+            <pubDate>Thu, 19 Nov 2026 14:07:49 GMT</pubDate>
+            <description><![CDATA[钛媒体がロボット製造を扱う記事を掲載した。提供資料は二次報道で、一次情報は含まれていない。記事の掲載事実と、記事内の個別情報の裏づけは分けて確認する必要がある。]]></description>
+            <content:encoded><![CDATA[钛媒体がロボット製造を扱う記事を掲載した。提供資料は二次報道で、一次情報は含まれていない。記事の掲載事実と、記事内の個別情報の裏づけは分けて確認する必要がある。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/karada-robotto-seizou-wo-atsukau-kiji-wo-keisai-6ecbd2/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>钛媒体、ロボット製造を扱う記事を掲載</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[钛媒体、消費向け外骨格を扱う記事を掲載 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/karada-shouhi-muke-gaikotsu-kaku-wo-atsukau-kiji-wo-keisai-c2fed5</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/karada-shouhi-muke-gaikotsu-kaku-wo-atsukau-kiji-wo-keisai-c2fed5</guid>
+            <pubDate>Thu, 19 Nov 2026 14:07:24 GMT</pubDate>
+            <description><![CDATA[钛媒体が2026年6月3日、消費向け外骨格を扱う記事を掲載した。提示された記事は論説形式で、一次資料は含まれていない。製品仕様や利用実績を評価できる材料は限られる。]]></description>
+            <content:encoded><![CDATA[钛媒体が2026年6月3日、消費向け外骨格を扱う記事を掲載した。提示された記事は論説形式で、一次資料は含まれていない。製品仕様や利用実績を評価できる材料は限られる。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/karada-shouhi-muke-gaikotsu-kaku-wo-atsukau-kiji-wo-keisai-c2fed5/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>钛媒体、消費向け外骨格を扱う記事を掲載</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Forbes、外科手術ロボットを扱う論考を掲載 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/forbes-geka-shujutsu-robotto-wo-atsukau-ronkou-wo-keisai-ca4a98</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/forbes-geka-shujutsu-robotto-wo-atsukau-ronkou-wo-keisai-ca4a98</guid>
+            <pubDate>Thu, 19 Nov 2026 14:06:45 GMT</pubDate>
+            <description><![CDATA[Forbesが外科手術ロボットを扱う論考を掲載した。論考の掲載は、技術実証や製品投入の発表とは異なる。手術ロボットの実績を評価するには、対象や運用形態の確認が必要だ。]]></description>
+            <content:encoded><![CDATA[Forbesが外科手術ロボットを扱う論考を掲載した。論考の掲載は、技術実証や製品投入の発表とは異なる。手術ロボットの実績を評価するには、対象や運用形態の確認が必要だ。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/forbes-geka-shujutsu-robotto-wo-atsukau-ronkou-wo-keisai-ca4a98/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Forbes、外科手術ロボットを扱う論考を掲載</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[leaderobot.com、Genesis AIを巡る記事を掲載 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/leaderobot-com-genesis-ai-wo-meguru-kiji-wo-keisai-9f658f</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/leaderobot-com-genesis-ai-wo-meguru-kiji-wo-keisai-9f658f</guid>
+            <pubDate>Thu, 19 Nov 2026 12:06:46 GMT</pubDate>
+            <description><![CDATA[leaderobot.comがGenesis AIを巡る記事を掲載した。提供資料は二次報道で、一次情報は含まれていない。記事の掲載と、そこで扱われる内容の事実確認は分けて読む必要がある。]]></description>
+            <content:encoded><![CDATA[leaderobot.comがGenesis AIを巡る記事を掲載した。提供資料は二次報道で、一次情報は含まれていない。記事の掲載と、そこで扱われる内容の事実確認は分けて読む必要がある。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/leaderobot-com-shin-do-wo-atsukau-kiji-wo-keisai-50276c/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>leaderobot.com、Genesis AIを巡る記事を掲載</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Motion、ヘルシンキのイベントでGalbot S1のパレタイジングを実演 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/motion-galbot-s1-no-paretaijingu-jitsuen-wo-hirou-to-houdou-5eb0ea</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/motion-galbot-s1-no-paretaijingu-jitsuen-wo-hirou-to-houdou-5eb0ea</guid>
+            <pubDate>Thu, 19 Nov 2026 11:42:19 GMT</pubDate>
+            <description><![CDATA[Motionは2026年11月19日、ヘルシンキのイベントでGalbot S1による箱の積み上げを実演した。MotionのAlexander Stevens氏によると、機体重量は320キログラム、可搬重量は50キログラムで、LiDARを使って人の近くで減速する。実演は、ロボットの機体性能だけでなく、訓練や安全管理、遠隔支援を含む運用方法も紹介する場となった。]]></description>
+            <content:encoded><![CDATA[Motionは2026年11月19日、ヘルシンキのイベントでGalbot S1による箱の積み上げを実演した。MotionのAlexander Stevens氏によると、機体重量は320キログラム、可搬重量は50キログラムで、LiDARを使って人の近くで減速する。実演は、ロボットの機体性能だけでなく、訓練や安全管理、遠隔支援を含む運用方法も紹介する場となった。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/motion-galbot-s1-no-paretaijingu-jitsuen-wo-hirou-to-houdou-5eb0ea/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Motion、ヘルシンキのイベントでGalbot S1のパレタイジングを実演</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[36Kr、MIITの人型ロボット業界標準5件の発行を報道 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/36kr-miit-no-hitogata-robotto-gyoukaihyoujun-5-ken-no-hakkou-ed6c3d</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/36kr-miit-no-hitogata-robotto-gyoukaihyoujun-5-ken-no-hakkou-ed6c3d</guid>
+            <pubDate>Thu, 19 Nov 2026 11:37:26 GMT</pubDate>
+            <description><![CDATA[36Krが、MIITによる人型ロボット分野の業界標準5件の発行を報じた。報道見出しは知能能力の分類と訓練場建設基準を取り上げている。提供資料は二次報道の抜粋で、規格本文は確認できない。]]></description>
+            <content:encoded><![CDATA[36Krが、MIITによる人型ロボット分野の業界標準5件の発行を報じた。報道見出しは知能能力の分類と訓練場建設基準を取り上げている。提供資料は二次報道の抜粋で、規格本文は確認できない。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/36kr-miit-no-hitogata-robotto-gyoukaihyoujun-5-ken-no-hakkou-ed6c3d/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>36Kr、MIITの人型ロボット業界標準5件の発行を報道</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Thinkerの藤本CEO、富士通運営の「Physical AI Nexus Japan in Kansai」に登壇へ | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/thinker-no-fujimoto-ceo-fujitsuu-un-ei-no-physical-ai-nexus-424358</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/thinker-no-fujimoto-ceo-fujitsuu-un-ei-no-physical-ai-nexus-424358</guid>
+            <pubDate>Thu, 19 Nov 2026 11:18:12 GMT</pubDate>
+            <description><![CDATA[Thinkerの藤本弘道CEOが、11月25日（水）開催のイベントに登壇する。独自の「手探りできるロボットハンド」の開発・実用化経験を踏まえて話す。登壇内容の詳細や製品仕様、実運用の数値は、提供された発表文の範囲では示されていない。]]></description>
+            <content:encoded><![CDATA[Thinkerの藤本弘道CEOが、11月25日（水）開催のイベントに登壇する。独自の「手探りできるロボットハンド」の開発・実用化経験を踏まえて話す。登壇内容の詳細や製品仕様、実運用の数値は、提供された発表文の範囲では示されていない。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/thinker-no-fujimoto-ceo-fujitsuu-un-ei-no-physical-ai-nexus-424358/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Thinkerの藤本CEO、富士通運営の「Physical AI Nexus Japan in Kansai」に登壇へ</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Seeed Studio、SO-101を紹介 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/seeed-studio-6-jiyuudo-no-3d-purinto-shiki-robottoaamukitto-ee65b9</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/seeed-studio-6-jiyuudo-no-3d-purinto-shiki-robottoaamukitto-ee65b9</guid>
+            <pubDate>Thu, 19 Nov 2026 11:17:44 GMT</pubDate>
+            <description><![CDATA[Seeed Studioは、3Dプリント式ロボットアーム「SO-101」の紹介ページを掲載した。]]></description>
+            <content:encoded><![CDATA[Seeed Studioは、3Dプリント式ロボットアーム「SO-101」の紹介ページを掲載した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/seeed-studio-6-jiyuudo-no-3d-purinto-shiki-robottoaamukitto-ee65b9/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Seeed Studio、SO-101を紹介</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[丸文、RealManのロボットアームやヒューマノイドを国内販売 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/maru-bun-realman-no-robottoaamu-ya-hyuumanoido-wo-kokunaihan-3171a3</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/maru-bun-realman-no-robottoaamu-ya-hyuumanoido-wo-kokunaihan-3171a3</guid>
+            <pubDate>Thu, 19 Nov 2026 11:09:01 GMT</pubDate>
+            <description><![CDATA[丸文は2026年11月19日、RealMan Roboticsと国内販売店契約を締結したと発表した。取り扱うのは、超軽量アーム、関節モジュール、ヒューマノイド、遠隔操作・AIデータ収集ソリューション。アームの移動ロボット搭載と、遠隔作業データを学習に使う仕組みを製品群に含める。]]></description>
+            <content:encoded><![CDATA[丸文は2026年11月19日、RealMan Roboticsと国内販売店契約を締結したと発表した。取り扱うのは、超軽量アーム、関節モジュール、ヒューマノイド、遠隔操作・AIデータ収集ソリューション。アームの移動ロボット搭載と、遠隔作業データを学習に使う仕組みを製品群に含める。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/maru-bun-realman-no-robottoaamu-ya-hyuumanoido-wo-kokunaihan-3171a3/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>丸文、RealManのロボットアームやヒューマノイドを国内販売</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[ROBOTERA、中国郵政グループ広東支店の11拠点にヒューマノイドを展開 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/robotera-chuugoku-yuusei-guruupu-kanton-shiten-no-11-kyoten-fd6127</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/robotera-chuugoku-yuusei-guruupu-kanton-shiten-no-11-kyoten-fd6127</guid>
+            <pubDate>Thu, 19 Nov 2026 11:08:50 GMT</pubDate>
+            <description><![CDATA[ROBOTERAは中国郵政グループ広東支店の郵便網で、8都市・11拠点にヒューマノイドを展開した。広州の実証は2026年3月に始まり、同社は平均で1時間あたり1,500個超の荷物を仕分けしていると説明する。規模の拡大に加え、異なる荷物や仕分けラインへの対応が運用上の焦点となる。]]></description>
+            <content:encoded><![CDATA[ROBOTERAは中国郵政グループ広東支店の郵便網で、8都市・11拠点にヒューマノイドを展開した。広州の実証は2026年3月に始まり、同社は平均で1時間あたり1,500個超の荷物を仕分けしていると説明する。規模の拡大に加え、異なる荷物や仕分けラインへの対応が運用上の焦点となる。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/robotera-chuugoku-yuusei-guruupu-kanton-shiten-no-11-kyoten-fd6127/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>ROBOTERA、中国郵政グループ広東支店の11拠点にヒューマノイドを展開</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[TBS CROSS DIG with Bloomberg、TSMCジャパン社長への半導体技術インタビューを掲載 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/tbs-cross-dig-with-bloomberg-tsmc-japan-shachou-heno-handout-6d68f3</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/tbs-cross-dig-with-bloomberg-tsmc-japan-shachou-heno-handout-6d68f3</guid>
+            <pubDate>Thu, 19 Nov 2026 11:07:58 GMT</pubDate>
+            <description><![CDATA[TBS CROSS DIG with Bloombergが、TSMCジャパン社長へのインタビューを掲載した。本稿で確認できるのは、番組記事の掲載とその題材までだ。関連記事を照合しても、半導体の製造計画や技術実装を裏づける一次資料は確認できない。]]></description>
+            <content:encoded><![CDATA[TBS CROSS DIG with Bloombergが、TSMCジャパン社長へのインタビューを掲載した。本稿で確認できるのは、番組記事の掲載とその題材までだ。関連記事を照合しても、半導体の製造計画や技術実装を裏づける一次資料は確認できない。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/tbs-cross-dig-with-bloomberg-tsmc-japan-shachou-heno-handout-6d68f3/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>TBS CROSS DIG with Bloomberg、TSMCジャパン社長への半導体技術インタビューを掲載</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Telexistence、ファミリーマート全国店舗に飲料補充ロボット　2027年1月から順次導入 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/telexistence-famiriimaato-zenkoku-tenpo-ni-inryou-hojuu-robo-f1c085</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/telexistence-famiriimaato-zenkoku-tenpo-ni-inryou-hojuu-robo-f1c085</guid>
+            <pubDate>Thu, 19 Nov 2026 11:07:36 GMT</pubDate>
+            <description><![CDATA[Telexistenceは、AIロボット「TX GHOST」と「スマートシェルフ」をファミリーマートの全国店舗に2027年1月から順次導入する。TX GHOSTは飲料を24時間陳列し、1日最大約1,800本に対応する。Telexistenceは、先行導入店舗で1店舗あたり1日約7割の業務削減効果が確認されたとしている。]]></description>
+            <content:encoded><![CDATA[Telexistenceは、AIロボット「TX GHOST」と「スマートシェルフ」をファミリーマートの全国店舗に2027年1月から順次導入する。TX GHOSTは飲料を24時間陳列し、1日最大約1,800本に対応する。Telexistenceは、先行導入店舗で1店舗あたり1日約7割の業務削減効果が確認されたとしている。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/telexistence-famiriimaato-zenkoku-tenpo-ni-inryou-hojuu-robo-f1c085/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Telexistence、ファミリーマート全国店舗に飲料補充ロボット　2027年1月から順次導入</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[EE Times Japan、electronica 2026のヒューマノイド展示を報道 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/ee-times-japan-electronica-2026-no-hyuumanoido-tenji-wo-houd-b000d9</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/ee-times-japan-electronica-2026-no-hyuumanoido-tenji-wo-houd-b000d9</guid>
+            <pubDate>Thu, 19 Nov 2026 11:06:56 GMT</pubDate>
+            <description><![CDATA[EE Times Japanがelectronica 2026のヒューマノイド関連展示を報じた。本稿で確認できるのは、記事の掲載と題材までだ。展示内容や実装の進展を示す一次資料は確認できない。]]></description>
+            <content:encoded><![CDATA[EE Times Japanがelectronica 2026のヒューマノイド関連展示を報じた。本稿で確認できるのは、記事の掲載と題材までだ。展示内容や実装の進展を示す一次資料は確認できない。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/ee-times-japan-electronica-2026-no-hyuumanoido-tenji-wo-houd-b000d9/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>EE Times Japan、electronica 2026のヒューマノイド展示を報道</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[leaderobot.com、杭州艾铂特の高危険環境向け人形ロボットを報道 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/leaderobot-com-koushuu-gai-no-taka-kiken-kankyou-muke-ningyo-bde68c</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/leaderobot-com-koushuu-gai-no-taka-kiken-kankyou-muke-ningyo-bde68c</guid>
+            <pubDate>Thu, 19 Nov 2026 10:39:54 GMT</pubDate>
+            <description><![CDATA[leaderobot.comが杭州艾铂特智能科技に関する記事を掲載した。記事は高危険環境向け人形ロボットを扱っている。提供された記事抜粋には、公式発表などの一次資料は含まれていない。]]></description>
+            <content:encoded><![CDATA[leaderobot.comが杭州艾铂特智能科技に関する記事を掲載した。記事は高危険環境向け人形ロボットを扱っている。提供された記事抜粋には、公式発表などの一次資料は含まれていない。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/leaderobot-com-koushuu-gai-no-taka-kiken-kankyou-muke-ningyo-bde68c/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>leaderobot.com、杭州艾铂特の高危険環境向け人形ロボットを報道</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[leaderobot、郭嵩氏らのフィジカルAI・工場導入をめぐるインタビューを掲載 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/leaderobot-kaku-kasa-shi-rano-fijikaru-ai-koujou-dounyuu-wom-a7dd27</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/leaderobot-kaku-kasa-shi-rano-fijikaru-ai-koujou-dounyuu-wom-a7dd27</guid>
+            <pubDate>Thu, 19 Nov 2026 10:36:58 GMT</pubDate>
+            <description><![CDATA[leaderobot.comが2026年11月19日、フィジカルAIと工場への具身智能導入をテーマにしたインタビュー記事を掲載した。記事には香港科技大学の郭嵩氏、埃斯顿の吴侃氏、飛渡科技の何文武氏が登場する。記事の掲載は確認できるが、今回の資料だけでは、実装や共同事業の進展は確認できない。]]></description>
+            <content:encoded><![CDATA[leaderobot.comが2026年11月19日、フィジカルAIと工場への具身智能導入をテーマにしたインタビュー記事を掲載した。記事には香港科技大学の郭嵩氏、埃斯顿の吴侃氏、飛渡科技の何文武氏が登場する。記事の掲載は確認できるが、今回の資料だけでは、実装や共同事業の進展は確認できない。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/leaderobot-kaku-kasa-shi-rano-fijikaru-ai-koujou-dounyuu-wom-a7dd27/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>leaderobot、郭嵩氏らのフィジカルAI・工場導入をめぐるインタビューを掲載</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[豊田通商、車載ソフト事業を分社化 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/toyodatsuushou-shasai-sofuto-jigyou-wo-bunshaka-densoo-ga-20-b87a1f</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/toyodatsuushou-shasai-sofuto-jigyou-wo-bunshaka-densoo-ga-20-b87a1f</guid>
+            <pubDate>Thu, 19 Nov 2026 08:42:42 GMT</pubDate>
+            <description><![CDATA[豊田通商は車載ソフト事業を担う新会社を設立し、2027年1月に事業を開始すると発表した。]]></description>
+            <content:encoded><![CDATA[豊田通商は車載ソフト事業を担う新会社を設立し、2027年1月に事業を開始すると発表した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/toyodatsuushou-shasai-sofuto-jigyou-wo-bunshaka-densoo-ga-20-b87a1f/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>豊田通商、車載ソフト事業を分社化</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Bloomberg、ヒューマノイド競争とPhysical AIの事業化を扱う番組を掲載 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/bloomberg-hyuumanoido-kyousou-to-physical-ai-no-jigyou-ka-wo-d62dc9</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/bloomberg-hyuumanoido-kyousou-to-physical-ai-no-jigyou-ka-wo-d62dc9</guid>
+            <pubDate>Thu, 19 Nov 2026 08:32:01 GMT</pubDate>
+            <description><![CDATA[Bloombergが「BI Replay」を掲載した。題名はヒューマノイド競争とPhysical AIの事業化を主題に掲げる。提供された情報から、番組内の具体的な発言や事実関係は確認できない。]]></description>
+            <content:encoded><![CDATA[Bloombergが「BI Replay」を掲載した。題名はヒューマノイド競争とPhysical AIの事業化を主題に掲げる。提供された情報から、番組内の具体的な発言や事実関係は確認できない。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/bloomberg-hyuumanoido-kyousou-to-physical-ai-no-jigyou-ka-wo-d62dc9/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Bloomberg、ヒューマノイド競争とPhysical AIの事業化を扱う番組を掲載</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Foundation Future Industriesの「Phantom MKII」発表をhumanoid.guideが報道 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/foundation-future-industries-no-phantom-mkii-happyou-wo-huma-0b759c</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/foundation-future-industries-no-phantom-mkii-happyou-wo-huma-0b759c</guid>
+            <pubDate>Thu, 19 Nov 2026 08:29:40 GMT</pubDate>
+            <description><![CDATA[humanoid.guideは、Foundation Future Industriesによる人型ロボット「Phantom MKII」の発表を報じた。本稿では発表が報じられた事実に絞り、機体性能や用途の詳細は扱わない。産業用ロボットをめぐる本紙の過去報道と照らし、評価時に必要な視点を整理する。]]></description>
+            <content:encoded><![CDATA[humanoid.guideは、Foundation Future Industriesによる人型ロボット「Phantom MKII」の発表を報じた。本稿では発表が報じられた事実に絞り、機体性能や用途の詳細は扱わない。産業用ロボットをめぐる本紙の過去報道と照らし、評価時に必要な視点を整理する。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/foundation-future-industries-no-phantom-mkii-happyou-wo-huma-0b759c/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Foundation Future Industriesの「Phantom MKII」発表をhumanoid.guideが報道</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[ファミリーマート、飲料補充ロボットを2027年1月から導入 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/famiriimaato-inryou-hojuu-robotto-wo-dounyuu-he-fb1cae</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/famiriimaato-inryou-hojuu-robotto-wo-dounyuu-he-fb1cae</guid>
+            <pubDate>Thu, 19 Nov 2026 08:27:32 GMT</pubDate>
+            <description><![CDATA[日本経済新聞は、ファミリーマートが飲料補充ロボットの導入を2027年1月から順次始めると報じた。]]></description>
+            <content:encoded><![CDATA[日本経済新聞は、ファミリーマートが飲料補充ロボットの導入を2027年1月から順次始めると報じた。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/famiriimaato-inryou-hojuu-robotto-wo-dounyuu-he-fb1cae/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>ファミリーマート、飲料補充ロボットを2027年1月から導入</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[Jパワー・日立・マクニカ、重要インフラ向けフィジカルAI基盤を検討 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/j-pawaa-hitachi-makunika-juuyou-infura-muke-fijikaru-ai-kiba-8b9e5a</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/j-pawaa-hitachi-makunika-juuyou-infura-muke-fijikaru-ai-kiba-8b9e5a</guid>
+            <pubDate>Thu, 19 Nov 2026 08:25:06 GMT</pubDate>
+            <description><![CDATA[Jパワー、日立、マクニカが、重要社会インフラでのフィジカルAI活用に向けた基盤の構築を検討する。シミュレーションで学習・検証したAIを設備やロボットで動かし、現場データを再学習へ戻す構想だ。最初の対象として、Jパワーグループの設備を使う送電線点検ドローンの実証を検討する。]]></description>
+            <content:encoded><![CDATA[Jパワー、日立、マクニカが、重要社会インフラでのフィジカルAI活用に向けた基盤の構築を検討する。シミュレーションで学習・検証したAIを設備やロボットで動かし、現場データを再学習へ戻す構想だ。最初の対象として、Jパワーグループの設備を使う送電線点検ドローンの実証を検討する。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/j-pawaa-hitachi-makunika-juuyou-infura-muke-fijikaru-ai-kiba-8b9e5a/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>Jパワー・日立・マクニカ、重要インフラ向けフィジカルAI基盤を検討</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI、AIで半導体設計を改善 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/openai-ai-moderu-de-amd-sei-gpu-to-dokuji-chippu-wo-saitekik-0a84d1</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/openai-ai-moderu-de-amd-sei-gpu-to-dokuji-chippu-wo-saitekik-0a84d1</guid>
+            <pubDate>Thu, 19 Nov 2026 08:22:19 GMT</pubDate>
+            <description><![CDATA[OpenAIは、自社のAIモデルを使ってAMD製GPUや独自チップの設計を改善したと発表した。]]></description>
+            <content:encoded><![CDATA[OpenAIは、自社のAIモデルを使ってAMD製GPUや独自チップの設計を改善したと発表した。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/openai-ai-moderu-de-amd-sei-gpu-to-dokuji-chippu-wo-saitekik-0a84d1/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>OpenAI、AIで半導体設計を改善</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[タカミヤ、異業種8社と「TAKAMIYA FAIR 2026」開催　建設現場向け技術17点を展示 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/takamiya-igyoushu-8-sha-to-takamiya-fair-2026-kaisai-kensets-2ec2d6</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/takamiya-igyoushu-8-sha-to-takamiya-fair-2026-kaisai-kensets-2ec2d6</guid>
+            <pubDate>Thu, 19 Nov 2026 08:18:40 GMT</pubDate>
+            <description><![CDATA[prtimes.jpは2026年11月19日、「タカミヤ、異業種8社と「TAKAMIYA FAIR 2026」開催 建設現場向け技術17点を展示」と報じた。]]></description>
+            <content:encoded><![CDATA[prtimes.jpは2026年11月19日、「タカミヤ、異業種8社と「TAKAMIYA FAIR 2026」開催 建設現場向け技術17点を展示」と報じた。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/takamiya-igyoushu-8-sha-to-takamiya-fair-2026-kaisai-kensets-2ec2d6/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>タカミヤ、異業種8社と「TAKAMIYA FAIR 2026」開催　建設現場向け技術17点を展示</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[北京人形、圧力計の全自動検定ソリューションを発表 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/pekin-ningyou-atsuryokukei-no-zenjidou-kentei-soryuushon-wo-20dfb6</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/pekin-ningyou-atsuryokukei-no-zenjidou-kentei-soryuushon-wo-20dfb6</guid>
+            <pubDate>Thu, 19 Nov 2026 07:43:48 GMT</pubDate>
+            <description><![CDATA[北京人形は圧力計の全自動検定を行う具身智能ソリューションを発表した。報道によると、天轶2.0で搬送から合否別の仕分けまでを自動化する。既存の検定装置を改造せず、MQTT接続とLIMS連携に対応するとしている。]]></description>
+            <content:encoded><![CDATA[北京人形は圧力計の全自動検定を行う具身智能ソリューションを発表した。報道によると、天轶2.0で搬送から合否別の仕分けまでを自動化する。既存の検定装置を改造せず、MQTT接続とLIMS連携に対応するとしている。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/pekin-ningyou-atsuryokukei-no-zenjidou-kentei-soryuushon-wo-20dfb6/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>北京人形、圧力計の全自動検定ソリューションを発表</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[leaderobot.com、ロボット関連株を扱う記事を掲載 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/leaderobot-com-robotto-kanren-kabu-wo-atsukau-kiji-wo-keisai-60b7ae</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/leaderobot-com-robotto-kanren-kabu-wo-atsukau-kiji-wo-keisai-60b7ae</guid>
+            <pubDate>Thu, 19 Nov 2026 07:41:30 GMT</pubDate>
+            <description><![CDATA[leaderobot.comが2026年11月19日、ロボット関連株を扱う記事を掲載した。提供資料には、記事の内容を裏づける一次資料は含まれていない。記事の論点や数値の検証には、企業の公表資料との照合が必要となる。]]></description>
+            <content:encoded><![CDATA[leaderobot.comが2026年11月19日、ロボット関連株を扱う記事を掲載した。提供資料には、記事の内容を裏づける一次資料は含まれていない。記事の論点や数値の検証には、企業の公表資料との照合が必要となる。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/leaderobot-com-robotto-kanren-kabu-wo-atsukau-kiji-wo-keisai-60b7ae/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>leaderobot.com、ロボット関連株を扱う記事を掲載</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+        <item>
+            <title><![CDATA[零次方の3成果の公開を報道 | 日本フィジカルAI新聞]]></title>
+            <link>https://physicalainews.jp/news/rei-tsugi-hou-no-3-seika-no-koukai-wo-houdou-da4d39</link>
+            <guid isPermaLink="false">https://physicalainews.jp/news/rei-tsugi-hou-no-3-seika-no-koukai-wo-houdou-da4d39</guid>
+            <pubDate>Thu, 19 Nov 2026 07:39:16 GMT</pubDate>
+            <description><![CDATA[leaderobot.comは、零次方が3つの成果をオープンソースで公開したと報じた。]]></description>
+            <content:encoded><![CDATA[leaderobot.comは、零次方が3つの成果をオープンソースで公開したと報じた。]]></content:encoded>
+            <enclosure length="0" type="image/png" height="630" url="https://physicalainews.jp/news/rei-tsugi-hou-no-3-seika-no-koukai-wo-houdou-da4d39/opengraph-image?239fa34c8367487c" width="1200" alt="記事"/>
+            <_custom>
+                <hatenaCount>0</hatenaCount>
+                <originalTitle>零次方の3成果の公開を報道</originalTitle>
+                <blogTitle>日本フィジカルAI新聞</blogTitle>
+                <blogLink>https://physicalainews.jp</blogLink>
+                <blogLinkMd5Hash>9c74dcbdf9440dceaff87c8bcc7abb97</blogLinkMd5Hash>
+                <favicon/>
+            </_custom>
+        </item>
+    </channel>
+</rss>
